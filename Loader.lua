@@ -1,1 +1,1222 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _OHOkEPfFPfFY = a; end)); DeqTkIBzHXGSQUxE=_ENV;wAkpqyXaGoIRaAF='r:Ibz-K*;0xwJpdYzgwJ0x*;-0b0:IYQJdo7YbpJwI;0n-dJwd0J*xxJx;*-Klzb:ddppJxp0zK*-wJbxx*J-xb;-*-;bK!ndYpdxw;Y*;z-bIT;*d-Jbw:;YKpzwI0WKdIJK0PwYcJzxI;Ax-x:;dzwbwIK9;p0w:0:,pdYJKxz;IJwxb0-KKbpI0y**b-sIdTJdxJ;dKkbxIzbI0YJpxw;dIp0w;xz-:-wb;:JY;pbxdIbDdpJwx0;wdJ00Y*:-Jbw:bdJw;wb0:*zId:pWJdJ-0bJ:IY8JdvFdwJx0p;pKK-zIK0Yx;-;bK:z-xzzIIYJpp;I--bbz-Iz#JxxJ-0p;Y-wz*::m8pTwb;0*z:Ib::Id-;wxK;:-;zK:bSId**wxAb0:zYzphwX;Jx;;Y-0p0wp0I*}zd*Y*--pbI:^xIx;wb*dYpd:wK0z*IwK;Y*;-pIpdxd-pKx:I:7Fpxw;0KJ*wwxx*bdYJYx;;KKz;J;-*:-:Ip0w;:-zbI:nbIb::pdwp;xp0I*zz*Iw};*0-KbzdxzY-0II0xxxz0bbeId>wddYppJx0Y;zKKYNYxdppYwK;0KJz*bIx:;z-xb;:Kb*bb:JYxJdxw;w*:d*J;xW*d-J;y;*KIb;:*,I*:-0Ix<;dKIbY:J;xpx*-Yz;bJYxdIpK0z;-_wd;JKJJbd*bw-:YbJpwwp0z*I-!*0*:KbOw:-d;J*zbI-YJpxw;p*p*Jzx0*x--Ipxw;0KzzIIuKJz:b:0wx:-zbI:%bxIp:YYKJ0xJzI*zzKI:wxdww0xK*wKNzIJJww;;x;0pII-tb_<:dpJw0Y;I-0YMIIYzpbwwzKKK-*bz:IdwJ;bwI:YzpIwuYdd:xJ0zKYz*:K4Yd0J:x;:wY*pzwI0CJKzYIdy;dKJzYId:p w9:pIbpKwz0IwJxYx:*;zwIdJzYKJ;xbbJKpbwI;YpdIJzzdbdhxIx:YxzpIwI;bKYzpI:+zpw*Ixz*K--bpJ;d;p0wK0zKpzxwp0d*K-zbI*K-*bY=pYeppz*IK_TpdwJd;p0Jb00:-Y;JdxJ;xw;w-0*Kw-zI*)wd;-w-K:zYIp3d*ddxb*;-YbKzKIbQzxpwdK0zxIpbKdIdYxb*d-wK0:JI*%-wb0zKx*p-xb;dbYzKYzJIx-W-;zY:;0sxfbYI;Y;pKwzpKp0J:;Y*0-xIxJzp-J-w_0I-Yzxw0x:*I-1IdKdKbd;#dY0pmx*;Y*:bwIKJYxp---0ZddJJxdddYp*x-;;IxYJYw4KpYJ:0*bXIYbZIhdppzw;0**IzbIYJK0;x&x0*JK-zI:YYY;;;Y0IK;z0IJ{-ddwpb0:JYIp8xdJpp;xw;d*b-zI-!I*YKIb;:KYzzKII>bp:;d;0*xz-J-xK*d-Jbx-J-*zK:pY-d4zYb:};dKJzd-dYJJwP*YKKzxw*00*?zdIJK_zpI0:;Y:pI*::pYxp;pd-tdbpIbJzddwz;xKKKYJ:0&dJp:JwwpQ*z-IbX-xzpbY:Kd0JJKI0zKKz:pxp0dzwp0Y*-fd/p5dYdJwwI0K*--QI:}p0;J00*;z-0bdIRxxJxwYzz*I-IIb+YdpJ:xz*w:Izz:KY-ppK;;;*0-Kbz pdx-ww;0z;*Y0zYpbbp;JIw:zdzJIxjJzJ-x;*JbJbpIz)bdI;Y0I*:-II;x-;z-dbJ:xKIzF:p50*b0*IJMxd;Id:;YKpjw:-KI0V*:pYpdKw;xbKd:;Iw:-Y:0:xz*Y*bzb:JJbd*w-xI**-Jbd:ww-xxxd0-KbzxIdJ*d;w00d*-zYbY2YYw0-w9;b*zzbIYcdx*wxxb;0-dbx:wdwJJ*-0:Kbz0IJJxdKJp0*:*IJpPxd;JwKx00w*Iz-I;wdY1JI0pbKbdz*:x,bd.wp0pIKIpb4qKd*Jxxb;J-wYzI-YbdLw-0x*J&KIK:wxqJdxd*YKwz0:p}5p*KdxM*I-:b0Jzdzp-wI0eK0zKw0wz*I-PId*TIIYJpKwwJ-x--KbbvddwYJx;;b0KbdIzYYZxwwJK**;-b*:FYIJwpw;;Kz*II*JYwb;;KKzz;-K;bYIdYwpwJx00;zYbp;xJ;xK;wI0bKbzzb::FdJJ:xz*wY-p*xd;JKx0X0x*;-I!*tbYO-p-::KYzpIYpYppww;*wKwz*I:YbYIJdxb;K-pz*YxY0pIw/;Y*KI*b;:KYI-YYJJ*K-wp-:w-zw0XIY:kd;JKxzJpJ-w*KY*bzww000*I-uIdK_-IIp:bd0K--K:dYJpxawZ:d0wd0JIdbzbY)xxKxxxw0bK:zzpxpdd-JM0K*-KSJpxx;;KKzzIIx/bpYJ0p*w-Kbz:I-wbbI-;pKwzKIzfIbbIb:Q*p-JbK:zYI:-:JV:p*zwIJczdIJ^d:JIJJ00;b-0p-J*;dKJzx*zK*-0b>}bdK*J;p*wK;bpII6z;d*pzxbsIJIp:-dbJKK-:pYJpKwz0Ip*xY00KYdwJdxz;IK_;*;xKpzJ:*>Ip-w-IYFJdxd;p*z0;JzYKNYYdbw;0K*zx-0-*x-:Ip:JpxJ-xzIb5ppJwx0;wpw-0Y*-K:dJYpYppKwz0:*I-II:Yd*0-Kbz:IYSJdxJddx;z*IzaIdCwd0JwxJp*K:*YJp7xd;JpTwx0-*:b:IKUzdYwYxJ:*YzpI:;Yb*K0;bbz;d*JdxA*d-J*p;x-wb-IKY-J-w-0;KJ--bwx-;J-dbJ:xK;z;:pa;p:JI0:-d-*b:P0YtK:bd:JYxp;wK0zKI;Yb:IJdxJ;xKwK00xK*YIp::d;Jxxzw-0-z:Isb%>xd*0p*K-CKbUYdwp:xKwKKIz;IKIYPddp0wzzIb3bdIwJ0x*;0Y0*;:-dp:JJ;xK;zK*cKb--IJYYdI*;;0**Kzb0:d8a;x*uK**IzwIp5b0J0w0J;J-0zMIzjbpdxY0wIYd*J;x%*d-J*w*J-xI;:bYI*:-bIxZ;dK:z!dd:J:x:Kb-Jp0wY0I*Vzd*0*b-KIY::dwpxxbK*-Y-:w0JJ*I-)IdzY-0b;:YxzJKx00:-Yz0IxYx0zww0d;z--bdZpxKp_xw;dK06;pxFId-wpx9bhKIbwJxdYJww;zI*zzKI:wxdzw*x;**KbzIJJYYp;xx;-*Kz-b:0Y*w-;bK:zzJpbw*;JKxz;*p*b-zIw::dJww0w*wY-pIw IK0wwwxx:zIKJbx,*d-Jbx:;:K-KYI0b**zJIx^;I*I;kKJIpbw9;dK*zzw*x0*ozdIJ-Kz0bw:Id-J;-dKY-pzx:Y,zdK*{KPIJ:I2d.YY*J-x;z*YYYxw;0K*z0d0:;b-xIp: xKw*x-0IK*zJIdw;0d0dx**xKbzk:pYp;K;p0AKKz*Ix&bdJww-p:-Y;JdxJ;xwwww;K-Kz0bI(;pY-w-K:zYIpDd-Jbx:*d;wK0:xYzp:wb0bK;zxIwRx:KJ*xzwv-xbd:;Y*p:w:;J0p*d-0=w:;YI*:*bIxH;dK:;Xxd0p:-J;nK:zI:0wId*xY0YIx-;b;:bYKJ-x:0g-YbJpK(wpwJz0KIJb*b*:-YIw-x-;::Jb?dw00*0-Ib>Udz:}d::Yb0KzIhzYdpJwx0;Jl-zbI:ldYJJxx;;*;zwII/vpdY-0x*;-KzKIzYUJdxJxHK;zKIzI;Yhwd0J*x-dbK:-YIb:xd070Yz;IK zd;J90Y*J-x*x:KYzpIw:;dKJzxbxzYdzJIxoJI-Jbx:;:KdewI0iKdzJIx-pdKdxwx;l-dbJI*Y;p*wzp;*(-IK:Xxd;JKw:;IK:bd:J-bp;wK0z*b-OId4JYJd:xK;zKIK4:dYJpxwJx+*z-Ibgz-dJJwx;0;xpzIIXYdIuwx0;*K*zbd:jddJJxx;;wwzzz;?YpdwJ0x;x-Kb-:Iv*JdwSwYK;zKIz:zdUwY0J*d;pbK:zYIW-xd;pKx-xKYnzdIJhdI*J-xb;bKO;pIw2;dKJzx*poK%xpdx_*d-JKY:;Y*pzdy0_*I;:Ixq;dKY0xI;:-dzdKbY;pKwzpK*jzdIJIxYJJKxz;IKFbd*:YxYdwd0z*I-OKbRJdwJ;lX;zKK*-:dYJpxdp0K*--IzI-*dJJxx;JxKzzIIn:dd;wx0;*K-zbIK-ddYIJ:;;KKzzz:WqpYwJJx*;-xK0:IYTJdJw;xK0zKI;b*duwd0JxY-;b*:zlz:0xd;JKx;JIK_zdIdEwI*J-xb;:KYzI*w8wz*;zxI;,K:0JIx:*dx;bx:JIwpzwI0SxbzJIw3;Y;GpxI;Z-d;8:xY;pKpz0d*<zdIJ&xd;:wxzx;*Jbd:JYxBZwK0-*IKIId:(:YJ;xK;z;xz?:YYJpddp0K*z-IK-qddpJxwxJYKzzII zIpJwx0;0KK;bI:RddJJxxppKKKxI08TpdwJJY*;-*bzbKYZpId:;xK;zK-0#Id:wdxdJb-;bK:zbKp+xd;J;x-JIKozdIJ&0dp:-x-dbbYzpIwyJbKJzwI;bbdzJKp-*d-JbxzpYKp-wIxIw*zJIx.;IxJzxI;Z*d-c:xY;pKwz0IJ-zd-I<Jd;JKxzw*KRbY:Jbzp;wxJ0*I-1Idz:dxJ0xK;;0*zo:dYJ::w;0**z-I;0eddJJxx0;KKzzIbIKbpJwx0;x;-zbI:m4{:-xx;;KK*wIIlupdJd0x*;-*bz-KYBJdxJxxK0zKI-ZId:wdpz*xKxz0:zY-pkwx;JKxz;IK3ddIJ:0d*Y-xb;:KYzdzws;dKJzxI;^;dzJIw&*d-Jbx:0YKpKwIxI*-zJIw(;:wJzxI;m*{0J:xYxpK:z0I*kzdzJI*d;J0xz;IKE*d:JYxddwK0;*I-NId:vdxY;wp;zKKz?bxYJIxw;JK*K-IbzZdbxJxJw;K*z-KI.VIpJdb0;**-zzI:wddp}xx0KKKzKIItQYxwJ0p*;-;bz:bY6d>Y-;xKwzK-whIdewdxd*x-;bx:zbKpOxd;J;x-IIK%;dIJz0dwz-xzxIpYzp;wTJ:KJzxI;UKYYJIxz*dKIbx:;YKpzwx0R*:zJIxN;d;JzxI0--dbY:xY0pKwK0I;IKIIJodd;Jpxz;IK!-dzbYxppwK0**I0pIdkJWKJ;xp;zKIz(I-YJvxw00K*w-Ib:}dY0Jxp;xbKzz0IR-ppJdT0;xKK*bI:*ddp*xxp:KK-KbI1cdKwJYJ*;-KbzbIF;Jdwz;x*MzKKY8IYIp:0J;b-;0::zYIpLJ^x:Kx-IIKzddIJC0d*J0wb;:dYzpJwU0LKJ-xbbEKdwJIxY*dKzbxz;Y*pzw00m;*zJId2;:KJKxI;*-d*;:xIIpKJK0Y*6-KIJzwd;JKxzxI*pbdIzYxd+wKxJ*I*AzbNJYIJ;xd;zKwz,Id:KpxwY0KJx-Ib;_ddJd*x;;wKzz0I(.apJwx0x*K-xbI:vddJpxxx;;pzzI0<odbwJdd*;-K-::IY0JdxJ;xKxzK-z2wdNJ*0J*w-;z0:zIIpzxd0-Kx0xIKzbdIJEJb*JK:b;:YYzpzw>0dxKzxId{K:YJIx**d*J-K:;Yppzw;0jx0zJzx:0dKJwxI;*-dbY:xY;dbwz0w*6zdIJiJd;YKx0;IK0bd:pYxIWwKJz*K-tb*5J:-J;Jp;zKI-*:dPbpxJ:0K*--I-oIwdJp:x;;JKz*pIt:dXbwx0Y*K-wbIKJddJJJ?;;KYzzIIq d:wJJx;J-Kbp:IY:Jdp:;x0;z*Iz<wd1JY0Jp:-;bJ*xYIpxxd;pKxz0IKf-dIJiJY*J-xb;:0YzpIwB0d;Kzxb:UKY;JIxx*d-J-z:;Yppzww0&*ezJbJ-:dKJJxIxn-dbJ:xYdYxwz0x*1d:IJZwd;JKxz;K0-bd:JYxKwwK0-*I*O*KVJYIJ;xJ;z0pz bdIbpxJZ0K*J-I;JOddJJpx;06KzzII/s:pJdxwz*K-dbI::ddMYxxw;*FzzIJjcdYwJw-*;-J0x:IYwJdxd;xK0zKI;yIdSdY0J*x-;bK:zYIp{xdwpKxz;IK_;dIJ70d*J;wb;:KYzpbwT;dKJzx-0/KdzJIxb*d-JbxI;:lpzwJ08;IzJb-(;dKpYxI;;-dzK:xYxpKpzpx*c-*IJ:Qd;>:xzxI;*bdI-Yxd:wKY#*I-/b;2JY-J;xK;zK-z.zdqYpxJb0K*--I;p^d:Jdbx;0:Kz-bI_:ppJJ5Yd*KKDbI:zddJpxx;JKKzz-b>OpdwJ0x*;-Kbz:II:JdxJ;xKJzKIz6Id}dY0J*x-;b*:zYIp?xdwpKxz;IK6*dIJ&0d;J*zb;I:YzdKwQ0xKJzxIJWKdpJIxw*d-dbx:JIwpzwI0W:pzJIwN;Y;VpxI;;-dKd:xY;pKwxwK*9-KIJxpd;J*xz;IKAzI-:Yxp;wKb**I-:IdIJbIJ;xd;zK;z^-0YJYxpY0K*J-Ib;!dz;Jxx;0MKzzJIBYdpJwp0;xK-KbI:xddJpxxdKKK*zbdF+d;wJxw*;;xbz:;-KJdw*;xK;zKI-LIdzwd0Jxw-;bK:zYIpVxd;JKx*0IKszdIJz0d*J-xb;z*YzpIwD;YKJzxI;BK:-JIxD*d-Ybx:;YKdzJJ0j*;zJbd&;Y:JzxI0J-dzz:xvIpKwK0I*z;bIJDxd;*-xz;bK&-dKzYxdnwK0x*I;wIdIJ::J;xd;zKxzg*xYJpxJb0K*d-IbAVddYJxp;0zKzzJIQYYpJXp0;xKKJbI:xddppxxw*KKzx;;i?d0wJ0p*;-*bz:KY?Jdpp;xK;zKIzWIdMwd0Jxw-;bK:zYKpQxd;JKx*0IK#zdIJ:0d*J-xb;z*YzpIw_0:KJzxI;:KYdJIxx*d*hbxIbYKpzw*0%*KzJbzo;d;JzJIpk-dzz:xYppKYw0I;IxKIJ:zd;:-xz;IKibdb0YxdWwK0d*I-:Id:d7IJ;xd;z;Izs:dYJdgwY0K*J-I:b5ddpJxx;;KK;**IhYdpJ0p0;**-zzz-0ddpzxxJJKKzzIIIyYYwJxI*;-dbz:;YPdiwp;x*IzK*peId/wd0J;J-;bd:zYJp1w3;J;x-IIK)pdIJ;0dxp-xzx:*YzppwZJwKJzxI;fKYvJIx0*dK*bx:xYKpxwK0L**zJ>pc;d*Jzxb;9KI*::xY;pK0*0I*:zdbd-bd;JYxzJ*KPbd:J:xY;wK0p*I-0IdIKdxpxwb;zKJz>bbYJpxw;x;*K-Ibw(dbcJxx;;K;z-/Ikm0pJJ-0;*J-zzzIIddp0xxd:KKzzII)QdxwJx-*;Kbbz:IY+Jdw0;x*:zKIz4IdIwdJJwY-;bY:z:bpGdw;J*J0YIKtddIt-0d*J-x-;b:YzpJw_0;KJKzI;:;Y-JIxw*d*xbx:;YKpzww05*xzJbb1;dKJzxI0p-dzK:xHzpKwK0Ixm-lIJ:zd;d*xz0IKq- IYYxdbwKJS*I-#IdIJbIJ;w:;zKpzWb;YJdJJ00K;V-Ib;FddJJxwx0dKzzYIfWbpJwx0;;;KpbI:dddpzxx;;KKzzIz{hd0wJx;*;-;bzIIYpJdwK;x**zKIYhI:{Jp0J;z-;-d:zzbp7pdx{Kx-IIKeKdIOY0d;dxbb;I:YzYdw>;dKJKxzwlKdYJIxw*d*KbxIx2Ypzwd0+xzzJIxC;&KJ0xI;J-dz;:xnIpKpz0K*+-xIJ:Kd;R;xzxI*wbdI;YxdzwKw:*IKIz*_JY*J;dz;zKIzBb{YYpxJK0Kxx-Ibkvd,J:Ix;0zKz-GI8,;pJpxpd*KKIbI:dddPdxxx;Kdzzbc#>dJwJYI*;-KbJ:IYwJdwx;xKxzKbz:xdeJ;0J0J-;z::zYI:Ixd;JKxz0IKBzdIJ-0d*J-xz*:KYzpIwbx7KJzxI;*Jz-IdE0dIwpxd*pbxb0:;Y:dbw;0d-bzwbpx-;0-dbJ:xzwz:I0YdpJKd*z*YzxJ0p;;IKObdKYK-zpIIO^0I0;xbKdCxzzJKp5Jbw-;J-YzII:kzpw*Ixz*K-:dxYIYwJdw*0z*:-:pxd:dzwx0w*d-*zFDYx;p0x*0zK0zdb5J;xK;zb*:KYfJdxJv:J0w;0IT-Uwwd0J*xxw00;K-wzuIIxJpbwwzK*izbb-qJpYJIx:;z-wYdp.%*pwwYz;K0z-b_JQd:J;x0;w-wYzIKY;p*wYzx-pIYd-x-xd-dbJ:xzwz:I0YdpJKd*z*YzxdKIyxIxxwb;KKYzJI0H00I000J*I-bbKfYY;J*K?0:-YzJI:%Kd;*IxI;b-xdx8dd*Jpxd;-KIpYJ:0;*K-z*x;zKIbJY:dppxz*I0Q%pdwJppd*Jzx;**-dzIxY;dK;zKIzK0z:IwD:*p0 bK:zYIb;II6cpxwwKNbb::bIYYYb;;0Y*YK;bxI-Yod:wp;p*;z*b:fdYIJ:x;;JIzb*I:Yp0pw-;d*b-0b0:-Yb;pxz*wKzzI:xJ:ppxY0-*;:*bJ:xY;KbzK:JYxp;Yx_0dzw:xI*--0bKx0;dKIz2:dK;z0:0Yxd*JKxI**-xb:xw;JKzzII%zJzwId&:pJJpbb:EddJJxx;;KK-;KIabdbwJ0x*;xx0p;K-JbbxJx;K;zKIzVI:Kwd0J*x-;bK:zYIYgw-;JKxz;IKBzdbJy0d*p-xb0:KY-pIwC;dKJK-I;PKdzJzxf;q-JbxIIYKp-wI0IKdzJIx+dYJJzxI;.KKbJ:wY;p*wz0Kx-zdIJvxY%JKx-;IKz*b:JYxp;pB0z*b-jz.--dxJ0xK;;KIzu:d2dIKw;0;*z--b)<ddJJxwI;KK-zIIIYdppwx0;;J-zbb:(Y:JJxx;;;KK:II+:pdwp0x;--Kbz:JY1p:xJ;xK;z0IzbIddwd0Y*xK*bK:KYI5owK;JKpz;Id2zd*J+JdJ:-xbw:KYYpIwd;dKJxdI;k*dzJ-x}*Y-JzJbIYKp-wI0JKdzJIx:xddJzxz;aK*bJ:xY;YKJ-0I*IzdId9xdYJKwK0xKtzI:J,zp;wK0z*IK:IdRddxJJxK;zKIz6bwYJpww;0K*z-zbPldIwJxx0;KK-zII:YddXdY0;*K-zzY:FdYJJwJp:KKz-IIezpdwJ0x;xwKbz:zYApzxJ;xK;zK**7Id:wd0d*x-0bK:zbzpCxd;JKwz;IK%zdIJ30d*JKbb;:KYzp-wK;dKJzx*K*--;Iw_KY*-YbY:;YKpzGKY0dIw;;Y10dKJzxI;.-dbJIdb;p0p:0I*czd0z*d-JbK:*wJ;YKp;NKbzw:0 bdzwz-J*b-:Y*:;J;w0*-*bz<-b::d)w;--zwSddJJxdwY-pzxw;-KIYJ:dF:d0w*x:;I-IdJ:bYKpJxp0KK-YdI;VbdKJ:--:-Y0JdxJ;xwww:00KdzJpddzdYwxb0IlYIpRxdYYJYwJ;0*tzwb=kWdwwwxx*xY*p0w&;dKJ;p0**z-;I*CdYI-YzI:;YKpzYK%-dnxp0d*:--bIxI;w-dbJ:xcxIzwz0I*A--IJ!xd;p;J_;IK:bdIGYxp;wK0z;d-TIdMJdJJ;x*;zKIzw:dYJpxw;0K*z-I-c:xdJJxx;;KKzzbI!YdY*wx0x*K-zbI:bddYJw9;;K;zzIzi3dzwJJxwp-KbK:IY;Jdw:;x0;;wIzOzdTJ*0J*p-;bKzzYIp+xd;dKxz0IKgzIzJG0d*J-wb;:KYzpIwX;dKJ-0I;9KdzJbxo*d-Jbx:;YKd;YI0b*;zJIx9;-Ibb)bdzp:wL;JK:zz:w0-*KzdIJ(xbKb-:;dwJKw*:Y:0p;wK0zJ-wwxb*;-Kd;ddY0JzK10x:JIp:wy;ppJIxzId:pdx:xYwpIKI;K-Yz-IKYppx-*b*:mddJJYdY:pxwg;*vbdIwJ0x*;Jp0-;z-dp:wd;xK;zK0xKbzJI*B(pwJJ0w-;-*bKeYl:pKwJ*:K0-wJbx**J-xb;K0-Yz*:JYx;J0I0pK;d*d*xa*d-J;p;bKwzu:dwmwKJ:;JI;KIdzddd:pbxx*pKibYIIY00XJI0zKYq;b0H*YzJ0xd0k:xP0dzJIx)-bbIEJdxJ;Tpd-JYx-I:bbpxw;0KpJJKxz*d-Yuzp*w-pKxb0*IJzbIb.JpdJ00z;-K:b::Jdwp-wI0KK-zJbNJ;pwJ-x:z:-0bI:*Ypppw00*b:zJIp7;d0JzK-;:-bb0:Jwwp.xdI0_wdIJy0dJzJdxJ;Kbwb*Iz0:00zxI;LKb*I-:Id*JJxdb;I*Yz:wDb;dw;;w*p-zI*jxd0JJxbzK:;zYIbP*07w:;p*;#;I0:MY:pbxbbJKdzn:Y5*0Ix-**IpdpJYxK;zKI;b;pKxzd:pWzd;--b; ddJJxdJYwpKxb0zK*zwI;0;0z-zbI:6ddhIxx;;KKzzII4%pdpJ0J*;-Kbz:IYtp-xJ;x*zzKI-hId:wd0J*x-;bd:zYIpnw6;JKJz;IK#JdIJ:0d*d-xb;:KYxd-wO;dKJ-II;S*dzJbx,;I0:bx:;YKpJwI0:Kd-Z-Y1;dKJzwJ;6-YbJIJz:pKw-0I*KzdIJvxYx:Ixz;zK/z*:JYxp;wKxp*I-:IdoddxJ0xK;zK;zN:YYJppw;0K*z*IbxuddpJxx0;KK*zIIm&dpJwp0;*K-zb-:V:ddzxx;wKKz0IIZ;pddJx;*;-0bzIVY6pwxJwxxpzKI*NIdYwd0p*x-;0x:zYbpfw:;JKwz;b;IgdIJ:0d*d-xb;:K>Kdzw^0TKJ-zI;(KdzdIww*d-dbx:xYKdPwIxI*bzJId+;Y:JzxI;t-dzI:xYxpKw;0I*QzdIJ:bd;J*xz;IKmz&:JYx:*wK0-*I-:IdWpdxJJpw;zKIz_bwYJpww;x;wp-Ib:_dYIJxx;;K*KxII<B>pJwd0;*K-zbIKbddJpxx;xKKz-IISXIPwJ0x*;-*bz:IY1JdxJ;xK;--IzGId_J:xK*x-;bK;tK:b::IYYpdwx;Y*Iz0JbxI*J-xb;;p--zz:d0:*dzxI;vK-xIboJd*JS0w;J-w:;:*YKJYJ:0K*Jb:I0:w;bK*bJ:xY;I0:Yj*pJwxzJ-I-pI;x*;0KAbd:JzIzJIxEzw0w-xIqYYIJ;xK;zxKw-06-pzdI:D-dI-bb5%ddJJxx;;K*;;IIbbKpJwx0;pdJ;xK; K:_Kp0w*p;x-00Idz-I-9ddeJw0K;*Kbbb:ddpp*wz0;K*zdbIJxppJ*xbzb-wbz:0YYpYww00bb-8I0o-dbwwK*;b--bw:dwpp;w00z#0dxJIx.*dxxx0;J-YbxIw0bxIzJIxW;b0IY:*dJJx-JKIKpb;pzWd0h0x;p*Y-KI0UJdwJdx-bJKdzP:wwzwbwd0**0zYd;d*d;p;x-;J*)zYIxYwd**Ixb*:-dbb:;Yx0I*,zdN:5*wx0;*Kx*0-;I-*bJ:dx;JYw*zIKJbYb:E;pwwd0p;u-*YxJJfbp*wwzzK-z:IJwJppJzx-;*-*Y?IIYzpbwwzK-0Iwd:x:;b-xb;:Kb*z::d4Ip:w;0JA0d0JIx7*dwAxb;JKIb0w-wdKdzJIx-w-:b0#ddJ*d;z;Y-xYKbPwIw:wJ0-**zpdKd-dKpKxb;xKdzpI;Y0d-*Gx:KY-Jb::KY;;IwI0bKxYx:dY*ppwd0-*IdYJdx;;KKzx0;:Kwz:wxwK*K-zbI:,IzJJxx;;KKzzIIj_Ydp(0x*;-Kbz:IYbJdxJ0dK;z*IzCbd7wd0J*x*.bK:zYIpIxd;dKxz;b0.zdbJ&xR*J-xb;:JLhpIw7;d*zzxI0SKd-JIxzwb-Jbx:;Ydpzwb0R*I;:Ix!;dKpdxI;:-dzdKbY;p*wz0z*7zdIJ:JbzJKxK;IKxbd:JYxp;w;0z*b-!b6WJdwJ;xK0JKIz::dYYpxw;0K0zK*bX!YdJJwx;;YKzzIb0YdpYwx0;*K-*bIz5Y*JJxp;;*bzzIKXm^dJz0x*w-Kz4:IYwJdpJJYK;z0Iz>;d9J-0J*xwJbK:-YIpbxd;pKx-xb:3zdbJH0Y*J-xb;I;Y-pIwI;d*wzxI;uK_zJ0xv; -JbJ:;YwpzJzxtKd-NIx:EdKJzxI;/*-bJ:JY;pxwz0I*Wzdz*_xd0JKxz;IKIbd:Jb0p;w*0z*b-2IY_JddYpxK;zKI-p:dYppxJxpY*z-bbA:#dJJxx;0;JzzIIIYddxwx0;*K-z;-:{dYJJxJ;;K*zzIIzIpdwJ0x*0-Kbz:IYiJdxJ;x**zKIzeIdbJ;0J*x-;xI;b-bbzI:S=pJw:0zKwd-J00d*J-x;w;:K0bd:JxdwzwY;x 0dwJIx=*dxzxd;JKK:w:*(z*:-6Ix#;dKbwlbYIJJbY-KY;pKwzYxdzJI0J*pIIY-pbYzJ:w-zxK:z:IxYJd*wIxb*YzYbxu0Ybp6wz;bKxzddKY0dbwY-Y**-Rb-:wYwp*w-zYK}bpI;3JdwJ:0d;--wYw:*d0JYwI-:Kbz::Y0p;3-Kbz:Ibzzb:ddwpJxY0b*(dbdb0J*x-;;0*YK*bJ:xxJwIwp;;Iz-dd+dxppJYxK*0-Jbw:dY-;Jwd0#Kwazb-FbY_J-xx;J:KAKdgwd0JzYb:4;dKJzd-dYJJwV*YKKzxw*0;*>zdIJ-;-*bxVpd;p0bY:JYxp;wK0z*IKzKdGYdYJ;xK;zwKx00IK;bYww0x*z-IbA*-zpb*=p;00:zIITYdIY:p_xpYJzxKbUIGdJ:bYw;Kw{;b*-zJ:YcId:Jz0wbd:jz*:wYY;;x0;-*3BvI:X;d0Jw0wbzKKb;:*YY;x0pKYI-d-pY0d*J-x;w;:K0bd:JxdwzwY;xIKKRdIYbd:Jdxb;;KxYzdzw^d,J:0;I;zJI-ZwdJJbx,:p>xpKwz0IdKxY0;*bzJI*:;d*xzxb;I-wzpIIn;wpw-x*)Jy*J;xK;zKIKx:dYJpxw;0K*z-I-8:JdJJxx;;KKz-:INYddpwx00*K--bI:DddJJwY;;KKzzIzcOdHwJ0x;f-Kb-:IYIJdxJ;xKd-/IzaId>p*0J*w-;b*:zYKy-xd;JKxK:IKH-dIpId**J-wb;:xYzpIwfxvw;zxIx?KdwJIxc*d-JbY:;Y*pzwz0.KYzJIx:bdKJ-xI;b-dbJ:x:;dwwz0b*azYIJ:bd;JKx;;IKbbd:JYxpwwKJz*Y-9b:NJY-J;x;;z0Izp:dYYpxJD0K;:-IK!-bdJJpx;;JKzzJIkYdz,wx00*K-*bI::ddpdwI;;K*zzIb#jpdwJxJ;d-KbK:IYJJdxJ;x;;-;Iz)zdfJW0J*p-;z;IYYIpzxd0:Kxz;IKBzYbJ xh*J-db;:KYzpIJw;dKpzxI;MKdKJIxWwp-Jbw:;Y*pzwb0!*I;:Ix^;dKdexI;:-dzdKbY;p*wz0K*qzdIJ:Jz;JKxK;IKdbd:JYxp;400z*b-nb3EJdwJ;xKJKKIzN:dYppxw;0K*z-Ib!yd';Zq_gAuhRGiJVAEYsF='x6 91cY.u,?8S7<i61?,c?i7,S9?,Y.Y .S c,ES?918<S1u96,V917Y.u6ci?,i9c7cu 7uS<9.d??i1c<c, <u7Y1.6?8iccic? iu7Sc. ?SiYc!c8 wuO1Y.9?7i.c6cS 6u3Q..1?<iuc c7  uT8u.c?ii,c9c< 9u6i,,9p71.86c88Y99Y78.6668<61i?.cR?8.u? iScYc6 YucuS,?,17?7u86<S6YYR6c<118<c,ii,S ?6y876wiY.69??918i.7cYuf88l18?uu<Fu,<uu6u8c6Yi,?u15,<uc<.,1.<7?.8  i9YSM <S1.<u8S998<?1c6?1u?pcS<9.7i.yc.76c<97?1c <i,. 8S,.u6u88Yc+ ,h.< 98,c,%YcS1<87uY<iS8 u698 6Yicc.m1<<18i68<9YS,u} 68Y?di8S<. 69. Yui<,71u,Su9i7u?Y,79.uY 87c<F6,89,<Y7^99ii?16,? ,8 <76.Y66Y<c1S<Y11<??.8ic.<Y66l?uPY<71iiS<Y19<.u, Y71Y?c1?iu6 9,S Y%S8,^Si Y79Y,i1.7u8i9,SY?cMS87cYiu,996<6u. cS.Y7iu<Yu8 6S6Y<S1?u c<<c.99,/.86?.<c78iYScY8uu.iYui11<..SYYS1Y,mc,YuS  S6YSS)?. 6?<u7i.,SuY<6u9 78ic7o?i1cc 1,1YcSY81c,<iui9S, .,i9u89 79. 6,? u7 Suu.u68S 6-_rui987cu< 1S9Y<S 8 16<7u.&,,<uu<9.1c8KY,<iS<9uS9cS,YiE<Y?c689Y cz861Y7uS<Y1o9?<_ <,Y9iySi9Y7<Su 1icY7O6,i1S9Y,69,71.?yuiY,89676.<71889c7 Y76.81c9<1SiY<S?8?c7=1c 1 76.76.7BYYAc8mp1i1u9 iS,18<fS? c8Y,71u<*9< cS<..38Yu1iS,cY9c,i11 <u8 SS<Y.#c8 ,Si8,iYi<NY<c1Si,uH6?,9? uS7Y9!98%VY<7Y.:6?c1}<1u?6YX6?QiS<Sui9Yu1.1m9?i1,R ,u9.< 9Y Y8cY6i8.76 iSc.<u<11,61ScY/i.??16<,u?<YS< 86!8c18<8,u<<7c1i<1S< uS8cS1?<iuc c7  u6*S6cSi9?Y97<cuY7?S/ Ya1Y81,S9u7ic73 <  8.Yu:8??1u,SuSi?7c.,Nu.m1i8,, iS7.16<Y75 ?S7Y.1ci^uu<Y7i. 6c8?cc8 ?u1u<7.i7SS YiS 8Qcc<8u89uu<.<<i8u6<Su8 RS?i1, 8S? <6Yu. ,8duS4.,Y9i SS Y6XSYw11iYu8 ,7c S698<cY81? 1.77.7 ?utY.<68?6Y<S?c1 7c9?6u.< u6 YSbi?,189X7cY8e88u{<icYi9u,<.7<9ScY1St8# 6S91? Y,<9o 18?c,H1cu9i8,u1<<81cS64S6c<!1,_9c,?.,7i87YYbi?91,<u1191?c1.S<?? 981?u9<77uu7SS997h.S  9??uYiS,h.c6<S.c8^6?riS<Sc7iiuYY 7<YSYNiY,c14,1u 698ic,78?Yc.i u,9S79.86S.uc.S#,?N6<Su69 7c.16 YYc.8 Y1i?7<.8 Ju Y.SY?_h?<c18 ,71YSS?86c?}9,.977S9u u,,98S ,<6u?u,S9 76.S7v8.96H ,99i7,u9 S7cY,Xi?<%?i?Y8b7,1.n<Y.?Y<W1?91<? u,}971Yc66?818iYcS1??Y.S9c7 YcS??ud<8u? iS,i9,78.7c979,i1?< 1J <79Y,g,8Y2Si Y79Y,S1Y9%u?91S.?Y97<uu9McSi S698<cY81,81Y7<9S 9S<YYS1?8cY<<1S997<.Y7188Y1&7?61.<Y1  ,u89? uu,6<8+?Y9S78uY7?S698Su?.668Y?_iSS<. 7,.. 1y<Y76689uU<}7,YS#i811i?S, XS? uS<u87 <8S,i1<<Y11 8u79? 1uN 1Su,,6 ?u, <7,K997,Y11?i.1?9o?8.177uc6Yi7..V1<91?ic,79i76Yi67SyY vc?,9Y 1S,ciii?SD i<Y9 S,c.6S<8,cu8S,8i7??,1i ,99,7uYi YS.cS1Y? 196Y8.6uy<?119<<1  ,?99R%i..6<^uY.9,,i97<?71ci= .?21i ,. 7S7.?7&8.96S?Y<m7899< ,Su 1618.c<?S,S 87..6 ?SPci^?c<1<77u, 9?c9? 1.i6Ni1.6iu711<6u,YcS79.c6S<1c8i7,iYS<9uc Yi1Y8Q78c.Si9,19iz1u9 1<?Y6E ?c. <,u89>i?.u61<Bc<LwSY977<uY1<ScYu},7Y17<i,Yc<7c.u6u<YYczYSS19<1u.c1S?,u617Sc9ic,8Y178.7 1<SY9tc??.1<8uS99iS.96c8Yu1i8,S16{SuYcCSi.69Y?71<i18<9777?16887Y  S?81S6 ,_ 8iuYi6+8Yu;iS,iYY77.i Y<<YcmY?8.Yi9,9cS79.c68<1c? u?1YS<9uc 8i1Y8*781.Si9,c9?#1.86SS9uSf9?c1Y61u8 S76,S6c<lc.i,,iYu7iu6 ,iVYi6g7Y17<<, c<7c..6?<YYci<SS19<cu.c1S8Y<G<7Sc9i1,SY1<9u61?S6Y CY7 1u6Y, c?76.96,< c,i8? Y?<6u9 ui Y,W?86.?i6,991/ .,6?8iu?h1S<17<<81 8S<Yi9S89cciSS1987S.i1SSuY89 ?,18<S8?9679.,1 8,c8iSS?1u< 82 .SuY?9u8cc,6<,c9Y78?Y6S<?Yc <?c1.<<8Y9c7c,S688Su i,,?11=?u6  Sc, %<7Ycci.8S997c..1188c7i<SS18<78 9676,u>i86cu O,<97ZY.76<S1u<NS?7.1i6u7c?76.96S< YjiiSu9i< u9cHS.Y,667u1<6S,.Yv7.., d<uY.H.S<17<<81 8SS.Y9S89c1i.S11Uou.i 5S.,Ed.?,1?6uui967.?06.8uc8 u,i16<Y8O .S,.r9u?ic6iuS39.7,.?1u8iYw2u7R17<u8Y 77U.69<8Sc8 1?616H?u6  S8, P7,Sc. 9S<YYS1?8c1i7,69.7Y9 6,.8 ?6u.,P<?N,Y SS8.YS?86 88u,.ii?Y,5<8uS9cS,Y.61i<u8 S?9 <6SS6c.i.?1i?<6c8iY,u9S7?.7(?ic,1ia<du9 ?.uYui.?997iYuS 87Y ?6??,cc<i.6BYi=187S8i976Y89c1i7,. <79u <78,Y1iSc?16<?,9 .u1Y8<c. c68uY-1?7u9i77u?.1ii? 6c811Y S?..U7,u66 b:?c9878uu7<Sc9i7Y.Y6888Y9<<7,.u71S1Y.p<cS1S78u. 67?.w5i8?^<i<u79,79cc<?71 iS&?< 6?<,Y9,<G <6S.8ccC1,Si?78Y9B<8u 16c8?M?iuY,9c<L.u7Y87Yuloc<1cimuu<YS7.Y6i896Qi..6i<7711<S7YY97.Y7v88u?  771116..1c?7c,<e.?i1;9,SSYi61?i+Si YS^ <S1ui6, 6Sii?<1Y?1u8<7,?u1<6uu ,i,. Kui 17 6,9YuS1??c.??,3587197<c.Yc77.Y119?7c9i1,Y9<79.6  SYY9k,?Y9u YS8Y6M6?<=1dRYc <,..97f88c?8<,7ii?S,Yi1, 9u7<.6 uS,c<1u?111<uuS6?6l?Y1ciU11 8?c9 66.u kL?YY/??i19<6u<.uCc.Y6<8?1?9u77.969SL6Yi7..66?icYi,,8 Y668#{SiS,i1Y,1u1698ic,6 ?u1.i 1Y9YSc.628u7  fSY.iu<Yc, cSc.YA??8cY-*1S i7<.Y7187c7&<? 19<<,u<Sui19%i8?c 8p,.1=<,.7 9S 6<VcY.6Y}1Yci?uSu 6u8.Y 8Y,76.?1u9<7, .S-..?6986c<1u?11c6u8?6?nu?719<9,!<YS71.7iuY *SYY7iY<6uB7SSSYi6YY1c1<9ui ,< .u6.S 6YGY,c1678c7i 7S9.Su8< ,R6?11177u16i,cY6yS?13 <,, 98Si S69u76?i,Y9=ui 1<ic,9 8S,.YY4<8ci#c?69 6u,9cSScY7i<<S,6 .S..1S?86 8S,Y.a8?,1i7?ScY1Sj8Ec9i?1u9uS..9K7SYcSi8?Yi?<?., c8i167YS568?S,1;7<7,6i687YuXHc<1ciMuu<YS7.u6&Y<ccy4,uiY77uu !.<Yc7iYS188 Y9P6?Y9,7.uc ?S<Y769,<uc9}Su Y  . 1<8.Y89<<9.,6,SY6St .7c7o6Y6 <7,.<S<8c iS1?<Qu?Y1S9YSYYuS1??c.??,u9779.9 }.YYY7.? VS< .9 S?,.S66,.Y68u,.i786.S6cS6c8778W6i<?u99uS,186cu7c,^1,Si?<uu7 9S9.bSY?<cii?,61178u9 1.uY?S1?9s,i1u,9?77.S6?Y<c1<7,,9989.i ?S  wT<891,<,,Y<S< 177?8?Y8AY,7cr<.ui9quSYu718<6ci?,i9c7cu 7uS, uqS.76 iScYi,,Y9S Yu6  81? 1.77.7 ?u&YY<6S6Y9*.cu1,<79< i79.cyY?816<6u<<17 1c7..SYYSkY9i1< u.6787Y?SC?. 68Y?Gi?,7 <6SS6c.i.?1i?iYc8  u .8V<86cYi61<11<1u,68.uc<m8c<1177c19<,u97g,?,cYSr,?1Y7 u,91Suci_uYSc?81uiiu,Y.Y .S c,2S?918<S1u<8S,196..cc6?<? 9.<uu8 ?Su6Sb9Y76 iScYi,u?.66S81688Scio67.c,<YSY..6 ?,cSi9,89S,u98 J,9Y1ScYScY8Fc9<17uY76<S6Y=i<c 1{,Y.7 uSq .SuY817<S1u9Y?,187uu YSSY,<P9i0uY c7= 16 ucIS?<,Sr7? uS<Yuu ?8S?fc <.uc96uuYi6?8 6-i.? 9?,uuY 8S6Y6T<Y1c Sc171qu<u.6?87Y i7c?168?uS<7,1.<7u.8hSi ,ii 7u.6<u7  S7>,797i u9Kc739?61SR1SX9?<1 7,u <Y71 <M,. 6bit?69S79uY67ScYYS Yc1987,6<iS8 u6S86Y Fc?11 ,Y.7<.uS.Y7s.9g1<8,Y <,c9Y7,.8Y 79?YHc?S,YiI,9 10i?<C?i?c9HL<?11<u,c9.SS8Y6_8 119?7;Yi6?Y<c<SiY11<?u1?7SS1 <6Y8 ctS<?9 68,.87?8uc6Su8 KS?i.7<<uS.Y7). 618Y,1 7?1u<<uu7c,i,?19781,<iu,SY,^,ulY?S1YY9c7.u89;uH9 6S.Y6u89cYi<<u19<1.i 9S ?&9,84,?i1,,YcVc8q1,SQ??B1?u.c6cuS.Y7h.916<9,.9SuS9< uu  18iY9c1?c19ia7?9c7Y.u698cc.28<Sc66uu9.17.?91<<Y11 87YY<SSSyccvY?,1u<Y9?  uScc;?,8 7i<.i1c<99u6Y?i Y6}Y?L7781, .7 Y?76ucYY8Y?1i??c18<1.S <Si,.c,i9uS( 81YY7uS8c?87cY1188c79cSS9S7,ug ,89,u1,,Mc9 v,%9,S9cS6i<Su6<7?.u9<1?Y 68?.S 8?.1,<879 i7???1?<S.ii9<9cui68?18S.?11 ?c9<f?u89<Si? T?Q.c.9u<,Y<6S8 .c<Yuu ?7?u?6U7iu6SS,u6,8S?T9N,u.1<cu. m7SY11S?u, iY7?.uiS?<Y i Y86Yicc696Si1MiiSc678..9i <8c8qiu9 7e7.669?1Y8i6<R9c<u.V1Si?Y.1.<fcY 7SYYu69?<ciS1u9i.<..u<c,. ,gX,9o.8uY9Kc?. u6w.cc17???}<<7. <8?Ycc7?871?i7. 1c?Ycu .8<Y8S.?ik1i9.u)<8,9c_g. cY8Yc19u<,ui6Nu c,SY?1c8<u.< S, u6XYuucY8 Y<6.8 .67SSY ,S 8W .i1u6<S?u.Si9,cc.p1,6117c,8<8u<9_ 9S61Y8.Y6 S?6,6qi,8 7Su.69,78uS6i,8976?u6cu7?u7iu769S<.u,Y?D??Sc.<1YYiu7YYS 98NYiS1? 1?7.1 998DciS?u7c?S6?69iS3c,i88Y.c<?.S)<icu k18YYu<?uS9<a7, 1n8Y,c YS<.87.?<Y687cu .,S.S<.79.6Scuu1ui,,i X,6 ?7cS,1?8Su<j.7 18  .<YYZ<u<c7i1,Y<S7?Y, uucYc7,?Ba8<11P96u1YjSuu1c18.?8}9<91M iu1Y S..?1uS<.79.,9.8<78YciC8u7 i81.?iu78.6S<8cc_<1,1i.7u.u77,CY_i6?19cS?., ?uic <1u7 iiS.9Vc<c1,<1u7YYi..S 6<N.S97uS9i6uS76166,<cc<8,,A?,.1< 6. 16i 1<E?,S.?6G?ic6S7uu66?8uS S<9c17c,ucui??iiY,u189..<.879?Sc77 ,Y Y71c?WSu<6Y7,,61uicY796?c.7i,,1cu8.,? ,<H.t<6S^Y1SiY&c,?7.79i7YY9<i8Y 9a9Y.6 iccY 7Si1S69YYcu89u99786cS96?lc 6cuY1Y??186<ui.:61?Y 908?,O<7SY i8S  iMi??1?<<1uq1,ccu6S.S61ih?,1Y87,, SS? 1<.S9cW8c?u ?,S9<R)?ic6S7?1c.i6.897,,Y1<6..1.iu?897?,.6<u7,YSS Y1c7i1,,ic8u.YipS9Y77 Y81 ?iui96781RN<8GY9i7Y6 S?c.< c8199o??S1uiHuS6 7Y1Y<i.?Y,<<Y._ ?11Y 18?.6I??S9 71, 9Y7Y9S6?79 66c?11Y?_u?<1,..1i7YS6.iuu,1i7c16677.Y?68,,6<<Sc,B1861uL.. Y97.?i01?7uYi6,9.WSi8169S7Yii,7?c<<., c6iY?7 ?i7,ii.? Y1_Y8YcYi<?96.<i,6 8S79667?S3Y-9,Y<S<c9,<9.7ccWE?,iSSu1?<88<. 7 ?16Y<cu?i8i61Zi,7c 78<,i1?8c.-i<S6Y9 c8,Y,7c,Siu?8uu6cu, 8%??Sc.S1YYPu7YcST<,/9 S8.Y9u<Yc999,.9,78?9Yci ? 1i?.1 66S1Y768YSm177c69r<.9u7?.S9<K , j18Y9<i?S?.ESYYucYiiuc66S,Y8<;86Y 8S?YG,SS,O6fuuu67cS,1?79?8R/Si,c  S,Yi6,.<6Ki.1?197116 ,?8Y 7,.1l7<1186,8<YSi u16Y8.u?6S7S1.6 u8..Si.?M98<,76 S61Y67S.9981Y.;676uu 1ugc,60,7 ,881Si.7u9 6S,W.9iS,Y9u??c9icuYY?6YS96i<..i 8?dYiiY79cci.uSqS<DY,<??79.6u,9 <SC,<ccSYu?i?S?c< 6u 16i ?c9i<,u8<.S.YYS7?Y6689uS S<9117c,ucui??>c6<Fu,<cu.Yu!?,<978 ,,BY?ic? 6u7 .7,,6p77c18 u789.<,8  78..817,19Y /u9 cS.8869i91Y9i7Y1Y618Y S7<cS1.,?u8 78.1968,76,:6?6977S.?7<u&c 6c8.i<??u<<7,#9 6,819u<?c m<7S.<<1,Ycc7???c}<S1ug1?7.?6SS79c!c?196,S1u<+S? 76c8R68l.,1 ?<6u8<.?ic6f8,cc.7,,8<i8iuc77Y< 6S9.c9a?,uYi77cYS<?u<BYS ,YiY?uY?<S.<Yc< ,1{Y<7c?iS?<.76.8Y19i??.6S,71P yu1YuSiu8c6isY.91u?.17.S8cu8<?79 ?1,.<i8..67c?Sci<1u9 uS.u7k8unYiS1,99c?S1 j7SN1,6 .c i7?u9Z<?.. X1?Y u<?u99<icu<i178.Y6i8<Y9S+ui 8?7,c uu8.iSYYu1e8cYui,SS97p8S!c1Sc.u9?? 1<<i,  ?+Y..Y <S.cUG?,c8<7u?..A<.7 .8,?ci1?i9,i9.7Y CaY1c.8uuYWSuY i76ucYY8Y?1i??u1S<1.S9,<,.? <SuccViS9Y6d7?Z9=y7uu6?SuY<iu8fc <Y?c YU9u61.,i16<<Si1Yi9u9 c7i..67?11S7,,.9<7 .117,Sci69?91?7?.6 ,S1.?6i8SY7i8S19Y< . h88<17i<,6Y9<Uui <7Guck6S8YY6c?u ,<9,. 170Y9 c8Yci78uS9S77.86u8Sc1^i,S1 7Su 9YSiYS6}SM1YT1?Y c<?,998STY1U1?u9ciu,i16i7Y< I79c/ii,19Y7S?76Si7.u618SYcF.,S11S<.d6?SYc?o<8i.8ia,u9 <,Y<DuS c/5,?Yc6<cuu078<YY6,8Yu67,?6 S<,.8 087Yu<,?<1>iA,.97S1Yi  ?Yc<i ,Y1Y< uu ??8Y<ZS889SiiS6Y97Su7Z??YY QY?11Y<?,.9 7..16 ?icSiK,(1.<1u 6=8YYc66? 1.7..< 179Y16<<.1<iYu91u7 Y, .?7Y<988196< S9917,Y?XSSSY b??Y9?<c,c <89.8k??uc?77S, 6<,uu>.79Yh6.?8c1iY,YY67c..6Q8<.,pluc1Y<c8c6S7-..ouSc1S<<,?1:7 .<997cY7i1u8 7<S?61978Yi ,Scc?),?. <<Y? 618<176_?Y18iiui9i7uu7 r?.Y7i7,Y9<i6u,pi78c<6Y8Yc? c,?1i< .8kcS9c1i<? 9<<1?9ci77.Yi88?1? 8?Y c7i.7 u7..,6.8(ci7Y,? <7cY<67?<c?iiu,1uS9uu Yi7.i .?uYc77,111S<u  YSc.8698c1179u1917YY.6,S,1.iu,?17S,Y8G98?YYwY8i1Y<u?8678iuc 0S1Y9i1?<1?iU,1 878c. 98.c?Hi?,98< uu1S7cY JS811i<?u?Y9<6.S6.SRcuWi?11i7<,9c,78.161S611i<,h <SSu  68Y1,66?U iD6.<1cFc?96<8?Yc<Su9cc7 u6 ?7mY<t,771?K6?,9?7<u 998cc1l??c9?<c,,c8SYY169?Sc?icS,9Ai9uu9681Y.F?? Y6iY,i Y7?u86 811S<<Si9?<uu99.? 18<7?6.16,?i1iiSc 9,891&<.S  S<i8Y1?iS,S 1?i..78.?c?t8?Y97iDu. i7A SSi81c,<iui9S, u4< SY9.+ YSc,i1.S9u?7u1ii, 6SiuY 9c<7.r YS1Y<WY,9 68{,*167S.9 Y87Yc3YY 16??u1<8Su <y7. ch8?,ci 7cu16S.?YPS.YS1.?Su8i1Si9c7.8cYUiuciEJ<>,6 SS9.Y!78ccY8 ,=i?7c98678S6ulY.?11?<Y<6<7c1,69,89i7 c 1u7<.7 u.S.+Cc8Yc,iu,Y<?76 <6cSKcu8Y?16.<u1, Y,(Y968,<c1i ,S91S691 1,c  o?Y,1Y8Mu79?79u6i6, 1,FSc7i87<1ua8?Y176c?,1?76. <S7..Y7?S 68i<Yu1 <%Yu(SSc.ciz8.6cSS,YJP8u.,G?S,Y7ic8ucS?1,?9WSi.?S<S c.Bu?81?<u9S 9uuYYSS?8:u<8,?9 ,U..<#88 6SY?6BY<11  c71YSS?866?icc8i778u1 7S66<6 ?.cui8,?9uuS. 7T8.Y i?cu1S<6, 9c71. SY?St?i6,S91,<.? 8SYc76P?.1iiO1S 8,1Y<7c8.cY8 ?k617<1u67Si. i9,<9Si.,6<S< .u6.S 6Ya?,icmi9, 9wu1Y?Su?ic?i c*9<86u <9SN ?i78c9u<<uS9YS<c8S<8< i8S?1: <h1?6uSc.9688,9?ic,ci.,c.u< 8898=Y,76i<Yu?99uY.66M.1cS8c,uA S uc61Sb116.u<1i?iY19{,?.. c,c9<<i.S <i19<91S?Y,61YucSi6? 1c<1u 7Y876?w6??c9<.119uS7.< 6Skc<8 ,,i<771  Au?Y1S8.Q188/uiiu799,788,Y1iSc?1<<9,19.7Y.1Su?<61i cu9.?A.8<688Y?e Yl1.?Su8i1S<9c7?816?i,cY9,<uu/7<Sc <B,YY1,iu,;<<71987788YYi<Ycc_<c,Y9,7u.YS?8? ,ic?29u,i1)<9ucY?:i?c1ci 1u1176187u8,c,s?,<9i<?,1<,76.YS<?<cii?,61178u9 1u* 9O<?9c1i.,Y91uuY,i6,S1Y8 ,,117S19i.S?Yivc?cc ?u,?L,719<2YScYui,?9 <<7.,< 79.uSu8v6?ii?c198?u#67ScY97,?Sc6<.u.91u?.u<88Y E<,.89S8S.6 k8.177i8 c.<7u79?,juSi68S Y<c?9 <79,1 .SSc7<c8uc7i9,91_,Y.76i,,Y1S<?6c,7S, 9r7?. iiu7Ybzc,898<u9<  ,iY?71ui9,i8,u1,8?cc Z,9YY=8?616<<11 S77.u%iS c,b6? iY<Y.i<179 S73. 6186,Y9876.66<.1Yu7c?<m1<91S<?7i917Y.uY,8.u8!9769<7iu6 cS..81<i9u, ,7Y S6 u7cuS ?i1?7 u<597?cc<uu61<8u? 9,78..4,S618z?Y111ic,_ .7?.66,8?6Y8,,uQ 8,u127S91,O ?cc,?<c6 <?,. 788u  ic?79B<Yu1 <SYc9SY?7cuiwc.9S<6..6.S16?2 891<<c,u i7..uSS896uBrYg98?6u9  .<YcS 8u1<<7,u<S<G.c YS,Yu/Yc?1r,<uc90Su16ESu.c?8,,1577,u16S.?Yu_7?919iC1Y9Y,Y.:7?8u iD9c<9<?u,c9W8u.1<,Sj98S<cu97,S..<5Su 1UnY? 6<<,c9 8YYSi,896.S8,<197,., Y.SY16c8b1.i?,69,7? < 1.?672 ?.9777u?<hSY9P61ucc#8?.69<<cu *Y8S1,o9YYc ?<u,<<S<9uR8S91YiS,?117SY,<uS1 <<7?89Y78,S i71Yc78usc8Sk?y#?S..?9YS,. i1u<ci8?,Y{}S9uSLuScYc<ruY9S?7c6 <,uY6i98191<,,u iSc1ci,Sc ?=?.197Si,R6hSc.1q8?6 67c?<19i1,.9Y71956u.Yc18<,8 uS7,3CSS1Yub<Y8Ai<?Y9 i7?. <88<Y9i,,,1Y,S,6i77Y.Y68?7 ciu,79979ua7YS89.= YSc,i1.S9u?7u1ii, 6Wi<?99,7,uY7SS1.c6q?.c?i6,,9?u<Yi7?.7Y M.,797<?1I <?6Y?7o.9 .i?,i9c7cu 7u8i9,# Yu288i, 9.S7Y76?.zYS76,S_Y7,,661S?Yu6 ??9.Sc,u9779.9 ;.YY17.Y11S?uu.iTSS9YD,S611i?,u1 7?Y.<YS  Si9u,cs<..c6 <cuc7,.S6SiSYY iS6u C 8.YYi7,91ui cS9?<c.,9X?BY,<7?<M,?81i9 ?9.Y6886c6i<c19?8cuu<1S9 Sju. 1?S8,i6 77Y}}8SS  i<Yuc <i,69Y?7.,i98 6cS,,S167... 1.?Y678YuM?86uSiYS,u6418?cuq ,? .?9.? SuuY.7d?S6Yi1,i99<?c? 9?.YuS9Yc6,<,uu<SS?1c<.8 6Sn,?1 S<uc791?i1 S,8Y1S<8,Y<?7c.17u8<9679?8A9ihuY c7s 16u?7c<s6?;9<, .,<H8< u6c8o9ui1Y,1v881<<.89cSDc,,iY7Sc.  uSci6.,?cs<<,u928718 S,6cSSY891<7Y, j.7<c,<Succ6iS,1I77,u  88iYcC1Yu1YS6Y9 <,uY8 .8?Y9i.u<c+<11c9 SuY.6 YYc?<i?:19< u*7SS 9c7.? kSi,,16S7u17 1,i9 8,,91 7?1m6iuY Y=Y.:19i8.<917 .S61?6 9iSYYc9<<.Y9 ?..<i,uS698c,71 ,?.,<Au+YQS?8.c 7?,YQ8< c7i:.7cYSA?71u7QuSQ67uc9<YY7{iS9ui9?7 18 18,Y?V7?S1?,<uYi28S.8  ? 1i<iu196,S.8<18< ,Z1Y<1979Yu6S8?.6i,??688<c<c ?c11 ?ui ?k?.197Si,%6vSc.1+8?6cY2TY?9.<1u10Y7,Y<67Sc6.8,c8-i78uY6<,.Y?Ti?c1ci 1u 7?,. <88<Y9i,,,1Y,Su19c7>Y.6?86c,i?1<98,?.u7iS1Y,ii,i1S? , 5676.n718SciCYc19??6u< 1S9Y<S ?u 9<8c ic?,.,6u.Sc?7c..1 ?S,,918S.u<7S19i7 c,1Y7S.8 Y.?Y<P981c.iY,1<i,61.698<cYSi,81Y7<c. S,7Yu7 ?Scu<1,81Y7?.66?.<Y?SY?6_Y<Ycf 978c<618 cSi1u6y!7S1YtcS91<i9811.<S.7i9,u.97u8u  7i, 1<<6u?=S?Y..7 ?<6u78?1 -77.7iu,<c1ScY,11?iu?i1S..iP 8ucYZD,u c?6cc 6uYY1S88Lcc<8u89uu<.c<i.Y6ui<?,1<,<u1iiuSYS7Y?,Y6<1,?9u< .?-.ucYiS.YSFci 1Y S7, S69u7c.S Y19<?uu  <8?.66S8F1.iKc19S,S.Y<{8? 6ii??1 ?k,1 ,7?.76S8?b<icY79,<1.SicSuY7b9?9cl?Yu8(.ui.17<,19Y<Tu<1c<cu<:.u?YcS<Yi1YSXY.i<S<1u<<.i 9Sc8S67<uc  c77Yr6Y81c<iYu9iY<1u,6i8iYSS ?, 9<SYc9u77.969Sl6Yi<?i1?<6,1 879.1Su8Yc68Yc<{)? 9i ?8i.w698 cpiic1iY,uu,7?8Y /i7.S 9SvY.92S<c9SSY7z886cuiS,<1r7788YYi<cS1?<iuc c7  u6CS6cSi9?Y97<cuY7?S?Y9SuY8cticu8 87u <6cuiYi69.91Y<8u6 6S< 16uucYc%,Y,9S<6..6.S16?i7.8c8iici9 7.Y7{78?6_+c.6c6<?1Y67u?Y<z88s6 <7?.B.7?.i6c8cY 8u,i6,< 1u<87p.cP8?8cu?<?HWi<i,96<S,Y<8<?S6i<?c1 .7iY 6u8YYaiuuc*17i9S  Si  628c18<8,u<<7<1i6S.< 67c?u17<9u99=uYY7<c8cc18u?06689.<<u7c.ziu81 ,a-.8&<,cu 6u8.Y 8Y,76.?1uY<uu8u <9Y8Yco,c.w87.u2 ,87Y9V YY1<8iY6 S,YY, 6?1c?iu? 9?S.199#SYYc6XY1c i.u7 77?9J6Y,6ccSRY96.<.uY< S. YN,8ucH?<,YGf<Sc7i,? Y8<??69c?SuSiY?S1<iu?Yc7i7?Y6i? uW<.uS ,7 Y<118<Y1i,,,9Y78.iYSd ?61S?5uYJ6SS9Y<8,61iW ?S ?<1..< Sa .78?.c <?1u i?,. <88.Y5r,,719< 1Y <,i16BS.Y9ci9.< 9<1..6S?7 96#?Y1ci#11 8?c.c71.. 8i.? 9?89u?6.S?c77i?, 6<7,u9V?,u9m78? 1<9?6 S76,  cS?c8Rcu.c18Yc,%77?uc ?.?c778?Y6f<9,86<71. 6S8116S%,?U2?9u; 7u/Y<69?,1,iY1S99?7.?7S.i99+9? zY<<1? ,, Y<7u?8Y9<Y,S9?<1.SZ,uuY1S<?6c,7S, 9(7?. ii.89679,<=uic,w6u711, n,8 <8c? 9u7.u 7YS1Y,ii,i1S? ,9X97Y9 66.?cYStu,687ScS66S_c.<7.&1S8Y.c998<Y9 18.cS<7Y96.<?ui cSc. Su8  ,iScu9.?;.S<Y?618(7??c8SSY.9 ,Y. 7S,iYu<1?6168SY 6uu,97638c18<8,u<<7c1i iS? PS9Yuc ?u18i!71.66Y.ucSi,,<c686u6 %u1Y777.i1?81?69SS1uTicSS1.7?Y61<<1u9 <u Y,*6S 1.S,? iu,81i6889cSi,.8c1??17;6S7.Y6i89c,iucS1c8cc.7i7,YY7/?9c87<,19 7S.1V6766iIS? 16<S1t .8iu5;cu.cG8Yc,j77,u  88iYc^1Yuc6S6Y997Sc. 7S?c9.iu.u 77S.9p,87 86u?<17iu1S99S8uS66,9cSS Yc*8?uuui 8817w<u<19i u,6i71.<<u8Jc7<1u9c1i9,ufS,c.96SScc,ii,<F <8c8i77.ciOS.Y9ci9.< 9<1..6S?7c.Sc8 1u<., <YS7Yc Y?8 7iYcSii?c1   uScc<.?u u77uS 98,Y<6uu 1?i..<67<<u79 ?Y i!7?c1<<8Y71Y,S9ii98iY?} .818<?1<9Y, .17?8Y Gi9?8 <<1u  SS1c67R?S6Y<,?6 17?.u  8?1.S9.,68<Yc: 978c<618 cSi1u6i7<?u^6iS?6<3c,7c/<9Yc9?S..9k88<c6i9,71u<_9< ,Su S61.mc 8u,1i<S.c,6?,?1ii<,c 8?<u?i1871i6F,!1ci1u8 6?6c.i,S1 <^68,9Si ,49?7 ci78Suc<i7?uiS<9.89SS6196u?cc6<,?? i76.8 Y8<6SV.?YH?i 1<9w,Y. 7S,8c,<1u,1?77u 69uSYu7 ,61i7?.i1/79.u#,.i9c7.? ZS7i,.6?7yY<6u8B978,?Y9S78uY7?S6c,& ,i 6iYu9 iS..w+7?ic,R1,Si?<<., 68i16m8u91ii?, iH7.u 6?,9Y--88s^*<.Y6 S,YY, 6?1c?iu? 9?S.1Y guY ,4Y89KY<,uc96,89u7cSicSSY,,c671u? u7 Y?i.S.6c<8Y71v7,9<<6,cY6JS?167iYu89S7i.<6S.)YcSi,81Y7<c. ?SiYc}c8 Ruiz?69S79uY67ScYY8??)19?u,eikS?91Ai.cc?ii,c9c< 9u Y,,Y 78?<c9<,u,9YuS.?<78. i0u,71<i6,E <u YcS<?<6u=1.c668?u9E 8,17S1?1;<i?Y8p.8+.,iu?i198?cSc67<1u9 S,Y8J.,,c678,?i17S9, i.7c6i<Yu96S9u1e18,Yuii,c1,8?,1i8?^.8<6u9Y6_S?1Z i_,c 8S8.uS<8YY.: ,,1S<9u8 SuDYiSS8i61<8cu9Y,,.< 98,c,RYcS11ic,X .7?.66,8?;<i1,.iS?11Y<uucY?Ii?c1ci 1u9<,u.c7S87 ai?,7;Y<i1? 1u<.Y7 8 6Y<ic? i,<u,< SY9c)u?719<9,%<YS71.6 .SY,Z1uS1u87,12i? 986,?S1ii1uii,719<66S,1S! ?f1?< Yii<S, YeS8,MSi.,Yi 7?11M7,iYm<#,c1178.6:1Si S  8uc.G cY16<&9S 1u<1,i98cc n9.1yi7?1<6,.YYS3 ?61S?Iu8 ?uYY<7u,997ii,S178<c, 1,uY9Ss8Y1S<8,Y<?7<.9 F8.cct?cu19< 9< Y,N17#^8S1iiu.?61<c, i9876?6U?Y1ci}11 8?c9.6 .S1c7.,u6uS7.S69?,98>18Y18<,,c#.79.<6YuiY17c?,/1<11< ?Sccuiiu89S_k.7i8?iu8 YS<Ycr?YMcYiY,8 7?c.66?S9c.81?16c<,11 1u<Y?ac,u9iS8.S128798<i88YYi<cS19<S,c ,uY.66HYSc9q<Yi9??1.. i8 Yu%Y8>1u7c1u9<71.96<. c?Ec??i?<Pc8 Y,R. <?8<1 <1.,98S 1m6SuY98<481 ?S7uu997< ?6P876Vi8,?iY7<1u-9?7YiQS87 <S,,11??8.c7 Suc<i7?uiS<uc797<616&8u.Y.8Sc<5Oi6c66?SSY6ii?867<,,1 S?cY8<88Y #i7.S 9S0Y.92S<c9SSY7W886cuiS,<1N77u9c<Su,8c97YuS ?71YSi,u.Y9S7?7c686.? SS6ciq8.71,i1uSVc76.? 98.61fs.ccci,c, 9,i.i71.Y6ub,Y,9c<t.u7Y87Yu+-c<1c<<,. 8uu.96 Y<cc7O.69S?Y.,9681Y?!u8 1?7.1?1)7Y.c ).1cii<c?1 ?S.i9.8?.Pb<8ucG77?<>i7,9Y SS Y6VSYz1YS6c9 <,ucui1SYc.i?u.1,<1c.9o,7 iZ?.11.iiu 9u7Yuf6u?c99ii?uc6<c1  i?9..7 8 6S7i?u 1<6u6iS? cuSS?u6 icu69,79.1ic8u1YS ,<HuS.uc6M8c.Y#,?<9i8u,1i<<6uc6?88c6h7? c6?<,7<i?9.7<,8?cc8 ,u988cuq<?7.. i?8Y 8J .762?,.c /8u6Yi7?Y1i<91N9Y?6.c7p8M6?77?Y  7i.ii??scYS??Y6A7,Y8 S?SY66)?.97S;,SeY7,,661S?Yu6 ??9.8Y, iS<?.7i<,8YSN,86 .?S,8<7?6Yi<.886YiYYr 9<SYu cSc1y<Y,S6a<ScY9uS7YYicS69?D??uyY< 1S6c?.Yu<u,71S<9.,iS7u1  2?6. < ,YcYi,uci <699<.89c<iYc198<Y.<7SS997{.Yi1S8Yu,16S1.?6uS c?<..c16<Su1i7S?.c6?Y?c6S8,Y3J<7uu6sSS166u,9 Y8Muc<uS<.8S<8,cu8S,86Y8.u.<.71Y?*,81;ui1u.99,7.766,9c8ic?6z,<YcB 978c<618 cSi1u69686.7 YSiY9Sh8q9i<8uc/.SiY,6c.7c?S1,.1i7 uu Y7rYuic?c ci6,S91?7., 18S9cKu?719<9,b<YS71.r8.8c887,?417.ui6 SuYY6j?u9c?u,Y9876.66<.1c879?Y18<6u6 <u1.c<98Yc8i6,69<,1.S 7Suci6 ?,c6i 1Y 8, 9?7S.<68=8,<16<Yu67<71.16,?8Vu<<,8<<7cu36u.Yc7Vu?ti<i.u? 77 Y7S?SjY__c,.i17?u.7?ScY1S:?Y G89u<iu88.86.?,c9<<u.16,S,  uS.. SY?S .iAc,9Y?3c<IYS,Yi#6?.c.S811 87YY<SS89 7#Yui9?7ccc 8,8Yci7?,18<cYc9c719G 6,{99i<Yu98S1YYs.?Y.1i ,,3S0 ,u9.< 9Y 6S_6Sw7.S6i<?c1988Y.i6i,.c?<Y,Siu<<u1 9S<  &7?Spui,Yu91,<uQi8?7YSiFum16S.1 9uS<Y76uYSc.iYc 198 .<<u?8.1i+?717SuY< 1uSu 6u8.Y 8Y?61o,Su1<<8.1,;?u?9i<<uc68?<u97YSSY p6?S+2<8u?<YS<9ui9,7ciiS?76<8,u1iu,8YiS 8u1<<7,u<S7..Y7 S991i<Yuccig.u91?,umi8u<dSb ,u9.< 9Y ?8iYS*9?6cY?1ui <u?. 7S,,1Sbu,811SYYW96,<.6S18?cq<i,?<<711i6,86. i...1:i u. c7619pi8?c S8,89?,<uY6cS6c,2S,i16S9Yc iS..!57.8Yui<,71u,Su i7SY ilS.Y1,F6u19?7uu 6??.9c=6??c9<.11 ??cYio.Su17S7,,117Scc96SS.1>88W(YiS,S1679186.S2Y,i7c?1j88uc677<Y9<9?ic?i ct9.<Gu,67.?Y?i,?c97iju9 c?..1P,8c17!<,99c8cu6 SS1  A,8 c8<i1S9.7Y9 6?u1c.ni, 1u<Y,# u8c11<.88&<F1,?9,<19u 9S 6<TY.fc7iuuT9S86uuN9,Y9H79?.i?isuY c7F 1mS8.cS?S? B77u1  SS,Y86Du.c9S7uSi S<9uC7,8197i,9 cS.ci7SS YiS ?71S?u,,1??8.Y<e89Y8<<?11 <Su166u1.?6A?ic??<,< 77,.6 18.c,7888ci8iuu9?SiY76,u8c.o ,?69<9u <YS<c7X,?6c1<.u,L8?7upli88c9iS,,98?,,Y SS8.YS?8a 8i1c79??1.. i8 Yu/Y8k1u7cY9 i7uu66c. cu79,79ciY.8i8S.. n?u91Si<,996771i68SYc<7.?91Sicu,<Y7YYc66?,cS<i,669i9,.i.S9Y<lYY118i1,796u<.S 68.c.h1c?97??.i<<7,9 o7?i6uiucS97?tui<1S, u^8YS1,8Bu,)97X.8 T.AY676,ShYi9u<6Y7 1.6<,, S8Y, iS8iuuk1S6Y67Su 9u?ouY99uY.66AYSc7SSYi9??1Y7iiS{1tic?198761u9<71.96<. c7iScu1o??.79c8uY<DS8Y1<78Y?C7<691 ?S/ciU?c<1,<u119c?Y9.6 .S1iv.u?1A7<uu I?7 U6Y?S18iY1?9<79uD6.8cY?8u?91 ,<uYivS9.8i<81c iS,1 6i c9 ..?.ewY?ccp?1,c^c7P9? .S 1?^Y.8c S7Yhi,7.Y?-78 17??,8fS,7.u< 8cY7iU?Y11<<uY69uYYS6,YSc.iYc 9??1Y9 6?Sc66 ?c1?78Y1W.78 < 18?c,y1cu19< 9< i?/Y?71ui9,i8,u1,8?cc B.uY<(1?91<? u7 Suu.#7??7Yc<u,<9S<Y.<k8,?9766Y1c?iIui9?u<.Y 6SY6Yi7..1 ?Su<Q?7<Yc<<,917#.cS9u? Y9I ??c7i.,c9?S?1Y S7, S6.8Y6 *9816c<h1?477Yc ti?i ?7juY<<<1.?6,S16uKuY1c.?Su7<7?6Y?6S861ii8Y79,<1.SicS898S7?u6 78Y7 <?<Y96 ?,9i76,?1S<6.i 8,7Y,61?S ci6,?197.91 c,c .J YS9cS.uu_u87YS*9,, 8i.? 9?,u.i u76YcS ?71S?u,,1??8.Y<J89Y8<<?11 <Su166u1.?6X?ic??<? 9.<1.86,S<6Ss.?Yq <?c1Pi8,.86uS,9?7c?JcY8.u87<71Y?b,81TuicY,19S8.S66,6c?US?69i<8c7 ,71YS<cSc 8Ncu79,78.cic76YS61?8cQ?Y,S9S<6.9<88.Ym4,,7i?<.c89c87Y<=9u91ii?, iN7.u 6?.ucilu861c? u7 Suu.,<uu8cYSL?71u7;uS^67uc9<YY1c?iOui9?u<uc<i8,96i7?Y1i<91V 8S? Yd<.u1679,161S,.u:i?c.?78?ik iuu< 77u S698c iQA.697<Yui 9ulYS<6S{ 9<i,?9 ,M..  8?6uii??1 ?n,6J67c996B.?17vcuu9<7SuY6<?86<Kc8J1u?YuS).7O9,6YuLc9D8u<11< uS 1869iz8ucc<<.,  7?7.Y u87c8Q..,1ci)uu36S,1.66?,cS<iYi9c8cuu6.S9c86S?619S9,u .Si986uu cc}7,h1Y<1u< Y89Y9<c?, .iSu89976c96.8cY6i,? 9i<6Y6 S?..w7,8Y Li9?8 <<1u  SS1c67i?8 ci<u.9 S717 ,S1YSl9?ui<i1,19,S819pi8uY6icc 9c89.76cSuc878?6 6i1u9 iS.uuR7?i i21,998?.u1<<S6.,iS8 c2i?, 6iSic66c,9Yui.,i978iu9 6S7YcJ<?817S7,u697S1c  uSci6.,?c><<,u9W87186.,6Y?i9,<9,8,uc9_Su Ym78Ycii9ca1_Si.869SYc,i8.71?7iu8 9<1Y,r8u8cY76,?{9<o1?677ccuP<?ScY<<.8!,7c1i u86cSi...19<<uY<1S8.16786b<i,,ui1<cc1i.S  S<.,6c9i)?66 ?7.u7BSYcSi8?Yi?<cu1<NSu9 6i8?1 i<.91?Sccui ,cY,8S8 1u<., <YS<.,6<Y<c Si,?v1S6Yyv1?,166u,<9S81,2i?Sic7Ic?6cc<.u, 6,<u196u1Yio<Y?c8SS,Ypd8i.7Eu?7Y<#6?Y9.?1,?9dSi.?S<86 ii,,6117.u?6,S6ci<68119<8u,iY<y9?  u c,Sc? LS7i,.6?7CY<6u8_978S?1i7,i.Si.SK ,}Y.L19i8.<917 .S61?6 ii8.c1<7.u 67,7YY6u?718i.Y,9c<C.ui68,9.+6,,1S7i,6i Si1.6i.Yc<<7,c99?Hu?<1SS St9Yi1S8Yu,16S1.?6uS c?<.YY167,,?6iu7 i768S ,icc899?6.S<Y8,.6i1??1ui u?6.u?Yi<88Y :r7?u9k<SY69u891Y7i?Sc.iS1S99?7.9<_Su6ui<?8i<<9ci .,6Y<7u?8Y9<Y,S9?<1.Sl,,.YSi8?.16S9,c cSiY8<88.Y i?.99<8,u <8Su9 Uc871ViY,19<7YY9i6879.6L,,117ici u7?Yip78, 8i.? 9?89.i u76YcS ?c 9<7uc9uS8.77<8899-8Y 1?7,u66iuS.Y7h8u6u<ic89u? .c 78(YYO1?<1Y79c  7ScuY(8.,6887?u6c<61.6iu7Yu7 ?cc7<s,Y917<.YV9.Yc87.? 0Si,,16S7u17 1,i9 S8,u19<u9u6i,,ciSS81q1<?,.<?Si1869.7c?S1,.1i7 uu Y7&Yuicu9cu<.,9 7?iu66688c.7.?91<<Yci ??cY<7.816<i6?, S< uh ?S 1i77?, 9iSuc9FS8186.S c?8u,i1ui6uc< S7YSSu8, ?i1c<6778YY#8SScin1,cF iuu< 77u S :8cY i,,.1S,?uc 1uW.6  u91<8u.811SO.767,u9<i1cSc <uu.9 uYY,<.861,iSui1 76.,6.,,YSi8?916?<c6 <?,. 788u  ic?79+<Yu1 <SYc9<6?7 .jEu,91Si1i6uS?cii7?,68<.,  ??9.,<,816<v8?Y <<?ci9Y861177881<i6,Y96u<.ii2u6cSSY,,c671u? u7 Y?i.Y?c}i7c+987?9Y .,YY SSu81,71.,9?S7. 09.bYYiS,81Y,?uc 1u-Yu7 ?cc7<f,Y917<.YE9,1Y.8?8:1Y<c,/<1781c_iu.c9iS?c9,,Yu6 R.SY77S?u6 78Y7 <?<Y96 ?,9i8Y?S1 <6uS<eS.Y,<981 ci6,?197.91 f,c.17.?91<<Y11 87YY<SS89cSsc,,iY<6u(7SS79<7i??6176u11g79.Si<,uY,8u?<11<9u<< S7YSSu8, ?S8,YBZ79u8(<S1Y XS?196?1,?9BSi.?S<8YY6^YcY978.u <SS<1?6<?c <79u71.,S.u< ?81*Q7,o1<7?Y8 cuYYS6,YSc.iYc 1981.<<u?ccu61?.c)7 YS97uSu 6u8.Y 8Y?.6.?,u1<<8.1,y?u?9i<<uc68?7.Y u87c8j..,1ci4uup67Y9  c.?c888Yi9u<?.i67S,98!.8 1?S9ui9u<6.c7 S 6<66YY1.?.c8 .7 Y?Su?icu>6,ci 77.S7uS,.?78?Y6U7,Y8 S?SY66*?.9781??1&7iu?7<7 Y.61?81,i<1S9.7Y9  9,1c<Suu.1c7G.c9YS,Y<iiYSY iu,.1 ,Y,6i.76c,5c?.16S6u?9S76Yi68u7c,s1,S6c<.c89c87Y<z9u9cii?? 9,7<91 ?S?Yir6.,1c<<,. 8uu.c<,S918iS,66677uu /.<Yc6m?ugY<7,u9+u<.i<iS9 6i<Yu98i9.Y SS?.1kS,,{Si9,<9Y,1u8 YS<YcI?YNcYiY,8 7?c.66?S9c.81,.6c7i.. ?87.rii?.1cS.,? ,76Yi7S.icS7.?CK,<YcL 978c<618 cSi1u6%i78cc <8.Y i7.71,i1uS<?76.S61. c,O1,Si?<6uS 1u Y,61?Sm?i6,S91, .,  S8ci8S?.1Y? u?i17 Y<67,79.7Y.71Y81u,7S7 Yuj.8 2Yi6,w<S719< 6?7Ycii?> 6<1. ME79 Y6S8 c6iScd987?9Y6<uuY1ii, 9,Sc.Y9?8.1u<88i6 ^u,<97<u9S9^Sc. H,?.cS??,c91,B.u< ,i9<< u.6iiY.S6?<11c6,YSY iu,.1 ,Yu1 ,8icitSY 1S8 ,?%c7 .7  . Y979,<muic,36u711, V,8 <8u,1i<S6u?ZYS9Y97<u19?? uu9cuu.96 Y<ciS<,?b1S9u6PS86. Kc??98?u,<9179.<7 87cS8u?_m?77,c6uS<YS6Y?<98S?Y716,1u? X8iY?8<?,1u?1,cDY?.9,61.<c6>,uS1 <}u?  ?i  6u?<17iu1S917iu171Su9cCPY?  7 ,9 7S,.c6,,<6?iYY{ 67.c7Lk81YT<uuSC1<?,.<?7c.17ES69 iSYY9,i6.1 ?Su. R?,.b?3l,Y9c<n91 189cii.??977iY691S9YiQ.Su17<iui9879.S6,8898WYu61?89,wi?S7ucOu8<cS2Y,< 88,ucii7uY6XS?. .ih? 9.7cu6i98iY?v .81?S6u8 97YY,6S?8c?i6.91Y7cu168uu. SS8161i c.91,<.6 ,?SY *!??1 Si1< ,S6u Z..c6.i1Yi9u?6.<<u88.9iY?S1?i1uS6,?..9<7SY1ii?,c6c7<,= cS9Yi<6?7cui_Y,9c7<u.68.uYui.?998<<u6 9?c.uT.8918:S,69979.i6.S(c7ii.i1?Scu<i.719<66S,1Sb ?Z1?< Yii7S,196S?ccT<8Y89.< .?7u8iYu66?cn i u6 7Sc.u^8?717i,,6c 7..,i8S<c7O,?61?<.u,A,711i6uu6c<Su,8c97YuS ?71YSi,u.c9S7?Y i7?.cicS6YSg1Y 1,i ,8 iuS..6Y. c?S1u691i(u9 S?<1u6,uYc,?S? 9u7.u 7YS6Y38S?1I<i8,Y6<7?1i Y?6916B.61c,uu< 1S9Y<S ??cci?1?9 ?8.Y<t,<1.i#?i .<.,,9,,DYS7Y8<1ziS? 69S9cii7.?YDy7Yy18<?1Y9.?Y1yS<S1c?i,?1iu< c, 988Y<U6u6c?S.,? ,7cY7 <89cc7c??9,<u17icS91c6Su.cS<8,?9689u?6cS6c,s ,i16S6uSo.7F9,<6u7c,79?S9c<a.8i8S1.YV8?,ccS.,99<7Y1i 189cii.??977iY616<c1c6zu8c187Yc6677c.9F8,Y1ii.i1ui?ui 77,186.S c?79,i1ui6uc< 7 Y6p7?ccu<8u7-i<i,9i98<9,b Y8698iu8Hc7<Y.6 ?7 7i,?19S,?u6 ?79Y.S1?i1<??cik?7i9  u8<c7RucScF<c,  ,S..SS?8cc180?66Q?S9u <S1Y9_<Y c <6u7 c7uY8;7?7c,i68 9.7,c8 c87YYA9u91<S,, i8?91i68,cY<i.? 9787uY9uS7Y86.u,cc*U,u66<Y.c 68,YSii?616<7uc1YS8Y7<i8,c6i?,.6.i9u<9YS7. Su8<c<g9,cl77,u  88i6SDS,81.7i,  cS.Y.69?8YSi6,96c7i.. ^8797X,811S??,69S719 6,S1cS8??61S<11  Y7uY7+88. ,ic?%9u86u1 ,8ici2SY 1?8 ,Kdc7 .7  . Y979YusY8 9< 176 1/i?<B?i8YS_7?c91 ?Sbcid?c<1,<u11i??1.,SSS cui.? iY<6u^7S,6.<7i89UYiS, 967S9/6uS9Yu8u? 6,?ic6<<,89?Su?<c8?<,,9u,1189Y,.Y88<811?<,,1<u7a1,69?8c<i6?199<X.,i8S<c7X??96yi?c19S,S.u7iu. 1ii,.cu7718<7Su.?ri?7c,S8,.1 7?c9 u8.Y9i8?<16<9u9 iS.uut7?i96i8,99S7,c, 1,iYu76., ci6Y811S7.u69,9cS}<?916<7ci 87YY<<.89cSPc,,iY7<c. 68,YSii8 16<<u.0,7SY86u866<auY 1???uY<7,c9 k7?cYY<8c,i87,u16S.?Y6W?891.?1ui <u?.8<Su66 yu,<97<u9S9LSc. H,?.cS??,c91,/1c9 ,9Y.8?8}1Y<c,W<171Y9Bi?.c?<7ui i78.9918,c877?.9i<uuc*c7C1861.7 c76,76.i/., 18i9iQu8?1i<7,,=87.u 6?,9Yui.?998<<u6 9?cuc ,u,c1Si,u/6?,cc 6,8.1i7?u19S9,i9?< .,6<.1Y?s??i168,uc <7.Y8Su8u1.i9u89<76.9ic7c.,7,?16i<uc6i,?c.6<8S117iu,9697iu?  u*Y.6 ??Au<i,u167c9 678S6u*,.u688t1 9uS<Y76uYSc1S7,. i< .c u8.Y1i7.ic <6u< .,1.<7uS3 TiSY9h8?uu9687SY6Si.61<S,, i8?91i68,cY<i.? 9787u,9 78YiSS8.cY8iY.6 8cu,7S7 Yuy.8 wY<<,,9<u<uo<iu. <S1.6FS,<u196u1YiK<Y?6<SS,ii <u.<67Su6SUS,81.7i,  cS.1, ,S7 7iu.99S?c17i,Sc9i6u?61S<.Y.9X< ..6cS699ii??1 88uuL6S8Y96Y?, ,iuYi1 76.76c7Yc8i7.7c <6u<ic,7Y8<78? i)1,91d7,c8 u87Y,26??1.<,Y,91?i.u<6u,9cj6.8c177uu 9?9YS6<89c6i7Yi98<Y.<i.S9YS6c?,5YiYuc96S,.S_i8699698.6.< c7 Yui9.<9?i ,C u89Y76c667SuYo8<?ccz<u1Y 77u.KS<8cYniucY17<u,n .SS  6u8uc7<iY.997Suc6,.YY1+,,i9i<S1  ?, .*<c8 c7Z c 19891u<Y, 6<(186g1<iu<<?781S<7uc61d??a9i<?9< ,Su 17?u1c,?S? 9u7.u 7YS6Y(8S.6c<8i,9<Y7S. 668S60iu?91u,uu i,ui96S<.86??uu<98u<.,6u.1 86Y..18,<,1 ?S,.1Su8- ,i9u89<76u169Sec,78?<97<?u9ip7?916S.Scu8iY.p17i..9u87 8S7?uc?<iu79,?8..  8?99>u,.1978u< 6S9Y9}i?.Yu<7ui6678.96S8,9,m1.i1u86c,Uc7618 1?7cui9.99S<<u9 6S79iC88Y1<S.,99S<c.,7Y8<9.z6,,1S7i,  6S<Y.<,8S18iu,6i<<u1  ?u?YYS7.c6 <7uc1YS89,788,Y1iSc?16<?,9 .u1Yi=<Y?c8SSY6i <u.<67Su6S6j?cc <,u.9Su?.c61.f c6 .91.,?,y YSc.>S18119<iu.9?S7Yiei88c961,,9887u.6iSuYc<c8) 8i1c7Fc86.7i.7hc,21,i6i<u,? iS7.,<88.Y i?.91u7.u968S<Y6#9ucYc_,Y,91?i.u<6u,9c/6.8c177uu 9?9.i6?S c,i<c11?<?ui 6,,YcP<8.18?u,u .79Y86<86c97c8cc,8,u1iiSu967,ucc6S8?1 77u.9i98iY?w Y=1.i u?<uSi.u 68c6 i7,Siu<,cui8,m  6u?<17iu1S91?7..liS ccLu,.1177ci9 S6Y<^..1c<8u?slv7S19<8uuY9i88S16?ic6 <?,. 78u9 ii8.c1<7.u 67,7Y,6 881i?S,.9Y,i1.i ,cY,8S8 1u<., <YS<.,6<Y<YVSiY.(<?1c6<S.<Y166Y11i<<1?i<?S.i7 Suc<i7?uiS<S.8 .8i. mc?. ,*,?7477uc96Suc 77,?c6iiuu6 SS.1.6-S c.ic?6697iu?  ,8Yu<6?819iYu,},7u1i  86c7ic8Y9877c79 S6Y<7c.718S7,?!i<1.9 %8,98)u,71,<6u? .S,1,61uicuS6Y,6c<6c89187Yu_9u91Si<,996771i68SYc<7.?91Sicu,<Y7YYc66?,cS<i,669i9,.i.S 974YYi6.S9uiP,< Y86Y8696i7?u1J,<uc9ZSu YI78uc=?<,c1t7u9Y67SuYR8<?c1<i.u8<u79. S<8i.M76Y.F,,?,: YSc.#S1?Sc.iS1S91?71 <nu.6ui<?8i<<,uui6,u11<.8 b<C1,?9,<19u SS6Y<=c?9cu?Y,695uS9i<<8u61;??d9i<?9< <87Y,t6811.<,Y89<S7.,667 c.i,,,1c77uY 9Sc1c6Hu8c187Yc6677c.9H8,Y1ii.i1ui?ui 77,186.S c?79?91 ?Yu<67S,Y661?.1,S8Y79.Si.u6cu9.3}Y?ccU?1u?tcS<9.7iu8c._{?,97,?uKi8Scc76<?9 9<i,?9 ?8u.  S?Y6bYcSc i ,. ,?6Y76Y8ic98e,89?,<uY6cS6c,kS,i16S9Yc iS..#>7.8Yui<,71u,Su i7SY i7.u91iiu?69c, .ui987cc6Y,868<.,  ??9Yi6?8 6Ai.? 9?,u.i u76YcS 8 16<7uc9uS8Y7<iSi.979,i1?< 14 .7 Y?Su?icun6,ci 77.S7u,69?(7YJcY<Su89Yu?.c61.3Y-<i,899<Y.,6871Y?y,81^u<<Y,9 ,819<i88Y1A7?6i<<1ci ,S6u w.u.c9i<,Y)i78u1 7S66<E,?uJ1ic?YB.?6 < 18?c,j1cu15<8,V<%Su167u.86YS9YYiG7Yu97YS6Y_8S?7c<8icS<Y7S. 668S6Ii<?99,7,uY7SS198{u89cu?u,,P,,<9S<1.1c?N.c?1c<110i ? 196.Y?Y_iY,c1W,1u1698ic.O?,79i7iu8 9<1Y,p8u7Yg<i,8997S.,68,8YY<6??6988Y.99?7uY_i8?cc7c?61?i9u.<1SiY<7..< ?iic 1u7<.7 u.SY1!i81E1<uYci<?69?<,u.61i??.i?<cu1<Q76u <9.,3?/N,Y9c<y916?,ccii.8u9787uY9uS7Y86.u,ccMw,u667<c. 68,YSii8 16<<u.C,7SY86u866<EuY 1???uY<7,c9 d7?cYY<8c,i87uc96Suc 77,?c6iiuu6 SS.1.6sS c.ic?6697iu?  ,8Y.6m8,17??, d87cY7 a89YYic? 9887,Q6iSSYc7 8S6Yi<c<9??61,<YS6c,6?,i(7?iuSr.749,<6u7c,79?S9c<L.8i8S.. y?Yu1ii?, iQ7.u 6?.ucS-<?916<7ci 87YY<<.8?ciic,c1 ,uu <u7  S66.Hc881u7iuSi9S cuRYuS1??6.<?ui cSc. Su8z ,8<Y81,7S.i 18i6S)1.<3i8c1Y S7, S6.8Y6 SY. 9<,?,o YSc._S1?i1<??Y6fS7Y9  u8<c7TucS1.<Y1  ?<11c7..7(<>1,?9,<19u SS6Y<Vc?9cu?Y,69ruS.1<SuY61a??p9i<?9<99,iYSh6871.S.?:Z77?Yi6,8c9ci<8=1c<9uiX6S7.u6&u,YPSi?.698cuS7S8iY<hYY1c?<9u8 ,77u 7 uc 6W..cc6<S,1 87A Y6S8SY6i9Y89.<Tu,67.?YS78896iS6,u<uS8.?6 .eYY<i,.9c<,u<7<,6 769u617iu,w<<7c.< .886ub9? i<<YYr(6,u u6<81c9i<c 9?<cu?7?S69876.,6h8Scu<?7f.77088c?8YY76Y< 9<91S?Y,61YucyS,c8g ?7.Y u87c8f..,1ci(uu_6SS1.6Su,c 51,,9.<9cc 6SSY177?,c i8ui<S7 17  uic8OY,<iS<9u< Yu1Y86187c6?<,,9u,11.i1,.Y 8<811?<,,1<u79. 78u  <i?cY1S< u6 SuVYu698u0uiuY,)6?u9<<?u86ui<?8i<<,uu<1SS1Y78YSY iu,.1 ,Yu7i.7Kc,aS,i6i<,Yc9<S..Zf7u7cc798 6c7<,L cS9Yi<6?7cui#Y,11?i.,i6S.9.&K.,1 i1u, .791c668Sc1S7,,1 <8.i7S7 97L..iccScu<L.79.<6Y.1c8g1?716,<uuii7 16!78uc}?<,c1w7u9Y6<,.Y S,.6R <,,1 Su?Y< W8cc9ii.697<uuMi,ScY<6.?8ZuiY,89676.<718< 1p<Yu1<?S,.iwS,9167.u1i8S?1Mt<cc9 YS8Y6R6?<=1<SYci??.uc6u88Yai8cu138?18i6u Yu6cYuc9i 1<: ?<.?7YSSY N6?S&;<8u?<Y,71u6 Y<Y1i?,,11,uu9  .<YY Gu6698,1?1z7Y.c /.1Yui7??167i,1< S7YSSu8j uS cJ1Y7S.8 Y.?c778?u97i,u9q97S1,6Y?8cci6.69?<Su66iS897t,811SSc,8I8761ii6Su6ui8??1 ?/,Y6i7,Yc6,8</<S6c71186u7 u7pY.3SY cuiu,7 i?..96SScc,8Y?.6.77c8i771 1B.8Y1<?S?  8<c.6 cS?6?S7Y,c_87u,91SS ?668?Y9i.c19i7<9?  ,S9771Y1c?iIui9?u<.Y 6SY6Yi7..*78c1Siu,1 YPS8,bSi.,Yi ?,c 6<.?._RY?ccC?1uS+c,.9<<,8 Y1i,,.198cu6 SS1974uu9c.Scu<1/7c.96i,6c7!u?/6,<cu<9.S8 up<u,c7S8,.1 7?9u6iS?Y Sl?.cQi,u7<?7c.17ju99*79,<i?i(uY c7/ 1Ni?<6.8<Y?9Y, uu6<87Yu8S?11ii11191?c97<1.? YS.c19?<.9? cS1 KCuu 6.?u,<9179.<7 S,99RS,c1u78c8 c?6.?w9?S1,S,?9=i<<c66?SSY6ii?867<,,1 S?cu_<88c 7z1.99S8c.<9GScY9yiu617iu,bd,7c.< .886uK<.,1988, w6S?19_i8?c 8r,.1(<,.77?S198r<.71,i1uS<?76.S61. c?79,<Ic?79< c7nYuSY?7cuiq1<9c<J.u7Y87Yu*Kc<1ci+uu<YS7.Y6i896Wi8,?iY<.cYi,ui9uS 8u1<<7,u<S7..Y7 uc S71..18,<,1 ?S,.1Su89c ?<Y6%,8 uc7uS<Y1f9?<> is,c 8S8.uS<8i6<E1.69<<,u<7<SY9i71. 68??,D97,f.86?.Y ,7Y? i<i1u? ,71 u698 k<S_83667S9u <S1Y9#<Y 1?ic,?<?7818< u, hSSYii?<5u7<fS8Y?SY?<YuS,Y6i_<Y.S68SY6?H?,,1c77,b 9ScYc66?,Y?<i,66977.c6<8898kYu61?89c8-.7917 Y?ic?ic.c9<iUuc 9Si16I78ucdS,,< 77,.6 18.c,i,?c97i<u9 c?..6q,8 1iSi,u1?7i.7 ,,8Y.6 ?? 9<i,u167c9   86c7ic?u9877.7 ,S6u T.?, 8icu79Y79c96<,,Y S8.96i<8Yc9<S.. d7u7c,m1,Si?<6u?99S. 1+i?<b?87?SU77u91 ?SZci:?c<1i8iu, 671Y.<.8< 7!*ui9879,16,88986z,icc89c8 ,?8uU<7S c6q.,.6,<<.8 .8iYu4c?. .i Y79Y,i1.i98i9,6 ,81Y<6Y6 77Y.i69.DY=<i,899<Y.,68,7.7 6u61SS.,{i,?6176,,9YSic?C9888u.9 S? udi8?c 8-,.1 7?9u6iSu.6=cY 17<S1u9,??9i<9. Yui<,71u,Su1 i71 1wSuc6<Scc?_.?.916?S.6?_c?1Eei6Yki.?; ? H8Yccv_c11 <..767S? {zu.ic18:ui .7?Y77<8,c66 ,._c8,u1iiSu967,ucc6S8?1 77u.9i9Su 1(9,81<<6c  7ScuYy8., 7iu.99S?c17i,Sc9i6u?61S<.Y.9S,u..jiS ccSY?69,i?.i<7?6YS<.8I6,S6Y79,89uS6cS)c878?u 6<8u99YS,.SW88uc679?Y9c< .8<u7  S61.1cW8.ciiS7.Yi9>8c 9Sc? 67<Y1ii.?9Yi<,S 18iY,666<Y.c 68,YSii?616<7uc1YS8Y7<iS c6i7,c9<78.7i7Su19OS.c67S,,coi<u.66S8.9.#S,81.7i,  cS.Y.69?8YSi6,96c7i.. W8797Iuu91S8cc7s,7c1i u86cSi...1S78u.6i7 YcF.?.c9<8?S9679cc6i8.Y3i7.71Yiuu7 87.1,6cSKcu76?Y9c<6., S8iY6&6?71c0Yu8 7?iu 6687cci<,89787uY9uS7Y86.u,cclF,u6677uY iS9 pO<891,<,,Y<S7118 *.Sc8i9?Y9,??uc677<Y976ucc{S8,1i7?cc667,..ni,?19i8i,1iRSiY.6??76<i,,6c 7.1ci,S19i;u.66,Sc,6l8<1Y76u8999HuY11978u< 6, Y7RcSY188,Y79u89.S<cu79,Kc.icu<6uS .?..1<78.1i^ ,c1u7.u167,i. q6?<1.81,<iu<_126Su9 8Su?998iSu6<i,6Y<<,8 68S9Yi988cu<6.S c7778 16<7uc9uS8Y7+78,c66 ,.9,88u<67S,Y6T??.1,S,,1%i7u16<,,cY6788197<uu9497uY.69?8c<i6,9997i..9u87ci<6?819<Su,T,711i6uu6 ,7c?668i1.7 uS9196u?.c9<8,<9679.96i8..ui7,i 6<8u9 SS,1,6cSVcu8Y,71u<}9< cS<..Q8Yuc9i 1<f6?cco c.uY<%1?91<? u7 Suu., ?u8 6S.c11?<P.i ?.<YS66?.1.i11?96?8.cf7S!c9(Y,c1678c79Q8iY8Pc. c?<,,ci7?c.9<68iYu66?c> <?,c9?u?. <8uB6<SccY9S<,9S .SY i7cu 1<???g9Y7cu>71Suc7M??69ii11  7SS u7?uuc18G?Y9S78uY7?ScY1Su8}9i<8u99YS,Y8 <uic,i6,?9.?c,  uS.. SY?S .i4c,:6?7.,  S8ci8S? 67<..i1>Sc1c668Sc1S7,Y1u77.8 .,,Yc6a?u 6iYuc96S,.SFi8699PY,c167,,?6iS6Y6_7?c1<<8u7M77uc96Suc 77,?c6iiuu6 SS.1. 98<YYi7? iu<<u<99Sc97j,8 c8<i1S9.7Y9?  86c7ic?u9877?)06S8Y9!S?,6.n1,?9,<19u6<,,Y S8.96i<8,19776 <61uic,i68 9.8.u9 <SY9ij88Y1<?S,99<7Y9168SYc<8S?91Sicu,<Y71.,yi?icS8 ,,6977.c u88Y<i7?,19Sc,u .79Y77?.7c8tY,<iS<9u< Yu1Y86187c6?<,,9u,11u<?,Y9,O7YGcY<Su89Yu?.c61.P 1Su.11.,?,V YSc.kS1?i1<??,8Z?? 1c71S?YOii??i<<S,6 .S..1S?886?} c<11? .,<YSi ?/Y.7c <6u7 c7uY8F7uiYi69.99<8,u <8,99it8ucc<<.,  7?7u 6687ccgu,89777u, 6< Y.e,u8cc<7,Y9989.<i,S  879.i18Sc,< .7 Y7<7S c6i7,c1u78.767S,Y6  ?.1,S8,c 77Y.9i98<9,3 Y8698iu8+c7<Y.6 ?7 7/ ,6977cuu6887c7M,?6Y <.u,k87cY76Y8999i<.,1 ?8c9iiS81c6<?.c <7Y71 76.76cSuc8i7.i1S<6u7 c<YY8r7u7cu79,SWc?7c, c,i.uN6?S1.S.,S 87.Yi  8cc.7,?S98<..i1#ScY.w.8918i1,69989.<i,S  879.i18Sc,< .7 Y7<78?99Su.cc9<Yu, <S, YV<uu6,8icX9Y<99Y 6S*6S+1.<6i8.1Y9S7 .66S.4c8i?cY9<8Yc,i u-.Y(S?8cY??,c91,X.ui ,9 cS8cSc <uu.9 uYY<6,8<t<icYi!c?S11i9ui6<J186e1<iu<<?7 uS<7uc61U??y9i<?9<99,i.9q68?1.S.,h1 7..c 6,9ci(?? 68<9Y69cS9.?v,u,c I1,,9.<9cc 6SSY177?,c i8ui<SSi17 6?iYYic.c16<Su1< S,. 68?iQSi.,Yi 7?c1icuS6S6 ?u1.i 1Y9?Si.S6986YY81,i9<,?c 9S,7YuS18?c^<i,?<<7<9? .u c,S9..1*i u. c7619!i8?c S8,u66?91?ic76YS61?8cI?Y,S9S<6.9<88.Ye/,,7i?< c8<7,19ij88Y1<?S,99<7Y9168S1Y7{6c<1,<u11 S?Y1.77Y<Y1i?,,11,uu9  .<9X7<u61S?u,<9179.<7 8?Yc0?c?1688c6i8,298<MY?c%i7cA987?9Y6<7u9,SiYEcY<Su89Yu?.S<8S? 7iY?u9778u.i,Sc.0Juu6c?S.,u_,7 u16,8.Y97c?61S<1c7 ,7 .8NiYSY=S7,<{i78uY6<.SY9^S8c1,?Y,.I.761,6cSecu8Y,71u<n9< Y,iY?76.,O?i6,S91, .,  S8ci8S??1i<cuc9 uu.C<.81cib1c11c8c1?<u,6 HtY89_Yi6,H<S771S<iuc6YmS? 16<S1U 8S?997SuY ,i7cN1Y7S.8 Y.?Y *78 _ <SY9i,,S9u<.u.6 iu?ciu<9u 7<,6uo<68csui<,1997<9   86c7ic?u9877.7 ,S6u #.?, 8i<u79,76.?6.8,9,q1.i1u86c,Dc7618 1?7cui9.99S<<u9 6S79iM88Y1<S.,1O77.Yi  8cYui.?1978i,  6S<Y.718<6u_KYm9S?918<uS9c86S?6Vi86u<L,7 98<9uic87c?<9.< .7i7SY.uX7?8c.S,,c1h7uc667SYYid9YD1uS6u8 97YY,6S?8cui6.91Y7cu 68uu. SS8161i^c.ii,S..Li7/ccS9Yc1 87uY<i,.19yiu,Y <8,Y9686.7 uSf6<nc?<c.<81u997  <6iui96Sucu1<<1u9 <u . !6?71ciuu8 7?i.S6687cc6Y,89787uuz9SS9c77u,ccSi?u967S..i.S9YS6c?,HYi6,G<S7SY86.?iY ic,.cq<Yuc9_u1Y?<c?<6.8iY89.<tu,67.?Yo78?c97i<u9W9Si.?6 u8c.o ,?iu7iu?  uNY.6 ??wu<i,?9 ,/.. HS,c78??c11?Wc1iu?91c6,YSY iu,.1 ,Yu1 ,8ici}SY 1?8 ,7iYSi9?68.<cc76,<1,<<9< i,i917 .<=?iy,7i^78.?7YS.9u7,.6AAiYuS 87Y ?6c816>d6. V?,uu< 1S9Y<S ?71S?u,,4??69I Y8Sc8XYc?1<<9,d .Sc.?Su89c ?<,i+<??9Y SS Y6NSYp1uS6u8 97YY,66.Sc776?,wF<u.. 187 ?61Y<cY8Y, i,?69<6,86. i.Yc*.?,,1{676996k.,6i8!,966?Yc9 4S8.ySW?. 6<Sc19SuS. 6i. cc79,,=c?7c, <87Y,W9uc17<.ui 7?7., 18S9cjf.811?7ccn6S71. {?,c1<iYi9u<?.i67S,98y.8 1?S9,U3,79Y86<86Y1i9?b9,88u<67S?Y97D8?61iScS9u,i1.<1SS cS.8cc#iuui91u?u; OScc.Si,811<7u67<SY9i!,?6c1<.,? ,7YYii6S1c9rn,,dYi-1?9 , Y<7c.76?3 c8i778uY6<.SY9QS8c1,?Y,69OuS.7 <ui .8Y?S1 <6uS<_7Z SU8?9cY<,c?9cS7u<69u69cK;.811?7cch6S71. C?,c1<iYi98<1u7 6.<YY7i?,16i1u.I.<917 N?ic8i9819,78c89r8iYS79.81,S8?ce7< .66<8.9,69,81.7iuu cS.1.6 u7cY8iY.697ic,9 88YYA6u617iu,j<<7cu^6u.Yc7JY?i19?5u8 ?uY..<Y.7W<V1,?9,<19u K,,Y9i8?<16i1u99OS,9Y /.?Y S ,<_c?71? c87.<b9.669iHY891,71ci6879.6t,,117ici 871.766Y<c,iuY6F.81u,7S7 YuW.8 lY<<,,9<u<.Y<iuu <S1.66q,<u196u1Yim<Y?c8^SY7g1,1u? n8iY?8<?<97<,u691S.Y,<88u17i,,6c 7..,i,S19iIu.66,Sc,6}8<1Y76u8999iS?<19<6u7iiS8.Yb<u.cS<8,. i< .c6.,,YYi8?.9iZ*uc .?.. <78Y6iS..99i8,, 68SYY6<6??cSi6ui98?7., 18S9cW6??c9<.1191S9Yiy.8?17<i.69<79.i6.7uc7ii.i1?Scu<i.,i186.,6Y?i9,<9,8,uc9hSu Ym78uc_?<,c1-7u9Y67SuY(8<?c1<i.u8<u7-.8 _.Lcu76YYn1?89S  Si  &7?S6c8S??j87Y9  u8<c7OucScn<c,  ,S..SS?8cc18),uc 891u7?7;YY5c8-e1<?Yc iS.uu:7u7cY=u,798<.c, c7ZYu<68g1ci6u,1?Si.6i9SYccs6,,1S7iu6Z6SS1.6_., 6S7,,69<S.c v88986.8 c?i6,Y<S< u  .8,96i7?Y1i<91m Y?6Y8=9S11,S,,c1d7u9Y67SuYZ8<?ccN<u1Y 77u.^S<8cc<+.,8iu<9u 7<,698< u9c.???t9Y7cub71S Y.i7,71??G,6in7Y91U8.uY68S?1Ca7Sc9 BS8.KSC?u 68Yc1i<uS. 6i. c7iScu1M8ucG<J7YYS^88Y0?ic,1iA7uc i9uc 88S8 1u<., <YS<.,6<Y<ciSiYu}Y?1cd<i.<Y166Y11i<<1?9 ?S1!7 Suc<i7?uiS<S.8 .8i. %c?. ,iYu89.Si,E6c8.9.s .71Y?ic.F9Si1,  ?8cYi6.69?<Su66iS897r,811SSc,? ,7cY7 G89ccic?69,i?.i 6?9Y7fc?<18S8,Y667?19<8,.Y9778Y9i<?ucwcS<uJ6c89ci76,71u<Pc, cS<..C8Yucu<.,9 87<.66989cii.8u977iY6 8S9YSq,u,c1Si,uo6?,cc 6,8.1i7?u19S9ui9?7 9P6.SMY,i7c?1c<11Fi1? 19N<Y?YZiY,c1I,1u1698ic.L?,79iS6,1 9SiY. u?71i<i,8997S.,68,8YY<6??6988Y.99?7uYZi8?cc7c?61?i9u.<1SiY<S?.<YSS7,ui1<?ua6iS?6<6 ?.c1<8u,9<uS..6Y. c?7 YSi?iJuY c7{ 1MSuc6?S.?c9u78uA68.uY*7?Y866? uu9cuu.96 Y<cYS<Y.iY<Su  6SS o+8??AY8uYY9 u<u16?8,Y18u?91 ,<uY=C?69978Y?YMiY,c1E,1.S .SS6S09.7698,c i7,i S6 8i6 i7,Siu?S,?i8SY  6u?<17iu1S9<?7.<<i8uY?ii,71,88u.9 S?19:8u,YuS8,11Y78., c,.Y9N<?Y6i<8,19776 < 5uiY:76,71u<g9< cS<.._8Yuc,S,,9Q87.u 6?.uciku861c? u7 Suu9i<?816y3Y,S98<Y9? cS1 079uX1S?u,<9179.<7 8?YcW?c?1688c1i.,49<<6Y?c3i7cW987?9Y6<7u9,7 Y*cY<Su89Yu?.i<88i17ic,9697Su< 9S6Y77i?8cY<<Y.1d?7u6%iSYcc7c,<ch<cu9 i?6Y76u8y ,ic,<1.789u S,,Y7i88 16S6u79u7r <6c8<Y.i8cu19< 9<ic,<Y?SY8Sc i6,Si_7uc6<9u?9cX6??c9<.1191,Q.S7uS66,S7,,117S9? 6SSY1S ?,c1<S1?9 ?8.Y77uc6Yi7?u1>,<u1iiSu967,ucc6S8?1 77u.9i98SY<b9?6178iu89YS<1.61u7  Si?71{<9uu 9u+Yu< .96,??,_97,&.86?.Y ?7Y? i<i1u? ,71 u698 W<iYY<T,,YuS  S6YSSq?81?89c,NY7  < 18?c,D1cu1S<6u< cS9.uSY86c0?SY61<?i.?7YSSY G6?SPfi1Y69cS9.?!,u,c *1,,9.<9cc 6SSY1778. 9i.uc 7S818 .S Y?v6?YiSi , 9.S,16%78Ycii9cB1186uc69S?c,7,?ccA<u1Y 77Y.i69.fc8i?cY!<iuc, 1u_.YGS?8cY??,?iY< 9< ..i99ii?uc6<c1  ??99c7Su.c9i<,Yi178uY6<.SY9TS8c1,?Y,69!uS.1<<u 61R??A9i<?9< ,Su967.u1 .i 1<117?., 1.uY+/88Fzz<.Y6iu,S9Y< u66)iY?9iY<6u}7SS1.<7i.Y4YiS, 967S9d  ,6Y 79,S1<<9u6 7,iY86Y?< .<iY71S?i.u ?8ic7n,.81.i u?y9Si.u 68c6 ic.9c 8cu6 SS1  l,8 c8<i1S97?7..<i88YYi<cS19<<uY<1SS1c6h..6i8#,.1 7?9u iS?. >,?<z1i?,?9i761,6c8<Y.i8cu1&8,1<i87,YS*i811i?S,1B<,i1c7Y8SY,8S?.1Y? u?s ,8 ? >8YccQkc19i7<9?<S,?YYS 8u1<<7,u<S7..Y7 8?917cY.Wi,<,1 ?S,.1Su8=c8Nbcw9.861.<7uY9679Yp1Yi91Y9673 S<aS< ii?cY1S< u6 Sun. <68  9<S,<9976.7<i88YYi<..9i87,SiiSu.?Ci?7c,S8,.1 7?c96iSu.62cY c1S9,1Tc76.S61. c,{ ?89i,Su7i7S.9i+88Y1<?S,99S<c.,7YS6YW8S.96<<u119?7fYi6?Y<c,iuc1p.81uE7S7 Yu(.8 =Y<<,,9<u<.c<iuu 8S1. 6c,<u196u1Yi5<Y?c RSY7KY,1u? E8iY?8<896ii9u6 ,S.1.63S c.ic?6697iu?  ,8.1<68c19i?u,%,7 u16,8.Y97c?61S<1c7 ,7 .8+iYSYfS7?6 i<Y.cicS6YSZ1Y 1,i ,8 iuS..6Y.  ,7 ,<i?i)uY c7_ 1vSuc6.8<Y,9c7<u.68.uYuS18&RSic17Q6S7.u6*Y<ccUt,uiY77uu G.<YY7i??668,1?967S.17 8u99iSYc#78,ucii7uY6wS?. .i9,<9Y,1.8 Y8<6Sv9?<1Y?1u89YS< S698SYci,cY16<)9S 77<9i7c.S(ui<,1997<9 6?ScY?8?? 688 c,iH,716S?8{c78P,89?,Yu.iuu< <SQ8Y1S<8,Y<?7 .7  . c?79Yu2Y?79< 176 1Oi?<R?i Y?r6, uu6<87Yu8S?S98<..i9 ScY.<,8S18i.uicJ7c..6.S9c8H1?619S9u<v,7 98<9uic87c?<9.< .7i7S,. 68?ibSi.,Yi?< .6678cYui8,76iS6u8 9SSY,7.S1c?i,?1iu7<c,  u8997i?8c1i7,6<<711i6,86. i...19<<uYiiS8.YR<YSc9i<,Yi17uu?6i87Y,78?.c <?Y99o78u}758u96SYY1Q8,Su  iu Y7fS.c67SuY89Y, uu6<87Yu8S841ci u, .7S ?6c816Miu8 69?,9?9/SYYc6dY1c1<9ui .7?Y7ri,6Y1i9,i9.iu.76i8iY8t9?S1,<8Y89Y86.?<9u89.b9.7cY7iu? c?cY< 28cc9ii.697<uuni,S,YuSS8119<iu.9?S7Yi9 ,9c7ic,<98?,,Y SS8.YS?8N 8i1c7dc86.7 YSiY9Sf?Y 6<8u911S,1,6cS}cu76?71ui>u. Su .u6u871iS.,99S<c.,7YSYccw6,,1S7iu6B97YYc66?,Y?<i,69677.c6<88c777?u 9<Scci7?,.c<iSuc6iS,.6.<9u< Yu1Y86Y?<GSiU? 9.7cu6i98iY?) .81.if,, 7u?. 67S 6 i?.9_u?Y177<S1.6S1?i1<??, A??69  u8<c7bucS1S78u.6i7 Yca.u,cS<8,. iij.c6.8.Y9i8?116<9Y9 <?,. 78u9 ii8.c1<7.u 67,7Y,6 881i?S,.9Y,?u 6687ccfu,8978iY6 8S9YS=,..Y1i?,,11,u.<i,S  879.i18i1,796u<.1<i8,c66 ,.6.<9u< Y,iY86Y?<4Si9,<9Y,1.8 Y8<6SH9?<1Y?1u89YS< S698<cY81,81Y7<9S 9SS.c3,YYc6i:1S97?<1c<S.YYSX ?61S?-u8 ?uY..<uu,  Scc 1u7<.7 u.SY.NYY c9S cS5 uSu 6u8.Y 8Y?61&,Sc ic?r166cYuc<i1,99<, u! c88c8Xuc<1c8iu, 671Y.6??,cc<i.61179.i6,uYY<i7?,668,u.ic79.S c8,6YQ6?giS<7cSiY,8 Y6S8 c6iScV9<<9.,6,SY6SU7YSc88qu.i1S79u6,.Sc6SW?8f1<a1u cuSYi7E8m 9iv,81I,b.ui6uY 17DcS1 <i1  7SS u6Kuu 8S c 1u7<.7 u.SY.0YY 6cS1u<<?<o.Y6cSw61U1,99i7.u?678i16:<?91i<.?u 7Si1i6?,cc<S.Yi68<.Y69?S9Y<*,u,cci<?.98,uu9  .<96 =u61S?u,<9179.<7 8?99Su.cc9<Yu, <S, YI<uu6,8ic:9Y<99Y 6S%6SV1.S6c?1,?9aSi.?S<8,cu81,S6Y8.177<71Y?D,812ui9, <<?f1<i68S6u3<?119<<1 9YS8.u-i?7Y 8T,89?,Y.<iuu76<61??1,i11u9c?,uu<881YYi8,,1c8.u9 <SY9iN,uccYS.?99<<Y.7  .uY<k<891c87u,9 78YiSS86 7i<Yi98<Y.<7SS9YS6c?,_Y<,Y.96?,.c A8u6Yi7?Y1i<91# 8S? Y-<uu h?<?19?7,u17uS9Y 8<. Y&S6uS<u7<.1698<6 ;Y,81u7i.79 uHY8A?YY6<Su, <<<1.?6,S16uluY1c9?Su6<7?6Y?6S861ii8Y79,<1.SicS 98S7.16ii8,Y9<7c.?7NSYYYP8,76c<6u?99S. 161.sci8uu7i,?7., 18S6?s6??c9<.11 iS< ?6 uS67S9c11?<o.i ?.<. 5.8118<,,<<S7..Y7 u.9 i<c?cZ<Yuc92u1.8<c?81.i6u7s77Yuu6788Y.7,?ccC<uY6 .?.Y7I,881iSi?81Y<<uc ?um.Y6Y8817Sc,69?<9..71S89ci8,.1677c7 ,71YSS?86cSi1c 9,<1.S7?S 98lYY76c?Yu79u7I <61uicuS6Y,6c<6c89187Yud9u91iiu?69c, u9i987ccMu,868i8Y691S9Yi>.Su17<iYi1179u,<.uic77i87 6iYuc98S817 8?ic8i9,S9,78c8 Y?6Y?79.8 .i9Y71YSi.?6c,cY6BS?1Q <,,1 Su?.66?S9c.81,i9<,?c6iSSY  6u?<17iu1S9.7Y9 6?,1 cS8cSc <uu.9 uYY<6,8<e<i Yia.?Y11i9u76<G186-1<iu<<?,i1?6Y. Yui<,71u,Su7i7S.ci6 ?ccu<.,7 7?iu 66S.c.S1?<-uizct9c,9987uSJ6,88,u697S1c<7,,Yc7i8u16<Su.y.7Hu 6.8cY679,i1?< c896?6Y8!98Y1,iccS9i86u,<wSuc._7,7}?i11<9Y,Y.87,u66<i,,6c 7.1c<.u,.1<68969i,c,ii,b.Si6uY99D>?8c&?zu._67c916SYSc iic 9<89u <cu79,w<,71,<9Yc96S..u>7u7c,f1,S6c<Rc8 1u79c<6?7 .EKu,91Si1i6uS?cii7?,68<.,  ??9Yi6uS6cc8 ?96977.c u88Y<i78919Sc,u .77Y77?S16<QYYY18?,c6<<7Y i76?< ,i c8h9?i.8icS<c.! ,767<,,1 Su?.66?S9c.81,i9<,?u iS,1  6u?<17iu1S917iu1718u9cS7Y7W?8ucc<1S?..S?8cc18#,uc 891<7?7qYY3c8_h1icYc iS..?q7SW1i}c,c6.<?., i8i SSi?S .iWc,Q6?7.,i9SScc(},868<1,Y 8S,.c<.89c<iYYi9S8c1?i.7cYuq88=18?u,M}?,8167 8uYc8u?91 ,<uYmP?69,Su8<c1i9,<i 77.S7uu<9?78?Yd iuu< 77u S6.8Y6 S1816c<t9S9 SuY.6 YYc?<i,S9976uY718ic<8?? cS87cY<17?.C^i8?y<<iYi9c76u96.,.Yn6 ?.1ci6Y9 i7?. <8S.96i.,9977,c,9c7C.u0i81v?aU?I1c7.1i68S1Y7%6c<9i8iuc 679Y.<.89c<iYc198<1u7 6.<Y,_uY16?zYY.9 u<u16?8,Y18u?S16<<uc 97u Y668WoSS1Y<9u,1u? &8iY?8<?<0?i,c  .,91.6)S c.ic?6697iu?  ,8Yu<6.96?Sc?69S<1.8 3.YYSrS861988u.9K7,Y7S?8  887Y1Hi78uY6<.SY9_<?Y*1<8,19776 <6,8u61S..16.< 9<91S?Y,61Yuc9i c8v9?<.?7YSSY g6?S3li1u,9YS7Y8 HY<c,iuc1N.81uA7S7 Yu0.8 MYi9Y.1Y?,.  18,c.I9.c16<Su1i7S.1961ucY6iS?198<d9Y SSS.6d9.81.iz,, 7u?..<8S? 7i,?19S,?u6 ?79Y.S1?. c<iY.997<.Y7188YYi<cS1187uu<i,. u_i8?c 8P,11Y78., c,.Y9H<?Y6i<8,19776 <6iuic,i6?19.<?., i8i1661?9c,<,cYi,7Yc66?u9 87.?967iY.i ?Sc1c668Sc18 ,,117S9? 6SSY1S ?,c1<S1?967?u96..1Y1i9,i9.<?.76iuS i<9?ic?i c59.< .?7u8iYu66?c5 <7uS<u7,1u<8u1 881??1D7iu?7<S,YuS18c Y8<Y#<<<1.?6,S16u}S?61<<cu99uuY.664YSc7SSYYl7,YuS  S6YSS!?<c9<,u,9YuS. <78.1iU ,c1u7.u 67u?.1S<8Y6YiJc,e6,<.,667 c.ScY.1 i1u, .791c668Sc1S7?n1c78.8 u.<YYS<816 iCcY <,?.i7<Su96h1?,9i7iuS< Su197uucY9iY,,9<7,9Y6S,u ,SiY21Yi91Y967t S6 u< c81??1l7iu?7<S,YuS1.8 YS.,f<<<1.?6,S16uU9? i<<1ciz6,? u6<81c9i<c 1989.?6cS c,^u,i16S6u79Y7i.97sSY96iS,91?7,c, c7rYuSY?7cYii,9i-78.?7Yu<9.7,? ^piYuS 87Y ?6??,Y1<i.61c89.i u76YcS ?u 98ccS_.79.<6Y.1c8FY,<iS<9uS9cS, Y668{-Si Y<L9,1u? B8iY?8<?,1u?1c,1Y?..>S<S1c?i,?1iu< c,9u,8Y.6K8,17??u<J87<176,S1cS8??61?i9u.<1SiY<S?8UYSS7Y9i1<?uP6iS?6<dY.i1,S6u79Y7i.97>S 96W .99i<?u <kS.. )?Yu1ii?, iR7Yc66?u9 88S?91<<Y11987Y.<6c8?6eyY?Y1877cc 6S?.9P.Y1c i.u7 77?9Z6uu5c<S1?,hu<<1S 1,g.?<98Yc8i6,69<,1.?icu?9.6c?u18itu8<uS<1?78u66 iu?ciu<9u 7<S11t7.YYcSi ,69S,D.86?.Y 77u.,1 ?4,Y SS8.YS?8cc18g,Y66891S7?7aYY^c8O41<uYc9?S..1y8S6c6i9.99i<u,6 cu .u<9?<1ci1u8_87.u 6?.uciTu861c? u7 Suu1o<,u8c18 ?u9<77uu7SSSc86Y?6 9<?Yc967?u96..1c?7cY.K<8,uc9CSu YF78ucV?<,c9<<..87uS9Y 8<?1 B8c1Y9S7 .66S.Nc8i?cYU8iuc,  uV.YBS?8cY??,8;8<?176,S Y8iicS1<87,OiiS8.Y}<YSc9iS?c9,,Yu6 J.SY 6<.i6c?Y,S9 76.S7T8u96i8.99i<u,6 cu YS<981 ci6,S91, ., 18S6?B6?S11? uu%9SS9c77Y<ccAC,uiY77uu w.<YcL<8.18?u,99 u<.i<<u, .8u?<11<9u<< 7B.cZ8?8cu?<,Yi<<9c6 Yu Y6i,?S9i8mu8 9<1Y,7.u8cY76,?J9?8c. 9,7.Yii??1cSc, b87cY7 I89YYic? 98?u,a6iSS9978?,6.i1Yi9u?61,icS69861,71u<9Y99uS..9o88<c6i9.c987.u9687SY6_9u91<S,, i8?91i68,cY<i.? 9787u?+9S7Yc6u?8 8*6.61179.i6.7uc7ii.ic1<9,gi.,iY7<iS996vY,c1 78c7968iY8Q9?S1,<8Y89Y86.?<9u89.d9.7cY7iu? c?c.?H,8c17I*,99c8.,.98,8YY<6??6988Y.99?7uY>i8?cc7c??9,<c.79mS9YcKc861,%?ui9689.76c8<c878?Y 6<?c9i8?..9<7SY1ii?,c6c<?., c87.UT9?c1ci6u,1?Si.6i987cci<,868<.,A9,S7 ?6J876z!1,,1?<7uS ?.<Yc6z?u 6<7,u9&u<.c f8u6Yi7?u1K,<uc <7.Y8Su89c ?<Y1k98 c9 ..?.nZY?cc(?1ui <u?137<uS ij9cY1S< u6 SurY8b?YY68S9Yu97,juY6S88YY8?? 17i 1  ??99?7<.u cS,c 9u<c9u 9S 6<71. Y S9,.<?<o.Y6cSL61# ?.9777u?<k7Y9GC<.11S8u,<iS7u1j c,9YY48?616<<11 ??c9?<.Sccui8?W98,u.<i?u896S ?ucc?u,99 u<.1<<uu6YjS? 16<S1y 8S? Y7?uuc^?<?19?7,u17uS9Y 8<?1 r86c.<u7<.1698<6 i??c1?,?u?i8,19 7y.S o??,)97,}.86?.YcS6u.,ei?_,Y SS8.YS?S{ 8icY79Y<u.768S.9,:c8W1uS6,W:.7u1,6 S1c,i.?96c<6uS 1,7Y,6 881i?S,YX77<1i68SYc<8S?91Sicu,<Y76.MSS.iY<Si,uiY<Su  6SS t2u89cu?uuiX,?6117<u8 Y8u,<18,<u, uu19u<1?<MST ,u9.< 9Y u,.Y?7,? c1<,u.99?c.66S81 7iY.9c 8c.<9BScY9(iu617iu,2a,7c.< .886uiS.,cu88u.9 S? uAi8?c 8#,.1O<,.77?ScY1SW.u >S9uS<?<X.Y6cSK61ii,<i?8fc?i7SY 16?8Q1ii?1<1 7.u1688,Y<8S?.1Y? c831SS ? m8YccRgc11179u,6,,8YY77?Ycu<7u89.?,.c I8u96iS..V,8pc89.7 .?668YaS2 ? 1.7,c667SYYiD9Yscl7i,c c?.. <,8cYriucY97<Yui 9uJY8j?YY68SYY,9 ,{uY6S88YY8?? 17i 1  ,?99878.u YS,c 9u<c9u 9S 6<#1Sq 68?1u9<71.96<. Y979?S9c<1.8i8S1.Y28?,ccS.,99<7Y1i6S,cY?i.8 98<1u6 9?9YS6<89c6i7Yi98<Y.<i.S9YS6c?,^Y<<Y.9SS,u1O78Yc9ic.c16<Su1< S,.1BSY?c6iS,1i 7uc96Suc 78<?cc5<u1Y ?7S.6si88 7i,?19S8cuc 1uu.rii?819iYu, 8<<1i6,86c?i.Ycc <uu.9 uYYS<.8)6,S6Y79,< u86i.SY 77?.9ij>ucAc76.S61u7cYzu,798<.c, c7>Yu<6?7cYii,9iz78.?7<SYcc=6,,1S7iu611?cYit.8F1788?u9<77uu7SS 97DYYi6.S9ui9u<6.c7 8u99i7,ccY78c8 .7 Y?<9?ic?i cv9.<Bu,67.?Yu+7?919io1Y <,Y.8<,8YY63YcY1u8.1S<?,9  fu8cQui9, <<</1<<Y.YYSE ?61S?2u8 ?uY.u<uu,68S1c 1u7<.7 u.SY1Ri81/1<<Yci7?19?<uu.61i??.i?<cu1<#7 1 7YYuc<i1,99<, u 6687ccpu,8978i,i19?9Y<<,8 68S9Yi988cu<6.S c777?Ycu<7u89.?,.c 38u96i<..167,uS6i,i.c<c8u1.i9u81S76.9i9Suc.N1Y869<6Y99.?c.?T,8Y1i76?c997i.. g87ci7i?? c<<c.ii?8..i6S?c9i<,,6,< ,1 ,S..9<c86cSi1Y79,< u86i.SY177?.9ii ucAc78186<?7c,i68 9.7,c, <87Y?76.,1.S,,7K8<BYi6S8c9.m8,,1c77uY 9Sc1c6>u8c187Yc6677c.9b8,Y1ii.i18iYu<<S79.S c8,6Y(6?>v,?icSii71 Y6S8 c6iScW117,uY6788.s8<?,1u?1c,1Y?..SS<S1c?i,?1iu<u.. 988Y<z6?919<iu.1uS7Yii688c9iS,,6,<1ci u,69,<c86 8=1u79u79c96SS<Y9g6?76i<8,Y <?..SW88.1iZ ,c9.7.u9687SY6v9uc1i<.,D 7?7u, 1SSY9Quc<c1i1,, 8?9Yi6uS6cc8 ? 9677.c u88c7i7?,16g u. ,?8.cF78Yc979,i1?< 1T .7 Y?Su?ic?i cE9.< .?7u8iYu66?cC <7uS<u,<9<<Su7Y681??1U7iu?7<SS.6N.?.c1??, /,7<Y76,86Y1i.,,68<6.7 ,S6u %.?, ,i1Yi9u?61,icS69861,71u<9Y99uS..9y88<c6i9.c1u7.u9687SY6C9?91i<.,t 7Si1i6?,cc<S.Yi68<.Y69?S9Y<{,u,c<<7,,96<1..6,,8Y6i7?,16A u. ,?,.1<i8u 6S,.c1688,167SuY9<98W ,i9u89<76u169S-c,78?<97<?u9i>7uY.61.8 9i6ci9S8.u5<,,697X,u9cS<c,a 8?8u//i88c9kY,,9887u96iS8Y9 1?,18S8,Y667?19<8,.Y9778Y9i<?ucac7c.17uS51ii8,91Y7,.8i7,i. E6?71c<<u8 7,8uu6<87Yu8S? 67<Y1ii.?9Yi6uS6cc8 ,u6977.c9Y8898r.8 1?S9ui9u<6.c7 87cS8uY<NS8?ui< 7uY<H78uGSKJ,c1 7,.. S.?YcN1Yw6Y8uY19.u?u56Y8cY081?1997i.. ?87ci<6?.19<iu.1uS7Yi<i8uY?ii,71,88u.9 S?196Y88c6i6,<i1<ucc 68.Y9i88S16<9Y99Y78.6668<613Y.91Y<8u6 6S< 16cucYcq,Y,1f?i.?<17 YS61u7 c<c,S6N,Ouc ,.?Y8i6,99i<Y.< 67Y97Zu8,c1<8,<9c77.<7?8u  i7Y91u<7u9 970 Yo7u.c8<,,c i?iuu67S<.66l?<_ <,u6i,S.Y.69?8 1i6,9697iu?  uSY6y98117Q6,c9S71.. S,9c<gi??16i1u899719)6u.uc98S,Yi7< u.6787Y?SP?. 6icu9 iS,.9C8u9c6i6,79c?<.867,iYu<6?7cuifY,17,81i6SS.YS8S??6789c> 8S9YSq,8 ci8 ,u697S1c<7,,YS66?.1.i11?96?8u1E78uc979?91 ,<uc67S,Y8+cu. ,S Y,i <u.<67Su6Sg7,81<86c. c?.u.6S.Sc.<i8r9ci.c. 9SS.cD,YYc.<c,ui8?6Yii676c,SY?69,i?.i16?6Y76u84 ,Fcu7i.<819<88,98ri.71,i1uSjc7?Y,6c?7YHi9,c6.<,1Y9 u<.17 8r69S.?99<<Y.7  .uY<F<891c87u,9 78YiSS8?ciic,c1 ,uuSi,Scc8h.,iYL<cu.v.7?.i6c8cY 8u??6.<?ui cSc. Su8, ,-,?7{7<1c96<uu.Y6:8u96S,u,1Q8191 ,S76<Di,c9.<9u?  Sc.?<6?Sc7iuui1 7,u6  .<cSSY?6v.<S,6 .S..1S?86 8iiu79,79c9 SS6. 6c81c ?Yu7 c,7Y8p88.1iSu,c9.8.u9 <SY9ktc?.cui6?c9,<_.u687V9.> 891<<c,u i7..u718S6Si.Yz9??6uY 8S6Y6z<Y118Sc,, .79Y76.?i .ic,c167,c 6iS619MSucc6iS,137i69ii9S_Y86RYr1<S6c.i1SiY.6:?7cYG9cY9S8.ug<,,6976(8c18<8,u<<7c1i u86cSi...1.<Y1  ,S6Y7ti?, 8S7YYw7,YuS  S6YSST869ii cci8S,18 8S4 _i8,9c17,,8i8S..#6,?7A?i8u,9S,i1c69,c.ci7Y?1c77,< 9<c1c668Sc1S7?,96,8ui<.uic77i89 6<7,u9D?,.<H78,c6y1,.9,88u7<?7Y9 6u.Yc18.Y89.< .?7u8iY?M YP1.i u?<uSi.?6 .Ac._d?,97,?uc 1uG.6< u9688S1S1 7u..  .YY6IwcS178Scci,uY.S6 86cS8D,89?,Y18<7,?Y7S48Y1S<8,Y<?7u.76989Y:8Y,<_Y771?9cu<Y.7 8. ci?u,9cS7un698c9.A?,,1c77,< 9ScYc66?,c <i,6667Sc. &u,9677?, 9iSuc9-S818 ).Sc8i9?Y9,??uc677<Y976uccwS8,1i7?cc667,..Ni,?19i8i,1 9SiY.6??71i76,<997i..9u87ci7i?? c<<c.ii?8..i6S?c9i<,,6,<Yci ,S6.1%.u.1iS7?Q i78.9918,c8788n9i<Sc9i8S,1866u7Y i6,<9.8,.i68S.ciau?c1.S., B77Y9i<.,9ci7,8 98<Yu6y67Y9 66?,cS<iYg9879,16,u.98PYu61?89c8_.7917 Y?ic?ic.c1 88uc677rY967.Y1iS8?9i?< .66<8. 1z<Yucl8fuSi9,89u69?8YSi6ci56?9u<i8S9 7W?.96,??,8o8?F176?ScY?8??668<Y1<9YuYYS6,YSc7S7?6ii?.c9 u8.Y9i7.ic,<6,. .?..96<8Y ii?.c9<?.1ii8S.166??91<<,Y,9Y?i.,66S1c.j?,,1Y7iY691S9.Wy,.YYo8?? J 7<1c<7u?. S8Y718i1,796u<.,6u.1Yc71Y76P,<,1 ?S,.1Su8Yc8i6,69<,1.S<1S,9.O1.71.7i,  c?c.8<88<17i,,6c 7..,i,S<c7Z?.66,<.Y,97?8u%oi8Scc7.?89,<c.7 YS9Yc<c8n 8i1c7qc86.7i.7Rc,q1,i6ii1c4 iS..?^7.<c,i68 9.?cc, 1,iYu76., ci6Y811S7.u69,9YL7,?998<<u691S9.)n,u8c<<7,?99?zu?<1SS SyuYi6.81ui .<uY778.7c?7c,<a.?ic8 .?6.?49?<1,S,,Yti7,.6 18.9.v7.7c>7iu8 9<1Y,k8u8YI<i,S_9?8.,i8Si976 ?61<<.Y,97S8..+i8ucci...1 87uY<i,.19Iiu,Y <8,Y9686uY< S6c,sS,i6j<8u911S,9.<88Y96i?Y9X88.u9i77Ycis??c ci Y89cS7uA69SYccV ,867iH.i SSc9 6S.Yc<8<,?Z6?,1Y 68,.?iiY7)i<SY.9),,16<78,99&S,c1478c8 8S? Y6Y8,Yb?<,< 77,.6 18.c,6 ?u1.i 1Y S?..q7,u6 7i,? 187i9S  ,7Y.iiSt1cSc,69S71176,S Y8iicS11<i,1<1SS1c7?.u6i8&,Y19,Yu6 B.SY17<Yi6c?Y,S9 76.S7h8uY9tucu1,8,cOi6u<987YYu1<i81<9,7u916S7Y9.SSc<c1<?u,91uu.96 .Yc<<7,,96<1..6,,897J.,i1u<cc91J7Y.c &.1c?7c,<d.?ic8 .7q.,w7Y?ceS8,c 7<<.9i98iY?3 .811iYu8 ,7c1.698<cYSi?1997i.. ?87ci<68119<iu.1uS7Yiji88c9iS,,9888uYK6S?9978u.c9S7?Y i7?.cic8<.soc?91iS6u79u751,6c8<Y.i8cu19< 1Y <87Y,m6811.<,Y8-77.Yi6u8c 96+?Y1cik11 ??cY<7..i 8i.?R1,779? ^,8Yci78<19S9ui9?7 186.S c?8u,i1?< 1t .7 Y?Su?ic?i c(9.<su,67.?YcM1YIc6S c,i<u?us6Y8cYO81,i9<,?u89S,79c7uYYcSi ,69S,;.u 9Su6u+g.,668(1<i?,Y uQ<88%<i,,ui1<c,Yi.ui9YSO8Y1S<8,Y<?7u.76989YX8Y,S6.<6., S8i. :6?S1.S,,S 87Y.67<Su  !?Y?11?7cci S7Yc Y?86,88,Y1u77.8 .,,Yc6C?u 6<<,,9<u<.Y<iu1  S?c?1(<712 8S? Y7uuYc ?<?19?7,u17uS9Y 8<?Y6iS6c.<u7<.1698<6 J ,6977cuu6887c7G,?6Y <.u,U87cY76Y8999i<.,1 ?8c9iiS81c6<?.c <7Y79,< u86i.SYSi8?.9ii uc .S..9F8SSc6i9.c9i7.uZ67,7Y,61?Sz?i6,?197.91 189cii.??977iY616<c1c6Lu8c187Yc6677c.9-8,Y1ii.i18iYu<<S79.<6Y.1cus?,i97<,c8 .7 Y?<9?icuN6,ci <huc6888Yu8<?16i<,u691S..?2,811i76?1997<.,<Y7I ?6 . 1S8cc7i?7cY7 <89 6S9?61S<11  ,7 .8&iYSc.iYc 198118<i.S. mu?.c ?Y,69buS.SN88.1if ,c9.iquY c7& 1+?uc1<8.ciD87.ue ,876?f:.81c77,< 9?9Yi6?8  8i.?N1,779? uS7Y9-98nHYiucY9i,?.i7<SY  i,YY1 8,u<67S,Y661?.1,S8,< 77,.69 8.c,i,?c97<Yu9 c?c._<88167Sc.6978.,*6,S1ci7i8119<iu.9?S7Yii68<c9ii,.cu77.iiiS?1c3<..6iS8,.66<?.96<8,9,J<,71,<6,1 .S,186<?7c,i68 9.7,., c87YYF9?c ci_Y891,71ci6879.6F,,117ici91S9Yig.8?17<i.61179.i6.7uc7ii,i18<9uS ,S8186Y,6c?S9Y86.<9c79Y8iY?(cucc?<,,c 7<t.96c,.Y?i,?c97i<u9 cSc.6),8 1ii6.69S8.u:<,,697:,u9cS<c,e 8?8.ui6uY9966?11.<Su.<1SS1Y7..7I<i1?6i17i.<7?u<9?JYY cu<<u79uuS..6Y. c?71YSi?iFuY c7n 1ai?<V?i ?Sf7?u91 ?SZci3?c<1<??uci 7?99<.89cSWc,,iY7<c.<,,^98j.8 1??uui9u<6.c7 87cS8uY86u<11+9YSSY86YY?c i7? i 7,c9<Su< u7Y..: <u,c<u79. S<8Y9nS.cY1S< u6 SuvY9<68Y19i7u,X,7 u16,8.Y97c?61S<1c79Y?9.uAc8818S8,11Y78., c,.Y9A<?Y6i<8,19776 <  uiY1i6?.9.8.u9 <SY 1L88Y1<?S,99S<c.,7YS6YM8SY<6S<u119?7>Yi6?Y<c,iuc19S8Y1.<i.<.1z??,c1?u,;98<{9j6.,6 .76YY618.1Z Y79 Y668^US8iYS9u,1u? R8iY?8<?i6ii<Y6 ?7S.6#i88 7i,?19S8cuii8SS97>Y8u17<8,.&,7cuA6u,6c7;Y?i19?+,6R6<e19Li8?c 84,.1-<,.77?SS98Uc.71,i1uS<?76.S61. c?79,<dc?79< c7;YuSY?S .itc,(6?7.,i9SSccL&,868if.i 8S9.YI,?8 7i?ui9879,16,8898&.8 1??uui9?7 9l6.S c?8u,i1ui6uc< S7YSSu8, ?SnYui <u.<67Su6Sb.?YF 8Yci!Y?..8S<S1c?i,?1iu<Yu8 6S6Y<S1?S 9iuu.99S8.<66899cGu,.1978,S 6S9Y9fi?.cm<7uimi7?cc6<u. i78?. 6i?u9 <S,1,6<?7c,i6?19.7,c8987i9iU?uc1<8.ciZ87.c6 ?89c<i,.,1<77u, 671Y._,?,cc<7?<997cc. 68,Y ii.i1?Scu<i.,i186.,6Y?i9,<9,8,u<67S,Y661?.1,<,,c 7<<.96c,.Y6i,? 9i8iu?GcS<9.7iu8c.76??997<.,i,S<c7:,?6c1<.u, ,7cY7 <89cc7.??9,<c.7 YS9Yc<c8/ 8i1c7fc86.7i.7:c,n1,i6ii1u9 iS..?n7?i1ii8,9c17,.8i77Jcij8?91S<,u8P87Yc66?u9 87.?967iY.i ?Sc1c6 u8cc<7?w99<Y.c  88 u6I,i1S89c8 ,,..c6<S.c88u?91 ,<c i?< 196.Y?Y(iY,c1P,1.S .SS6S41.76Y8.c i7?0 S6 8i6 i7,Siu?7179S,7.6S18?c&<i,?<<7Su66.8.Y18??8Q?irc7 ?7c.?S?8  8S#c<l?,Y.S ,.SY.>YY 1?S1Yci7uSu 6u8.Y 8Y?61y,Sc i<,iY?SY8Sc i6,Si^78.?7Y8<9uSic<c1<?u,91uu.uT.8918i<,6998c,c9,,,Y17i?u668,Yc96?8u1f78uc979,i1ui6uc< 7919W7?ccu<8Y81 86u1698ic.6u,79i8i,1 97,9.7i?7 i31.61Y7cu868,7. ii?819<Su, 8?8.Yi68? 9S8..1987,Y6iS?Yc<c86cSi1c 9,< u86i.SY.)YY 1?S1c8<?<(.Y6cSy61Vu,71?<6.i91u Y7ESYuc(Q?Y8Wc, uu6<87Yu8S?S98<..i9 ScY.y.89182S,6998c.i6.Sfc777?Ycu<7u89.?,.c (8u96*Y,c167,uS6iS6Y6e7?cYY<8u7gi7,.66?8.9.> .71Y?ic.)9Si1,  ?8cYi6.617<u,g .SS  6u8uc7<iY.997Suc6,.YYYic?69,<S.i 6S6Y7rcSY18<7Yi9,76.?6.,.Y9}<?Yq1<8,Y <uS.96SScc,8Y?61k,S1<i<,iY?SY8Sc i6,Sin<G9S6889YYi,Y?1c77,< 9,61c6qu8c187Yc6677c.9P8,Y1ii.i18i1,796u<.,6u.1 u7Y?}iSi uu .7  Y6.u.c6<,,S i< .6 .8. 1QS,8c6?ic. c,9.2<88167Sc.6978.,C6,S1ci7i?8c1i7,6<<7<Y76,86Y1i.,,68<6.7 ,S6u O.?, ,i1Yi9u?61,icS69861,71u<9Y9 i7?. 7K8.Y i?cu9i<?u <wS.. >?Yu1Si<,996771i68SYc<7.?S98<..i9 ScY.<,?i18i.uicP7c..i.Sn. C.?cc6S9ui9?7 186.S#Y,i7c?1?7,uc677%Y9Wcu.17<,,c 7<<.96c,cY6CS?1X <,,1 Su?.66?S9c.81,i9<,?1<i1,<9i69YYcSi ,69S,F.< 98,c,XYcS1188uu997u u6,u,6<8SY9i17?u.7?ScY1Sn86  S9cci7uSu 6u8.Y 8Y??9i<Su9 67Y 1)i?<r?87?Sd7<691 ?S)ci-?c<1<77u, 671Y.&,?,cc<7?<997cc. ?8,Yci7?Y19<cYc9F?8.177uc96i7..c07,u16i,iYu6??i17i,Y89.< .?i9Ss9,e9,81<<6,1 97+Y,<88<17i?,9A%<?11 SuSYuSi..61<iu.1uS79877S8YYe<?c1??b,Y9Y78Y7<c86c?z9,.i17Scc6i8.Y?i78I9i<Suc2.7?Y,6Y?i6StYYb1u?uu1<8,99+a8?9Y1<,c.i,7.u 6?.uci/?? t_<.,F9,S7 ?6c816pS1YS698cu,7S7 Yua.8 zYi1,, iSi.S7 8?  P..c1?7,uc677WY9Hcu.c?<,,c 7<<.96c8cY6i,? 9i<6Y6 S?..^7,u6 7i,.91S7cu}68,8Yu<6?819iYu,N,7i1i  86c7ic8Y9877c79 S6Y<7c.718S7?6Ci<1.9 &8,98ei,71,<6u? .S,1,61uicuS6Y,6c<6c89187Yuo9u9cu<.,9 87<.669,c.c6,.,118iuui6,,1c66u8Y1<7,u9989uu6.S9c8+<?619<9ui .<uY7Vi,6c8i9,S9,8,u1iiSu967,ucc6S8?1 77u.9i9Suc.{9,81<<6u9 9SiY. u?71i76,8997S.,i,S19iqu.66,Sc,6V8<1Y76u8999WF.,1978u< 671Y963?,6YyBc?1 ? .<<cu7 ?4c,7c<<9c6i97v1861.7 c76,76.ip., 18i9i61?91i<.,? 7Sic6 189cii.8u977i.i 8S9YSG,?8 8i.?L1,779? cS1 26q89c??u,u .79Y86<86c9/S? 16<S1U Y?6Y?79.8 .i9,S1c7,9Y6S,.Y6i,8?9i8iu89YS<1.698<cY81,81Y7<9S 9S<YYS1?8cY<<1S997<.Y7188YYi<cS19<S,c ,uY.66NYS cS..y66<c9u <S1Y9k<Y 17<S1uWN?61?<7S661>??F9i<?9< ,Su 16cuY .S9ciin<Y.S68SY6?5c?12pi6YXi7,S ? C8YccC*c19i7<9?i9,>9S7i89GYiS, 967S9w688?6YS<.96u88ui< 7uY<n78u_Si1,i11,1.?icuS SS?.Y6,?1u?9.u?.c61.UY66 .9vi?79S9 SuY.6 YYcY<c,6 ,7SYi66,9YYic?69,i?.i 6S6Y70c?<18<7Y79Y<u.768S.9,tc8y1uS6,Y c76Y,6S?ic679?A9c<6.,9?8iY6<6??cSi6ui98?7., 18S9cU6??c9<.1191S9Yiq.8?17<i.61179.i6.7uc7ii,i18<9uS ,S8186.S c?8u,i1ui6uc< S?.c6?Y?c S8Ymi<?c9Y6SS,6Sl.?YWi8uY  <u?uB6Y8cYG81?u97<?u66i71  ;7?SZuiUY?i<,AuY6S88YY8??c11?u,U6iS8Y96Y?,18L<Yi9,76.?6.uc. mu?.c ?YuSN.7&9,<6u7c,j ?89i,Su i7S.ci >?c ci6,S91?7.Y u87c8t..,1ciLuuW67YYc66?,cS<i,669<Y.c 68,.?ii?616<7uc <S8Y7<78u99iSYcC78,ucii7uY6LS?. .C9,<1Y77u 7uS<Y<69?c67<,, 98Si S6S?8c.<i? 9c7.c, S88Y.iiSH1c<.u.99S8.1668999i<.,1 ?8c9iiS81c6<?.c <7Y79,<1.S7?S6YST1Y 1,i1uS<?76.? 98.61ii,<i?<8cSi.,. 16?8;1ii?1<9,7u91<7u79YT8c<c1<?u,91uu.S668<cci9?uiY<6u_7S,c9Y gu6cc?u,<9179.<7 87cSS/?u9.<9.8 <S6Y9<cu.c?<,,c 77Y.96cu9.kfY?ccJ?1u?bcS<9.7iu8c.ts?,97,?uBi8Scc76<?9 9<i,?9 ?8.1 Y88c,/c..19<<uYii7 ..+7?7c?8#,?wV<811 Suu.6SS?c6f<Sc19,,u.<<88uY9Oucu1#8,1<<S,u 1A?8.(?ic,1in?1c!6S.uY<K1?91<? u7 Suu.+<?u 6o2Y,S98<Y9? cS1 e71u41S?u,<9179.<7 SYc8Wu,i97i 1) 8S? YK<uY  ?<?19?7,u17uSuc.(9,81<<6u9 9SiY. u?71i76,8997S.,i,S19ihu.66,Sc,6F8<1Y76u8999iS?<19<6u7iiS8.YK<u.cS<8,. i< .c6.8.Y9i88S16<9Yc iS..*k7u7Y,&1?S19<u9<9171.,f8u91iiu?69c, u 6687ccfu,89777u, 6< Y.(,u8cc<7,Y9989.<i,S  879.i18Sc,< .7 Y7<78,Y1iSc?16<?,9 .u1Yin<Y?6<S?Y79u,1u? C8iY?8<8 1.i1u8 ,7< S6.8Y6 i?816c?<9S9 SuY.6 YYc.S.,6 ,7SYi<iSY9c{u,.1978,S 6S9196u?.c788Y99689uuicS?c,di,i 6iYu9 iS..a_7?i ii?.c9<?.1ii8S.166??91<<,Y,9 <1.,6.S99cT6?S1187,  6S7Yc6u?817Si?ic989.<i,S  879.i18Sc,< .7 Y7<7S,Y1GS?91u,<,1917,Y8<9?icu(6,ci <9c9678cYui8.8c S6,1 9SiY. u?71iSi?199<,1.<i879i61u6cY<c,8 8?7u Qi88c9iS,,9888uY56S?9978u.c9S7?Y i7?.cicS6YSO1Y 1,i1uS<?76.? 98.61ii,<i?< c?i6u .un<?7cu?S,1A7? 1i 7SmY9Ou?9dE<uY i9,, ?6w876Li8,?iY7<cYi,,h w6Y?S18iY1?9c719_< , 99i<c?c(<Yuc9su1Y<<c?i .i9,S1c7,9Y 6S{6SSi.76i<?1Y9S7 .66S.MY.76? 697iuu96Sc  6Yu9Y Sc,69S719 6,S1cS8??61?i9u.<1SiY<S?8  SS1c 1u7<.7 u.SY.OYY 1?S1Yci7uSu 6u8.Y 8Y??9i<Su9 67Y 1ti?<n?i ?Ss7?.91 ?Sycin?c<1Y8ic6iu?9YS6<89c6i7Yi98<Y.<i.SS uGc.Lc,86Yc167Su168SQ6Y_S?Sc6<9c8 .7).,-7Y?c S8c7N1?i.8 Y8<6Sn9?Scc<,1Y967F S61u< iS1cY1S< u6 Su(Yu698u0u<iY,t+?Y9<<,uS6ui<?8i<<,uu<1,?uY<.8 _<h1,?9,<19u 7,,YYi88116S6u?9S76Yi68u7c,}1,S6c7ic8 u87.,K9u91Si<,996771i68SYc<7.?91Sicu,<Y781.61?,Y <iYi98<Y.<7SS9Y<MYY118iYu<<S71176u.i .8u,i1?< 1K Y?6Y?79.8 .i9Y71YSi.?6c,cY6(?891.?1ui <u?. <8u7 181??1o7iu?7<S<c7a,?6c1<.u,r876Y76,86. i.,,6,<1ci u,69,<c86 8H1u79u79c96iSu.64cY c9S9u7 c7uY86<?7Y9i9YR1u7.u7<8,9Y6Si?S .i2c,%6?7.,i9SScc_q,868<.,  ?uuYi6?8 6Ni.? 9?,u.i ?S  36.8 c?i6,Y<S< u  .8,96i7?Y1i<91+ 8S? <6Y?cc6<,,S i76c9icSuc.b9,811<6u9i67<.1698<6 iu.99S?c17i,ScY<6.?8;u<<Y,99S8uS66,6c73u?)6,<c,e uuYY76Y8ic98W,89?,Yu.9u,,9c7cY cu<<u79uuS.16iS161iS.cG??uc6<kSY.9SY86c/?SY_PS?i.?7YSSY 46?S/y<8u?<YS<1u7,uo6:fY,S98<Y9?  S7. S 89 988c?iu?.1c7 8uYc8u?91 ,<uYi<,. Y6S8 c6iScj1/Si.869SYc,i8.71?7iu8 9<1Y,H8u8cY76,?A9?8c. 9,7.Yii??1cScu<1L7c.96i,6c7Wu?j6,<,uu<S71Y9fi?.c?<7uic 89.76c8<c8S,8Y1S<8,Y<?7a1861.7 c76,71Y<iu9<%SY16U8?9Y1<,Y,9c<V.ui68?YSH6,i1887u,91SS1c668?Y9i.c11179.i6.S?c7iiu61<<9ui .<uY7)iuic?7c,<!.?ic8 .?6.?a9?<1,S,,c1e7u9Y67SYYi;9YQ18<?1Y <<u1,78u66 hu,<97<u9S 1Si.1S1?u c8<c7i??Y1?718?Y.8??c11?_c 1 ?9Y<S?SBcYic?Di17<.96i8..ui7,i 6i1u9 iS..?r7?i ii?.c9<?.1ii8S.166??91<<,Y,9 <1.,6.S99cf6?S1187,  6S7Yc6u?817SicS9879,16,7S977 Y7 6<SY.9>,,16<78,99OS,c1g78c8 17YY85,8c .i9,<9Y?i.8 1S7Y68<?<97<,u691S.Y,<8.uc.<i8;9ciuc,<<u,97Duu91S8cc7=,7c1i u86cSi...19<<uY<1S8.YA<YSc9i<,Yi178u1 7S66<^S861.<.,1<?</9?6i.<c?S ,?IY<Sc, S76Y.j.81k?i_Y8IA?7u86<S6YYZ6c<11S)c6i.uuY<68Y<c,iuc19?8Yc.<i.<.1w??,c1?u,99 u<11<<8u6Y+S? 16<S1_ 8S? Y7?uYct?<?19?7,u17uSSY6a<?c19iu1Y967X S6 uS u81??1a7iu?7<S< ?61. 1?89Y.9L< ..6cS699ii??1 88uY46,99?<cS6cSp1,81F,YuS S76Y978?.c3i,u7<?7b1877u1 ii8?Y9<,Su9 S7cY,SY86cr?S, ><?i1c7YSSY O6?SfT<u,99uuuYi<,uM 08<Y7g<,u.< 8.<Y,&uY11?)YY.&{u<u16?8,Y18u,S6,i .8 uS616w?8Sc6<i,8}77,u16S,cYS788197i9u9(9SS.<6986c7Si,81Y7<c. 9SS.c-,YY1?S.?% ,7YYi<i88YYi<cS19<<uY<1S8.16786X<i,,ui1?YcYi.S^6<61??1,i11u9<?,.9<88.Yg5,,7i?<cu1<7,c1^3?Yuc<i1,99<, .? cS?6?O6.8618ccjii,, ?6n876#i8,?iY??cu W.<.1B??,c1?u,,w,7?1861SYc8i,?c6.<9u< Y,iYS<cS1 .i/? 9.7cu6i98iY?T .81.ip,, 7u?. <8S? 7i,?19S,?u6 SS1  %,811S??,tw87197<c.Yc7gu?gi<<c,k uuYY76u8p*<ic?(9u,Y.7 YSiY9S(?81??Y,.:u?,11<u. Yui<,71u,Su. Yu 9?7iuYc,?S? 9u7.u 7YS1Y,ii,i1S? ,ui 7.9Y6i.?Yc8<?Y_ 781Y67u?YuS<81 6i1,, iSi.S7 8?99Su.cc9<Yu, <S, Yz<uu6,8icn9Y<99Y 6SH6Sm1.S6i8Y1Y9S7 .66S.Bc8i?cY9<8uc,<iuy.YmS?8cY??,c91,{.u9 ,9 cS7cSc <uu.9 uYY<6,8<f<i<Yiwc?711i5,96<l186T1<iu<<?,7uS<78u61^??h9i<?9<9c,i.9n6811.S.?4)7<6Yi6u8c9cii.8c?87uY9uS7Y86.u,cce^,u66<.c. 6,,.97i?u 6<?,S96Si.8<78,Y1iS.c16<?,9 .u1.c<c?i .;6Y79Y?i.8 Y8<6SO9?Scc<,1Y9S?..?<,8cY}iucY97<Yui 9utY8B?YY6SSuY,91,&uY6S88YY8??c11?7c9JWSS u6<81c9i<c 1Y78uu6i87. SJ?81??Yu<1u?,167qSYcSi8?Yi?<Sc8 6,i16o<Yu18i?, i}<6Yi6,8cY,l<c<66?7,.L6S?.S66?ic8S7,,117Scc67,8.1i78,19S9, v,< Y8 1869637?ucF<.uS< 7u.u67?i .i9,S1c7,9Y6,,..(i,8c9i8iu<ac7<Y. Q?7 7i,?19S,?u6 ?79Y.S1?i1<??, 1S?71971S?YCii??i<<Y,69YuYY7<.u56<8SY8hu,Y.S ,.SY.LYY 1?41YciiuSu 6u8.Y 8Y,<6.?,c2i8S1.Y48?,ccS.,99<7Y1i6?,cY?7.?%c <.uc96?9Yi6?8  8i.?R1,779? {,8.K77?,c1<S1?967S.17 8,Y1iSc?1 88uY<7,c Y+78uc;?<,c9<<..87uS9Y 8<?i6iS6cS=6u?ur6Y8cYv81?1997i.. ?87ciii?819_1u, 8?7..Xi8ucc7c?61?i9u.<17 ..h7?7c?8;,ubi7Su. S.SY777. 6(8,1u <78 <6,8u61Kc.Y6.?<9<91S?Y,61Yuc9i 1<9i?ic6<u.uY<N1?91<? u?09S7Yc6u?8c<<7,?998cuu6.S1c7S?81*<iYcY9 ,,167<8,c66 ,.fc?.u1iiSu967,ucc6S8?1 77u.9i98iYu66?cg i u6 7Sc.ug8?717i,,6c 7..,i8S<c7-,?61?<.u,z,7cuU6u.Yc70Y?i19?%u8 ?uY9, uu,c78n?Y9S78uY7?S?c,zc,7cE<9ucV.7?Y,6c?7Y<i9,c9c<6.,  8iY6<6?S .iAc,X6?7.,i9SScc+O,868<.,D9,S7 ?6??,cc<7?e997cc. ?8,Yci78<19<cuc96S,. ti8696iS..1A?,c6i7S,196S?cct<8Y89.< .?7u8iY?k YX1.i u?<uSi.?6 .jc.N ,?iu7iuu96Sc  M7?SluSqY6WS?7u671S?Yaii??i<<S,6 .S..1S?8  ,iYYi9,76u16.S?c,jY,i 6i1u99BS,9Y &.?Y S ,<3c?71? c87.<r9.669i+Y891,71ci6879.6K,,117ici91S9Yil.8?17<iui9879,16,889764,i18<9uS ,S8186Y,6c?S9Y86.<9c79Y8iY?kcucc?<,,c 7<z.96c8cY6i,8?9i<6Y9 7ScY<:8u8cY76,?59?8c. 9,7.Yii??1cSc,? ,7cY7 !89ccic?69,i?.i 6?9Y70c?<18S8,Y667?19<8,.Y9778Y9i<?ucTc7?Y,6c?7Y>i9,c6.<1., c87.<A9?c cibY891,71ci6879.6G,,117ici91S9Yib.8?17<i.61179.i6.7uc7ii,i18<9uS ,S8186Y,6c?S9Y86.<9c79Y8iY?{cucc?<,,c 7<D.96c,.Y?i,?c97i<u9 cSc.6_,8 1ii6.697<Yui 9udY8r?YY6<8SYu487i9  u8<c7FucS11<i,1<1SS1c7<uV6?S.Y.i17?u.7?ScY1SA86Y S9c<!/uSu 6u8.Y 8Y?61M?1uS68S.ci6 ?c1.>?Y89cS7.Y69u6Y<01?91<? uul9SS9c77u,cci<?.98,u.<i,S9c86S?6 6<7,u9;?,.  18,c.&9.c16<Su1i7Su.cSu8Sc6A ?c11< 9Y67SuYC7,? c1<,u.99?c.66S81 7i,? 187i9S .SY ?6 ?617<c,u 8S7,Mi688c9iS,,5.i1u? ,71 u}<u,c 88Y9wi78u1 7S66<W1.i1,<6?  .?..96<8Y ii8?Y9<,Su9 <SY 1/88Y1<?S,99<7Y9168S1Y7h6c<1,<u119c?19i<1Y<Y1i?,,11,uu9  .<9c7.u cc?u,<9179.<7 87cS8uYiF<8Sc796u1.?6I?ic??<,u 77,.69 8.c,78?<97<,u691S.Y,<,8cc<N.,8iu<9u 7<Si9<7,.?fui<,1997<9 6u,9c7ic8Y9888u.9j7,Y7S?8uc7i9,91T,Y.<icS?c,4c,7c_<9uc_.S7Y,6c?7Y<i9,c6c<^c8 1u79c<6?7 .kyu,91Si1i 189cii.??977iY691S9Yi(.Su17<iui9879.S6,8898XYu61?89c8O.7917 Y?ic?ic.c1?7,uc677FY9mcu.17<,,c 7<<.96c,cYF78?1G78cY6 7?.uov,811iSi,S6c7i.. ?87.+ii?S1cS.,? ,7YYi7SS1c90fY.:i7718 u?9YS7c.7 ,icYi1u76.S6.,.YSi8?.9ii uc .?,Yi/88.1i6_,c9.8.u i7SY i7.u91iS,?  87Y.6i6S6Y}S1?S98<..i9 ScY. ?u8c<<7,,967?..6,u..1Z??,c1?uu<_,7 98<9uic8V1?716,<u1iiS,Y6  ?. .i9,<9Y?i.8 Y8<6S%9?<1Y?1u89177.6S<8,cu81Y8=<8Yc, 7ua.Y&S?8cY??,c91,01.<?, Y.8?8l1Y<c,}<17 ..I7?7c?8F,Y6678.9 Y8,Y?di?c1ci 1u9Y,u.9<7Sc6S*1,99<7,1Y9fu?. 7 ?S6c87c?9cS7u<69u6 9Sc8a67<.1i ?,c98SS8?ciic,c1 ,u.ii,u<98ju89cu?uu<F,7 9S 1.1c?U.c?1688uc<7,c166Y?cc/<8Y79<Si.86c,cY65S?167<,, 98Si S6?8iccic? iu7<c, 988Y<H68119<<u,iY<z9?  u cSScY7M?<c.79<S9967986cSi1c 9,< u86i.SY./YY c ic,S<?7?Y,6c?7Yhi9,c1<<1u9 <u Yu<9?S6c87Y,9c7<u.68.uc<7,?998iSu6q6S7.u6gu,ccBB,uiY77uu 0.<Ycg<8.18?u,99 u<1Y<9,Z99z.c?c/<Yuc9gu1Yi-<Y?c8SSY7Lu?.9Y SS Y6nSY>18<?1Yi<,?1u67.bYYiS,81Y,?u  77   Buu9688?cuF.?p9 6uSc6uV9? i<<i?wH6,S9SS?S5cYic?=i1<1.96i8.Y?i7,i_S?iY9 S7<.96687 ii8?Y9<8.u? iScYc6 Yu1iS,,9 87<.6 189cii,YY1<77u,i6,,Y.7c8#Y i.,c1689.i ?S 98!.8jc,<71?9u77.969Sd6Yi7..167,uS6i7 Y6w7?.61iSu89.,i1.6cu9Y6HS?1a <,, 98Si S6.8Y6 n9816c85177<71Y?4,815ui_,81!,P.ui6uY 1S8cS1 <i1  7SS u6jS? 887YYi1<?uI6iS?6<bY86cY?Y,.Z.,i1.7Su8 u8Y,S1,,Su. Yu 91< ?<F?T5,Y9c<v916i8<  q?,,1c77,w 9Scuu<,8918i1,6ii<Su  6SS )MYu61?89c8_.79.S c8,6YiS..167,,?6i,iY86Y?< .iM? 9.7cu6i98iY?J .8cy7iu8 97YY,y8u7YP<i,899i1.,6888Y.ii?u1c<.Y.9 ?7.Y7iu.99ii.,c 78uY 6?6Y?6S861ii8Y79,<1.SicS6Y?69?.p1<iu<i 7?Y,6c?7Y/i9,ccu8,u968S1Y6Si8Sc i6,Si>7Yc66?u9 87.?91Sicu,<YSS1.66?,Y?<iYi98<Y.<i.S9Y<4YY118iYu<<S79.S c8,6YO1?,9i7iuS< S?9 E,.YY68??,i<7<1 68uYc8S??i4<<8c 9c,Y..<,8YY6MYcY1.8.1S<?,Y  Vu8cGui9, <<? 1< 9.YYSo ?61S?au8 ?uY97<u88}<d1,?9,<19u 9S 6<#iS) 689c,<?<C.Y6cSU61Au,71?<6.i91u Y7jSYu6<R?Y89i, uu6<87Yu8S?167<..i9 Sc1cd7u8c<<7,,96i ..6,,,Y<i7??668,u.d,Si18 -?icSic..977,uc67SYY9EcucctS8,1i7?cc667,..pi,?19i8iuu9?SiY76,u8c.h ,?69<,c,<<,8.,)S?ic1<i1S97?<9i<c.YcSR,cS1.<Y1 iY? ..S?SZcYic?Li17i.<7?,*9S7786}1i?,h i7? <6,8u61SY.16.<89<91S?Y,61YucGi8?Vig7.c6<.u< Y76..R=<Y,9<Y76.jSSu6Y<Si?9iY<Su  6SS JM6u6c8<9?9 ,?,.  18,c.Q9.c16<Su1i7S.1967?ccY<8Y891<Y.86,Sc9.!9?<1Y8iu89177.6S<89 i*,,61 7.c. 9S<YYS1?8c1i7,6<<7,.u71Sc9YS<cSc <uu.9 uY.?%i8Sc9i6?Yi17i.<7?S8.S77.u{1i?,R i7? <6<.?c9S ,8}98.u_9 S.Yc66u91ii?, _8<6c6<9u?9c66?Sc1<8,B<Y7S.S 689 8i.?K1,779? ?uYciS<?.siS9ui9?7 9!6.S c?8u,i1ui6uc< S7YSSu.8 ?i7cJ1Y7S.8 Y.?.678?c67<,, 98Si S6.8Y6 V9.96c?89S9 SuY.6 YYY6S.,uo,7c.< .886u51.,cu88u.9 S? udi8?c 8=,.1 7?9u ,,,Y7S8.9I1<8,Y <uS. <78Y6iS..99i8,, 68SYY6<687cu/y,.9S, uu uS7ci7.?91Sicu,<YS<1.66?,cS<iYi9.8cuu6.S9c86S?619S9,u .7198<98699i,.c1?7,uY6i?6Y.L9?i1.i+u7 i?i.?ic8< .Si.81.S6,? 9S<Y,<,8cY2iucY97<Yui 9unY8M?YYc.SuY,f6,:uY6S88YY8??<19iku. c7? u698 p<ii.nk,,YuS  S6YSSM?u 6<8u99YS,.SJ88uc679?Y9c< .8<u7  S61.1cP8.ciiS<1977i8?YSC6,i1887u,91SS1c6 u8cc<7?j997i1Y ,,8.9S?8 16<<u.i17<9u QuacSS9Y8Wu<9.89SS6 i76.9c<S8,7i77?19<,.?Y.78.P67<?,c9?u?.6<88Y6<!YcY9S<,9S ,,7Y7Si.. 9iuu.99S71i6886Y9i...19<<uYiiS?1cX<..6iS8,.66<?.96<8,9,6c8kcu<i,1<?<Qu{ c8. ii8?117<69< Y,iY,(6811.i?u,9YSic6 189Yti,YYcH??, i S<9c77.?Y 88c798<Y.<7SS9Y<fYY118i1,796u<.,6u.1 Y71?,iSi uu .7  Y668%{S8iY7Bi<99Y SS Y6hSYHcD7iu8 97YY,Q8u7c?<i,899i1.,68,8YY<6??6988Y.99?7uY0i8?cc7c?61?i9u.<171Y9*i?.c?<7ui667<.96i8..ui7,i6i<?Yc <,.9i<88.96q?,99<7,c, c7kYuSY?7cYii,9iD7uc66889YYi,?S98<uu6<<7u9 6?.?cY87Yc- 77.c9Y88 ,S8?u 9<Scci7?,.c<iSuc6iS,.6.<9u< Yu1Y86Y?<ISi9,<9Y,1.8 Y8<6Sb9?<1Y?1u89177.6S<8,cu81Y86{8Yu87<71Y?K,81/ui9, <<7icti6u8 <8?8C1Y<c,Q<17uY76?861i41c 977S9u ,7?987c.8U1i?,p i7? <6,8u6SE1,99i7.u?678i16<9?71c<<u8i,<Y.S68SY6?Z^.811?7cct6S7.Y6i896&iY.69879,16,,,Yc6>?u 6<?,S96Si.8<78,Y1iS.c1?7,uc677+Y9Rcu.61i9u81S76,1icu? c7,8cc)iuui91u?uZ }Scc.Si,811<7u67<S<c7H,?6c1<.u,f8,u..3i7acc6u.,{<?,c7 ,71YSS?86c?59,.i1<1.96i8.Y?i7,i9i<8u911S,Y8<7S(1ii8,99S7,.8i8S.. m?Yu1ii?, iW7.u 6?.uciv?? ay<.,!9,S7 ?6c816_46. 6986187S7 Yu0.8 sYi6,a<S?.1u<<,6Yc8u?<11<9u<< S7YSSu8, uS8Y6R ?19Y SS Y6DSYQ18<?1Y-6? 1?<88i6 ju,<97<u9S S88Y.ii8 1c<.Y,9SS8..5i7ycci.,.1978u1 6S919>i8uY6icc 977S9u ,,?9.7,Y cu<<u79uuS.?6i8cccA cu1_?u.i<SSc9w68.1c,S.,1e77.Yi  8cYui.?197??,1<<7Y9Y6 ., 68<,,96i ..<cu.Y17i?u668,Yc96?8u1E78uc979?u9.<9.8 <S6Y9<c8 1.i9u81S76.9i98<9,p Y8698iu84c7<Y.6 ?7 7) ,6977cuu68879iES?617<c?Y 8S7176u,9cSScY76,<cci9uS6YSn.u.c1S7,. i< .cic8798f<,71,<6?  .S,1,6<?7c?S6Y,9.8,.ii87%ci/S?c .<7u,9cS7.Y698c9cMv.811?7cck6S71. q?,c1<iYi11?^.i6.S?c7S<?,16q u.ic?,.1<i8u 6S,.c1688,167SuY9<98v ,i9u89<76.,<1Si9,66YucA7iuS c, .S7Y8<6<i?Y6m,?Yu66,7?ciS7Yi66iSY,19,8.u<6u.6uq,.,}<88uu997u u+iu,c18S?1i17?u.7?S898yiY76cS6,Y c76Y8<78c1iJc,c6c<6uS 1,7Yu<9?S6c87Y,9c?iuu668Sc.7.?167<..i9 Sc.uk.8117Si? 967<..<1S< u6a.p1S89c8iu<m9,788,Y &8,iiS<?ui cSc. Su8Y ,i9u89<76c6 1S,ciii?Sh <uY99YSc.6%,S?1ii6.61Y7cuu<,,6ci<6?? 9iuu.9?S71i6u86c7ic,<9877c7 ,71YSS?86cSi1c 9,< u86i.SY.wYY 6c8Yc8jY?,.77PSYcSi8?Yi?<cu1<a761 7..u6S?S? 9u7.u 7YS?cijS?916iY11 iS< ?77.< 17_?9iY<Su  6SS >Nu89cu?u,_A,,<9S<9.1c?Z.c?1c<113 u?6197uY?YPiY,c1A,1u1698ic.-?,79iS6,1 9SiY. u?71i<i,8997S.,68,8YY<6??6988Y.99?7uY5i8?cc7c?61?i9u.<1SiY<7 8?1,icu71V79.c9u,,Y9i8?116?i,S9 76.S7t8Y96i?Y9a88.u9 S7cY,SY?S .i6u,1?Si1i68SYc<7.?91<<Y11 87YY<SS85Y i.,c1689.i ?S 98Z<891,<,,Y<S7 176.?iY ic?Y18<6u6 <u1. 71?i ,;6cu1OSi.?6cu YSSY?<2<<uc6i,,Y.6l,S?1i87ciZ6<Sc, 9u8YY76..3uiY,89676.<71889cS?..11<i,1<1S?1cP<.uYX8r,Y19,Y.7i.S6 ,76.7c <6uS .?,.?l88.c676,71u<_c,9c7;.uGi81}?g;?G1c7.1i68S1Y7U6c<1Yi6,Y<YS<1.7S.? 68 ,u1c,uu9  .<YY7iu66Y?u,<9179.<7 S c6i7,c1u78.7ii7 Y6=7?cYY<8u7 77,.66?8.c,7,?16i<uc6i,?c.6<8S117iu,9697iuu96Sc  T7?S6Xiuu.99S8.<6689.Y7.?69,< .i<77?.Vli8?a<i1Yi9u?61,icS6Y?69?.y1<?Yc iS.uue7u7c,31,S6c<6uS 1u Y,61?SG?i6,S91, .,  S8ci8S?.1Y? c7ii?11.68Y<Y1i?,,11,uuS 6S<YcE98ueYi6,B<S,i1C<1, Yc8u?<11<9u<< SSY6{7?cYY<8u7_i< .6678cYui8,767<Y,u 7S8..<,8cYTiu.611<,.i6iSS  6Yu91i<c,6 ,<?Yi66,6Y1j,,i9i<S1 91?6.16,?i1iiSc 1989,99.,.Y<77?u6 0s,?1 88c969S?9<8<89c.?u,,6iS6Y761?S1i31Y89Y<.u 6,SSY9h8?S{u<Yck 8,6.Y6886c6i<c1988cu,6.S9c7778Y18iS,i9<7S9h6.?i .ic,c167,c 6iS616P78ucR8?ui96< .8 iS9Y?y ?cc?S6uS977uYi  8,Y6L c<1Y?Yu6<?S1 8638c18<8,u<<7c1i 986c7i.?69,86.i6iS8Y97S?,18S7,Y>i78uY6<,..8S,.71?ic,?<?7u18<6.<c,i6,?9.</u7<BSY16J?.968S.,?9i7c.c  .uci7,8 98<Yu6(676.lSS8918i.,,998cc.ip,. v6Y?S18iY1?98S,.S7iucc97c8c1???uc677<Y9 cucc6i??99.,1uc69SY ,Si,76iiiu.i1SiY. u?7YiSi,81Y7<c.9988 c6,.66,<.Y,97?8..  8?99/u,.1978u< 6S91c6..1Y/8S? _O7<16ic76YS61?8c}?Y,S9S<6.9<88.YU5,,7i?<uu7 9S9.BSY8? .i9u,9cS7u<698c9cqu?719<9,l<Y7u1c6u87c9i9?ziY<.c.9.78986 u61S8Y?19<<Ycii.8.Y<< Y c.i81S97S9Yc668ucZi9?upi7?u8 Y87.%^.?icG?Su?i1Si9c6?8iccic? iu7ic, 788Y.o6u6c?<i?(19< uj7188c9S8,,9,<c.7iYS9Yc<c86cSi1c<997cuY6i79Y.N<?Y1,i<Yc9I<6.S69SYc7>c?Y& <?1? cu<YuSi81c,<iui9S, .,i9S.ccN6,81c77cc 9S9Yi#.uP17<i.69?89.i ?S 986iY7 6<<,,9<u<.S<iuc  i7,c9<78u196u1Y?<c?<6.8iY89<<9.,6,SY6SK9.7cY7iu? c?c.c61.Uc.<i,8977.c,i8,198S18?cs<i,?<<7iY7 ;u9 ,i..,c,<<1< ,S6u e.S, ,ic,<1.789u ,8.Y?S7.916S9?9 8,u.9w8SSc669.99i<?u i87.ciS,876c87u8J7<61i68SYc<7.?S98<..i9 ScY.<,886ud1Y-1Y?1u <c,,Yc6l?uIY<7,u9yu<.c !8u6Yi7?Y1i<912 8S? Y6.uY ,S.Y9i <u.<67Su6S_.?Yp 87c.&17, S  8uc.b cY16<>9Si.,69<69YYcSi ,69S,k.u 9Su6uW+.,6 8 1<i,,S u3<88{<i,,ui1<cc1i9ui6<61??1,i11u9Y78.6668<61iSY198?uu6<SS79:68u9cVi8?bi><6c6<Yu19A8S? 1i? u7 Suu.,<uu8  8 ?u9<77uu7SS.YYS .1 1Sc,,<S< .u6.S 6Yi<..167,uS6i7 Y6v<?.61i<cu1=?q.S<9u8 u%9,8cS<61ii6S<1,6 .8 9Si,86c<<..  8797>,8 c8<i1S9.7Y9  9,99cSScSc <uu.9 uY.Y>c861,iSui9689uL6cS6c,6?,i16S6uSh.7%9,<6u7c,79?S9c<l.8i8S..k6,?7K?i?u,9cS7uZ698c9.P1,,1c77,< 9Sc1c6_u8c187Yc6677c.9m8,Y1ii.i18iYu<<S79.<6Y.1c8B1?716,<u, uu1.c<1u. B?<?19?7,u17uS9Y 8<?iYUS6cY<u7<.1698<6 i??c1?,?uSi8,69.7B.<6,??,_97,+.86?.YY.7uYii<i1u? ,71 u6u.1c9<8,<96? .76c7Yc8S,.71uS9uSic,71,6cuiYui6,S9.8.u;9 S.Yc66u91ii?, b87uc66889YYi,.,168i,  6S7Yc Y?817S7? 967<1c<78897;9.ic1<9,a ,?8.6t78,c6i?,.9,8,u1iiSu967,ucc6S8?1 77u.9i98SY<V9?6178iu89YS<1.698SYci,cY9<8.u66,SSci7i?. ciuu.99S8uS668999fu,.11?8c9 6?9Y,<c8?1,iYui667..96i8.Y5i7,i6i<?Yc <,.9i<88.96t?,99<7,c, c7EYuSY?7cYii,9il78.?7Yu<9.7,?7afiYuS 87Y ?6 u8cc<7?)99<Y.c  88976D,i1S<cc 9S,Y.<7<8? 6S,YY1<?.1, .75.,>7Y?c S8,c 7<4.968uYY.7889+?i u6 <S.916<.uYCSG,SH9?81u 988.S^6Yi6689,<0878976?u9 ,8?86688=c7 ?7c.?S?86 8iYc<1Y,Y.S ,.S.9778.yi8.Y99uS..9L7uic.i6?79.8.u9 <SY9i5?uc1<8.ciF87.c6 ?89c<i,.,1ci:uu<YS7.u6CY<ccO{,uiY77uu F.<Y 61?,1.i9Yc967S.1<7SqYci8,81u,<uYi77 Y6w7?ccu<8u7Ri7c.6678c.Yi8,767<uY9 S,c97<,8c i:u,69S7.c. S88Y.ii8 1c<.Y,9SS8..Xi7mcci.,.1978u1 6S919J<u,c 88Y9Ki78cc <8.Y i7.7c <6u7 c7uY8t7uicci6,79ciY.867,7Yu<9?S6c87Y,9c?iuu668Sc.7.?167<..i9 Sc.u5.8117Si? 967<..<1SSc8ruYi6.<cc99R?8.177uc96i7..ck7,u16i,i.1D9?i1.i?u7 i86..698ic.6u,79i8iu?KcS<9.7iu8c.76??997<.,i,S,YuSS8119<iu.9?S7Yi9 ,9YYic?69,< .i 6ui.S6 86cS8q,Y667?19<8,.Y9AS8c1,?YuSP.76Y, ??i ii8?Y9<8.uZ9 S.Yc66u91ii?, >87.ur ,876?Wu?719<9,+<YS<1c6??,cc<7?h997cc.678,Yci78<19<cYc9a?8.177uc96i7..cf7,u16i,i.1L9?i1.i?u7 i86u1698ic.6u,79i7iu8 9SSY,!8u8cY76,?09?8c. 9,7.Yii??1cSc,? ,7cY7 K89cc7.,79,<c.79<S9Yc<c8R 8i1c7Kc86.7i.7/c,v1,i6i<SYc iS..?g7SK1iiS,c6.<?., Y8i S61?9c:8.ci 7,8.ui98S cS7.,1c8i,u 6SSY.<.8S18i.ui1 7c..i,8ic8L.,iYq<cu.r.7 176Y.i .79,i6,i .8 YS616668d61iSu89.Siu 6c8..?78?<97<,u6 ?S.Y,7.S1c?i,?1iu7<c,  u8997i?8c1i7,6<<711i6,86. i...19<<uYiiS8.Y3<YSc9iS?c9,,Yu1 ,8ici3SY 1,S9u7 c7uY86<?7c,i9.c1u7.u967u?.1S<8Y6Yi6c,Z6,<uY7iu6ci{?? !M<.,z9,S7 ?6c816TS8Y?6 8cu,7S7 Yu5.8 *Yi6,3<S?.11<<S96Y:S? 16<S1s u79.uSu?< ,SZY>i<?,1S7u8<Y88<?,1u?1,c1Y?.1c<c.VYYiS,81Y,?uu 7S9Y96XYY1<8Yu<i?7i9< 1u YS7c?u17<9u99!uYYS<..S ,b.,?97< .77?Sr9SS7.921<?,.<?7c.17+8Y9 Sucu1<<1u9 <u Y7tSYu6iSuY891, uu6<87Yu8S?.1Y? uuK1,S ? V8Ycc-mc11u77u? 68i.1S ?71S?uYdd?7 9J Y8Sc8XYc?1??Y,1<<71 i<9?Sc<i9,697?i.8 Y8<9.; .7Hi8YY6977uu(6.8S6 )u?u177ic. 9SS.cm,YY1SS.c,!F?8..  8?6uii?uc6<c1  7SS u7?S? 8i1c 1u7<.7 u.S.nPc8 1,<.,S<?7c.17&uc9Ei?cu1<<1u9 <u .u<9?<1c<<u8J871uY688,Yc7.?91<<Yci9Y?c.IK.8717S7?,11<Su9 u.<.1618,18S9ui9u<6.c7 Su99i<,c9<78c8 .7 Y?Su?ic?i cO9.<(u,67.?Yc31YD69SHY9 Su?us6Y8cY=81,i9<,?uviSu799S18?c+<i,?<<7Yu6 Y.Yc77.Yi6 ?Sc.i?uYYS6,YSc.iYc oYi1cc6<.S. 0u?.c ?Yu?g.7u1,6 S1c,i.?96c<6uS 1,7.9<9S  c<<?O9c79.ii687YuWq.,1c<<,. 8uu.,<,Su 8i.? 9?,u.i u76YcS ?? 9<7Yc967S.17 8,Y1iSc?1/88u1<7,c Y{78uco?<, 117,.. 9,cY6+S?167i u6 7Sc.ub8?717i,,6c 7..,i8Scc7QY?9 9<S,<9976.7<i88YYi<..19<S,c ,uY.Y;c861,iSui9676.76c7Yc8i7.i1,<6u? .?..96<8Y61i8?117<69< ,Su 16cuY .ScY6i_<Y.S68SY6?& ?7c ? u?r9,?977uuc ,8 ,u1c,uu9  .<Yi<a.76??u,<9179.<7 8?Yc*?c?1 88cy<<,c Y:S8,DSi.,Yi ?1c 6<.?.jbY?ccG?1ui <, .?4,8c17yQ,99ciuc, 988Y1J6YicSi ,69S,h.Yi68? 9S8..19<S,c ,uYYS<.861,C?ui:i78uY6<,.Y9bS8c1,?Y,Y c76Y,6S?ic679?Y9c<6.,9?8iY6r6?71c<<u8 7?7.ui98S cS7.,1c8i,u 6SSY.<.89c<iYc198<Y.<7SSj. 5.?cc6S9ui9?7 186<S9c,i,?YiS<11S96,i.17B?i1.i?u7i<7,.69 8. c7,?16i<uc6i,?c.6<8S117iu,969<nc, 988Y<O68119ieu,iY7<Y76?u6 ,i.Yc1 87uY<i,.19>iu,Y <8,Y9686uY6cS6c,RS,i16S9u, c76Y, ??ic676,S6.<:1,i6,7Y,<98S1ciOu8m87uc66889YYi,.,1i8i,  6S7Yc Y?817S7? 967<1c<7889766.ic1<9,B ,?8.ip78,c6i?,.9,8,u1iiSu967,ucc6S8?1 77u.9i9Suc.e9,81<<6u9)c<cu,<,81 iiuY6a,8cu6i871c7&u?9 9iuu.99S8.<6689c9ii,.cu77.iT6S8Y9;S?, ,i1Yi9u?61,icS69861,71u<9Y99uS..9>88<c6i9,99i7.,u678i16l8?91S<,Y,9 <1.,6.S99c%6?S1187u,9 78YiSS8?ciic,c1 ,uuJ<uS7986%YS18<9,Y ,,?.c-7S<c9S6.c1}88u1<7,c16b7u.Y}<,,1 i?i.Sic8ic.E?,7cQ7iuS c, .?},8Y67Sc,9r67<c,  u8997i?8 ci<u.9 S717  86c7ic?u9877ci cS6Y7mcSY18<7Y79u89.S<cu79,4c.icu<6uS .?..1<78.1i= ,c6c<8c8 <87Y,P6S 1.<,Y,9<S7.?<6u,c.7,?768i_.i SSc1.68?,cc<7,Y997ccc E,8Y1S7.c 6<7Y.1{S,.1WiuiY1i9,i9.<?.76i?6u6 cucc4S8,1i7?cc667,..2i,?19i8i,1 9SiY.6??71i<i,899i1.,68,7Y.ii?u1cSc,ph87197<c,6c77.8=9,<1.iii71Y9li?.c?<7ui i78.9918,c877?.9i<uucbc76.S61. c,:1,Si?<6uS 1u Y,61?Ss?i6,?197.916i8<6?B8.?6u8Y119?7{Yi6?Y<c,iuc11c8Yc <S.<.1)??,c1?u,99 u<1u<1, Yc8u?<11<9u<< S?.c6?Y?c S8YKi<?c9Y6SS,6Sn.?Yo <?Y1ic,< S  8uc.3 cY1?7iuS 9S6.YS1?i1<??, 1S?71971S?Yfii??i<<<.7 ,S6.1t.?, 8i<u79,76, 6.8,c,Gc,71Y<9ucFc7p1861.7 c76,76.iD., 18i9iPu8?1i<7,,J87.u 6?,9Y9e YY1<77u, 671Y.T,u8 7i.ui9u7c199GSYYc6&Y11?Scu<i.,i186.S5Y,i7c?1:88uc677<Y9<9?ic?i Y81.< u? 6SY6S6 8 c.<,Y6 77Y.i69.%c8i?c<1Y7cu66,SSci56u9 c<iu.92S798 u8<c74ucS1 87uY<i,.19Ji8uY6icc 9u89.76c7Yc878?.c <?Y9 i7?. 7y8.Y i?cu9i<u,6 cu Y7+SYuc,m?Y8Ju?191 ?S3ciM?c<1Si6u. .71 ?66u8cc<7?;99<Y.c 688 u6#,i1889c8 ,,..c6<S.c88u?Y18<6u6 <u1YS<98u1.i9u89<76.9ic88c.t9,8cS<6u9B9S<1,6 .8 9Si,86c<<..  87976 ?617<c,u 8S71i  86c7ic8Y9877.7 ,S6Y?;.?, ,i1Yi9u?61,icS69861,71u<9Y99uS..9f88<c6i9.c987.u9687SY6)9u91<S,, i8?91i68,cY<i.? 9787u?V9S7Yc6u?8c<<7,?998cuu6.S1c7S?8 16<<cci7S89,6Y,6c?S9Y86.<9c79Y8iY?Ncucc?<,,c 7<I.96c,.c7i,?c97i<u9 c?c.U<88167Sc.6978.,s6,S1ci7i?i1<8 ,? ,7cY7 n89cc6u.,1S78u.6iSuYc&..cY iu,.1 ,Y.Si.S= ,76.71,i ,8 iuS. <78.1i6W,c6c<6uS 1,7Y,61?SC?i6,S91, .,  S8ci8S?.1Y? ,9V ?c16<1Y<Y1i?,,11,uuY 8S6Y6^<Y11S81,,_.7SY86.?iY ic,.6,<Y.8 .8iu+pc?. .i Y79Y,i1.i98i9,6 ,81Y<6Y69Y, .6h,8S1iSN,899i1.,<.,8YY<6??6988Y.99?7uYti8?cc7c? 68<c.79%S9.YPc8 188u?z i7S19<88, .D1.i1u86c,_c7618 1?7cui9.91u7.u968S<Y6O9uc18<.,9 8<S.669,9c<7,? ^889ci 8?c.<3.8 17S7,?6977.c u889866u6c1<9ui .<uY7HiuiY1i9?TA.?i.7ii79166Y?cc <8Y716Si.8698Sc,i8.81YS6u?i9,81.69u7YY<i,?9c8cu?6,Scc76J?91cS.?.18?8.Yi68? 9S8..1987,Y6iS?Yc<c8?1,icu71E79.c6cS6c,6?,i16S9u7 cS<Y8<88.YWU,,7i?<cu1<z7616<9u#6??S? 9u7.u 7YS1Y,ii,i1S? ,md9S7Yc6u?8 8i<?99,7,uY7SS 976z,i18<9?1 ,S818 D?iY S9Y89,88u1i77 Y661?. ,i u89.Si.u6c8.9._9?Scc<,1Y917,YiVi8S6 iu.9977cuu68S<c7_u?9 ciuu.9 S79? 1.<YYSY?dm,861< ,S6u N..c6.ic?=9u,Y.7 uSd6<;c8j1u?Yu79Y7i.97+88c?8Y.*6:8uu7<)7YYSI88Yv?ic,1in<6c <<,w6?6F?Y1ci:11 iS< ?68SS 7S?Y,iY<Su  6SS L61?,cY<7u81zu<.,6u.1Yc7Y. 6c,<,1 ?S,.1Su8Yc8i6,69<,1.8ic8ic.g?,7cW7iu8 c?..?%,8c1i8Sci9?<Su66iS897e,811SSc,? ,7cY7 f89cc7.Y11978,S 6<11c7?.c ,bc?d1u7iu17?7T.j6c?.6i<8,19776 <6SS6c.i.?1i?<6c8 c87.)R98Y1ci6u8/7<lYi688c  Sc?91<<Y11 871.766Y<c,iuc1^<8Z,ui,S7 _6Y?S18iY1?9u77.969SD6Yr..c1 <7, < S?197u.Y  ?<,116,1.i6<.? i7S?Y4 iuu< 77u S6.8Y6 i?. 6c??9S9 SuY.6 YYcY<c,6 ,7SYi66,9Yoic?69,i?.i 6?6YS<.8s6,S6Y79,89uS6cSUc878?.cQi,u7<?7c.177u9. 79,<i?i+uY c7L 1ES8.cS?S,7A7?918< u<9 8S? 1i? u7 Suu98 ?u8cY8 ?u9<77uu7SSS u).,ic <ccY96S,u?Ai.796iS..12?,c6i7S,196S?ccp<8Y891<Y.86,Sc9.M9?<1Y8i,1 9SiY.6??71i76?1997i..9u87ciii?819<Su, 8?8.Yi68? 9S8..1987,Y6iS?Yc<c?<YAic,99i86.7 uSk9,bc?<c.<81u9u,1.9O88<c6S ,79ciY.8<,,7Yu<9?S6c87Y,9c?iuu668Sc.7.?91<<Y11 87YY<SS89cS_c,,iY<6uF7SS19S7i.uDYiS, 967S9D688?6Yi<8u6,8 1}9YSSY86YY?c?<,,c 7<N.96c,.Y?i,?c97i<u9 c?c.^<88167Sc.6978.,H6,S1ci7i?8c1i7,6<<7i1i6,86Y1i.??9,<i.i4671Y96,?,6YJ2c?1 ? u.<cu7 ?sc,7c<<9c6i97G1861.7 c76,76.i_., 18i9ij88Y1<?S,99S<c.,7YS6Y;8S?16<8Y119?7=Yi6?Y<cYI6?YiY<.c.<7,c S7?.,oY<S,,<S7..Y7 u?91i<c?c><Yuc9#u1.1Q9?i1.i?u7 iSi.86971c,i8.71.7iuu c?c.v<88167Sc.6978.,!6,S1ci7i?uc?<iu79,?8..  8?99}u,.1978u< 6S91c6 ?.c9<8?S9679c96SS<Y9C6?76i<8,Y <?..96SScc,8Y?Y9c<6., S8iY6<98D1ci6u,1?Si.6i687YuF(c<1ciguu<YS7.u6wY<ccHJ,uiY77uY iS9 dm<891,<,,Y<S71186uS9Yu8u,S6,?<1Sicu1Y?6.Y?cci1cML18 .u7uS<Y1T9?<H <7uS<uSS1?<8.7 981??1n7iu?7<SY.66YYYc.S.ci!1,S18<1.YcSA,cS1.<Y1  Y<11c7?YSY iu,.1 ,Y.<i.S6c,kS,ic <6u< .,1.<7uSU _iSY9F8?uu9687SY6Si.61<S,, i8?91i68,cY<i.? 9787uY9uS7Y86.u,ccH3,u66<Y1  68,YSii.d18<9?1 ,,.186Y,6c?S9Y86.<9c79Y8iY?>cuc1<_^,c997ic667SuY_7,?c1<i.u8<u7l1,69?8c<i6?199<K.,<Y7{ ?6 . 1<8cc7i?7cY7 <89 6S9?l68<117ic?6Y7<.Sf1,i1ui)i78uY6<.SY90S8c1,?Y,694,,1y <uicY8Y?S1 <6uS<>71Y,6Y?718ja1<9,7u91<u7Y9.i<c<c1<?u,91uu.96 Y<c<<7,,96<1..6,7 Yu{.8 MY<SY.92,,16<78,Y T8,iiS< c7 .8iu(fcucc6iS,1v77Yuu6788Y.7,?cc3<uY69YSc.6F,8S1ii6.91F7cu66,7?cil6u61SS.,^i,?6176,,9YSic?t9888,.9 7?.66YYSY d ?.9,86.7 YSiY9S48q9i<8u99YS,Y8<78?1ii8,9c17,.8i8SY164?.968S.,9H7<YYi6?8c9cJ6?S11? u,91SS ?668Sc18 ,,117S9? 6SSY1S ?,c i8ui<S7..Y7 S9917dY<iSi uu .7  Y668b%Si7?</i?S1u7uS<Y1q9?<) iYu89uSiY7  .%c8i?cY1.iuc,iY,Y  6u?<17iu1S9?7i.c6cS 6uii.,1978u< 671Y9vi?, 8i<u79,791p ?u1YSSS?.Mi8.c19S,c9.6 S1c,i.?96c<6uS 1,7.b6c?818iu1<9Y?7.? cS?6?B8.86U?<cY<YSS.,SS8.cY8 ?9618c187S7 Yug.8 hYi6,H<S?X17<iS96Y(S? 16<S12 Y?6Y8(9S11,S,,c9<<..87uSr9,I9,81<<6,1 97RY,<88<17i?,9BD<?11 SuSYuSi..61<iu.1uS798778?9ci<Y.{i88u._67?Y9E<?, ,ic?t9u,Y.7 YSiY9SH8#9i<8u99YS,Y8:88.1i6e,c9.8,uS68S.ciWu?c1.S., C77Y9i<.,9ci7,8 98<Yu626S7.u6GY<cc}l,uiY<7uu9nS.YSS 8ucui7ui;.79.S c8,6YU1?,9i7iuS< S?160<8,c<?<,i)i?11 <?.?Y=g7YO18<?1Y9.?u1,7i.aYYiS,81Y,?uc 1u-91<6u9c.???49Y7cuO718?9cii,.cu77c7 ,7 .8EiYSc1S7,. i< .c u8.Y1i7.ic <6u< .,1.<7uSj KiSY9M8?uu9687SY6Si.61<S,, i8?91i68,cY<i.? 9787u,91SS ?668?Y9i.c11179.i6.S?c7ii,i18<9?1 ,S817 o?ic8i9,S9,78c8 Y?6Y?79.8 .i9Y71YSi.?6c,cY6_S?1n <,,1 Su?.66S816 i,? 187i9S ?SiYctc8 Iui,cu91?8.u 9Su6u}?.,4<?Scc<1S?..S?8cc18*? 64891,7?7yYYWc8Mn1<iu<i.,iuS<7S 61(??G9i<?9<9 S..1J8?,c<?S,.9Y, 1ci1Su6?6q?Y1ci*119c?cYi(.8?17S7,?69<Y.c 68,.?ii?6 6iYuc98,,16Ui,6cS79?u9.<7.7iiS?Y6t7?c1<<8u7077uc96Suc 77,?c6iiuu6 SS.1.6RS c.ic?6697iu?  ,8.)ii?819iYu, 8?7u796,6cS7.?_B,86c7 ,?9.Sgc8r18S8?.1 <?u6 Y.S. 6 8.1,S6u79Y7i.97hS696i8,91Y7,c, Y,i. L6?71cUYu8 7?7u 66S. cS7,867<uci91S9.,H,u8cY<7,,967?..6,,,Y17i?u668,Yc96?8u1_78uc979,i1?< 1_ .7#.,=7Y?cci1cB1 i c9<cuS6S6 ?u1.i 1Y <7,.<S<8Y iS.YuH189c57<S1.6S1?i1<??c<-?<q9  u8<c7WucS1S78u.6i7 Ycw.?.c9<8?S9679cc6i8.Y%i7.71Yiuu7 87.1,6cSMcu76?Y9c<6., S8iY6(6?71c+Yu8 7?i.,668?c.7.? 67<Y1ii.?9Yi<,S 18iY,6667?uS 68iY877?,c1<SYc967?u96..1Y1i9,i9.<?.76i8iY8{9S11,<8Y79.Si.u6c,cY478?1I78cY6 7?.u{b,811iSi,81Y7<9S 9S<YYS1?8cY<<1S997<.Y7188YYi<cS19<<uY<1S8.Yz<YSc9i<,Yi178uY6<.SY 77.9Bi<?Y9 i7?. <88.Y i?.91S<6, 9c71. SY?S1i?S,99<7Y1i  S.c7i7??g2<<Y6iY<_.{6 u,cSd6,.9.<19? 1,8.86i.ic i.u7 77?9_ Y,66<S,Y96.<?ui cSc. SuS1 ,8cc.j7,S.S 7Suci6 ?,c6i 1< S,9.u6789c9&+cY1Y8.u&7<SS.6A.?.c1??u<{8?yu?<1uY6uOY?816<6u<<1S81c7?S16<S>c 1 89,9< S .9A<?ccu<i,.9u,1uu7,88c?8Y,?6u?S,Yi ,9 16?8V1ii?1<1 7.uu 8S?Yu8S8umv<.,  ?uuYS<,8+68S9c1988c1  6u,9H6??,1S<,c.1Y,.9c< SS .S?c?1<<9,19.7Y.175?i668<?uF ?.c9icu?.1SiYv19i u?i472u66S89YYi7?c1Y? u?<.S,YuS181c.i<1S9 S8u)66S?YIii??i<<cci ,,69u  .S6i8l,Y i<1.ci.u1 <6u.11??iY9 i7?. 7lS1c,4??71S<?9<9171.,L8Yu1ii?, i,,,.i6iS7Yi<,Yc16ijuu<Y7YYc7SSY  <icSHYip1Si6S1 86SY7Nii.,Si1799c< SS YS8..6,?<,ui1u1Y.6Y?<61i1?c1(7.u? 6S,Y?SY?</8<7uS<u7u.8  .AcY<i?19c<<u1 9S<  +,u9178ccS1Y?o19718?c9)u,,68?uc 9SS,96<c811,D1ui66ia.7< uc9,61.icu86,1:c76.S61. YYi8?S1i<<uS<e7Y.Y68?7-?i6,S91,898 i8 1i<u8.A.<9,  ?uu.uT..<YuS9,6i<i 1c<S7Y997u.,wi86,,9<,Y.c7.u1Y<SuY76,88c)9?,1 Yf,8uc>8Y,Y1.< ., SS9Y8:SYuc}?7ui <u?.?67S16 iu,61Y7.,V YSc.>S1?8 c<ic.i<<u1 <c.YcSic??98871?i17<1dFS.c ,ic?j9u,Yu?6i7M.96 8mv1i?,?9i76 <6cSFcu8ici1c<c,uA.?u 8H.8Y1<?S,S 8? uS<,8c  6YY,6Ei?cY S,S997c87Y 8 ?<iY77uu {u. SS???c8iYu71}7..i %.ScSS6?91 ,<u }),1.<7?u9HSM ,u9.< 9Y ?8i.;698 cW?1uS<uSi.?6 .kc176,u;9?89S 9,7 ?2,.66uq c7i<? 1Y<68S 68iYScY81c?<17uY76<S6Y*i<c?9,,81u9 uS9677.i61i<c?<?S7.S61.?c?#8?Y97i)u. i7_ S61.6c9i 1<9<<6uu7Y8Sccw?,8c1<?u,91uuYi<,8968S ?SlY?,9? f8,Y<iiu6g<8u? F6,.186.S c?8u?S16i ,c917  Y6S8SY6i9cg9.< .?<6u6Y76Yu cci617 ,7u.2S<8<17S1?<_,7.11<<7uYY7u.61<89cc97< 9?6,.8 u6 YS6687cii17<9,S??7cSi1c?9?<8uY677KY.2i8JTSi1c6997  <6<S6Yu8Y,S9c<?.891S?Y,61Yu1iS,,9i8? uS<Yu,6?Uf,,1<7iY6<<,uu < 866,S7,,117S9? <S9.16.8Yc1?u,<9<<9.c7 8,Y1iSY9M9<?.c618ccSSi?8c?i cb1KSi1Y9IuSc,SY?YV781,<i,7L. 7..,Y6aYc<97,i1S9Y,{9c<6u96uW cS<<76uW6u.<c<fi??16i1u899719{6u.cc.iYc 1 <cuS7?Sdc,!<,icu<<u79uuS.9<78.6iSY8sG??79< 187. y9uc6 8S?Y96?197i67 9.S9,?698,18&6711. .81YcEI,.1?<6u, ?uY ,)<YSLi<7,u9n<818 S,6.ySYYuB97?c6i ,1Y 7S.769S,,c1v7u9Y ?8i.K698 c*?1,?9?7i.6S<8cY:iuciiiS7Y79c81Y<S8?.cY<<1S9SS81  Su,ccS ? 2,8B,?ic,uY<79.cc7T c 9?,Y.7 uS> .SSY?1?i8,Y 7<_..6iSM6SacY619< 9<  ?M916<.?  ?S? 9u7.u 7YS?ci6m89c iI119cuuYi6?8 6oi1.69u?9187SS997S??,668u? jc,<. 7iS96i87Y?c18 c9< 7YY86S8ic<iScu9.,,1Y9%u? i78.76 iScY<uS8.?6 .ucuf,?198<<uc 7S< ?6 Yic6i)1S9S7iuY718?c9(u,,c <uu.9 uYY7<.866,Sz??z1?.9u6<8.YSi7.i!S8Y?riS? 9.<88.Y i?cu1S<6, 9c71. SY8ScSg6,9iT7.u 6?u6 6W6,uc17u.7<7S,.u6ZY<c<<7Y11<??..<1u<.u71.86789,,ic,..i 1.Sc887Y?c1?<c9ii?69Y 4.S%S<i,<9Y,S.S 7Suci6 ?,c6i 1<9Y,9.c61.=Y/o9??iu7<.. S87.YvS?8cY??,6;87c97<1S< uS8cS1 78,l 6?99^7?S1 cS9c83iiRcc9c7Y SS<Y,1Q88YH<?S79c7SSS.676?O9cia.8i770Y,S<.6 cHfY811,79S7<SYY,6Ec<1Y8E,Y9u?i.8#7S9YzZ6c79.<Y.<7Sui _668YeY8uc9s.<uY8<986998i,Y668Y1.i), u0j9.81,S,,S 7?Y.9icu?.1y1?Y67<,,1 Su?.<69S1Y.)Y?1iu<<u<99Sc  ^,811S89c96678.16<S<6ii8??1 ?h,36i,Yuz77?,6Yiic7B1<<1?<i8i .S,86cY?<u7<i,SuY<{uc9679Yuc ?79< 67RYuS<?<cii?,61178u9 1u-YuSc?.1Y? , 9c7S ?6k?,c<<i?u9<77uu7SS997t.Yi6Yp3c?i7u<.127S c97cY hSiYu6<8,i. E9.S1,S8cu9<Si1u6cu1 1T ?c^?<?,89YS7u(6.8iYR8Sci1e? 1c 9S<YY7B8Y6l:1cci.,7.Y6,.<Y1icY798?S, <S<k9679.c6.88Y9wi7<.9 <8,98688i6ii Yc9YS.1Uh7u7Yu79?Swc<uc, c75YuSY8?1i3t?91 <p91 ?S?YiJ6c<1ci_uu<iui.?6<Sc1.<?c89.<Y.<7SSSc87 8S6.<cc 98,,1G ?u. SS,Y9Ac<7, < 79 Yv78ucT8.?71:Si1Y9zuSc,SY.Ac?8cuS/K,89c698<cY8786cc8cuu 7S9Y96jYY17S.,,iY<&9?6S.i 67c?<19i1,.9Y71 uti.16S8<YDi786.7 uSN6<6 ?.cui8,?9uuS.S6c.?6SiS?71u7i,  ,76. S<.6cYi8,6967<916?,c.c6,??1i<cuc9 uuYi<,.<YuS Yc66<1u,6i8iYSS 8  6i6,=<S719< 1SY97_,,8c6<<ui< 7uY<W78ugSiSY79u? uu ??6Y7ii8cc i91<9YSi9c698SYci,cY1Y8.19<cSc.QMuYYc6i!1S91,<u?i8,.1q3,uu9i791?9 , Y<7u? c6<6.,18< Y  ,uc. 5u?.c ?Yu7e.769,<Fu7c,U ?89i,Su9i7S. i7.u91ii?, ik7YYi688c9.SS8Y6&81ci ?S9Y<y.891787Y11<?u186,,89e6?.16,S9,S96< uc 1S 6YiS.c16<Su1<8uS i71.u6?8Sc,9.< .?<6u  1318cc)<.,?967,.?7Y8c6<iuY 1Y?Y,Y<?SS <I?Yic1i,ui i7S9 6?,6Y6b(cS198<cc<17?./Ei8?m<i,,ui1?Sc1i.S66<61??1,i11u997  <<Yu<c,8Y?S1 <6uS<TS8Y?SY?7 uS%1<117?., 1.uYS56?<1c<9,u<Y76.mSSuYY<Si,,iY<Su  6SS T;Y89sYi?ui1z<9u  Z.1Y,i7?<1,<9,1 97uY.m?8Yc68Y?81i?l,669u6c8i7,S6887u y6?6Yu7iuM ?i}Y.ou8 1968,7Yu6,8118i<,c977<9?6,u Y1SY8Yo?<<1< uui.66(YSc 8J?Y9S78uY7?S<Y9618.cYi11u iS.. s78.Ym=,,719< 9< <u .uM<?7cu?S?o9c<Yu, uSY6?D6c<1c<<,. 8uuYiM.8?17Si?<iY77uu 5.<Yc6N?uY986ui9?7 9e61SYc8i,?c6.<9u< Y,iY?6.Y?c<i9?11.<Yu17uSu 1!9YSch<7, i17u9c<,8cYPiucY17<u,4 .SS  6u8uc7<iY.997Suc6,.YcSF,cSc/<c,Y9,7u.YS?8ic901,i9,<?., <87Yf>S?.0SC6?ciY<.Y,7.86c9i .6697uc.i.8<9c7YuA1Y87c<ru,,.6i98<Yia??6c1<8,991,tYi7u8S6Si<YGcE?1.<<cS.YYS ?u#YiS, 967S9# 18,Y?a7?S1?,<uc67SuY9{78Ycii9,,9u,1,z7uS<Y1l9?<; iYu89S7i.<6S.fc.81,811<7u67<Scc76 ?9 ciY1S997<.Y7188YYi<8,t.<c,0 uuYY76u8G5<ic,<1.789u6<S86<6 ?.cui8,?9uuS.?*8S^c6i8?Y9<8.u9 <SY 1M881c7i61<9,7u91<8,c9.{6c<c1<?u,91uu.Y6886c6i<c1988c,1i.S YiS 8Y18iS,i9<7S9F6uS,Y1i8?<1c<7u<<?u7. 6.?717i?cj9Y86.?<-Su uy9Yu1.8Vu8i6,Y.67Y8c6<i,cie68cu6<Y,6 87i8u17i<?61t7<9 6u,6c7eu?y6,<c,* u?6Y76Y8ic98_,<197,., Y.SY9778S6ii ,. 7S7.?7K81 A^ Y1c18,u?<u,1 7<6?Sc,?S?!9c<Yu, uSY6?E 891<<c,u i7..u71..cS26,.9.<19?  u?Y<S<8u6 <SY.93,Y.<7<8,6<i7YY16?.1S .uSY871?i6c8,Y9i8?i.8<au< c7,8 1.iu,89?7u916 .?c187Y6e!<<1Y ?u, 7SS816 %1cci,7Y176,S1cS7c?61S<1c7 ,71YSS?86cSi1c 9,< u86i.SY./YY 6cS1Yc iuSu 6u8.Y 8Y?61}?,1iiS,iY,SY8Sc i6,Siz7uu9 u.uY47,.66,?<cSi,uuY<68Y<c,iuc1988Y1?7S7 Yuz.8 BY<S,,<S<0.c YS,YuVYc?1 i9u< c7uYi6.8u61iScS9.?-.?<6S9Y 8<?1e iuu< 77u S6?8iccic? iu7ic,<YS<967Y?16*<ic,ii,,987,uucYS Y11 ?7c9<7,99-pi.,6i8,c7Mc,ic9 SS6. 6c81c ?Yu7i.7699<6u7c,} ?89i,Su? iScYc6 Yu1iS,YB <,?.,<9u, 97.8d1ciY,,9u7Y9 6?.96ui.ci98?6cui,S9 ,f98 1??uc8<S77u 7 u196i7?u1(8,uc9pSu16/78ucoS,, 117,.. 9,cY6sS?167<u,c<u7S.6  ScY1r cY9S? 17<.uSYYSS.?61iYcu1u,Su_<P8? 6SY?h/Y8c1<9Z, u 7Y8?6.ic?_9u86.? SS6ciM8.71,i1uSEc76.? 98.61i??.i?<<u9917..Y61Yuc/(6,S99<Y.7 cSY  RqY?1c?<, <i76.hSS8S6n5Y,S98<Y9? uS7Y9&98EyY<7Y.i17 9i<18 6<i7Y.j7?.1,<.,YY17:. c?88Y6i8?69<67u. 7S.Y869?7Y69?SiuR 9S YM81,8_c7i16<i,8Y.6H8,17??,u9779.9 N.Yc77.Y<9S?uu.i6,.96<c8<c9e1?.1Y<11b6<u6 Y3cY71,?iYY(.769.66S*cu8YY,i?<8,D<;, 9i^88Y1<S.,99<7Y1i68SYc<7.?91<<Y11 871.766Y<c,iuc12uiYc. 6.<.1{??,c1?uu<98u<u 6.SuY8F??uiS< 1ui9u79 pS.  ^8?,Si<<<1  YuYY)S.YS1Y?Sc8i17Y9u u.SYg87,81Y7<c. 9SS.cj,YY1Si,1S1p7cuY ,SuYY8?Y7618.c,i8,u9,<I.u 1ScY.n.?S11<S,691S_?.c <?Y9 i7?. 7O8.Y i?cu9i<?u <AS.. 4?.66Y8?cSi<,8';evWJBDDJhiGLydnWcfiHvbIDxMvrZVXR={"{3_Y}JJJd7(}}nJJ}YYYnnu7J}tY(unY}MW_M(x3M","uW_}tuWYY{7(WMCnCMd_W7YtYx3dCdYMYY}MnYW_{_{uW3MnYM3(u_td{C}7(WWW3J7}xtnnMJCC7xCn","7M3{Yd7Yd(CnJ3{n3{xYtM7((Mx{MxM}u}_CMdJn7tCWt{n}YYMd","_uCY}dtn{{u}dW_(7d}dJYJ_({YuJMx({7t(}dx{CWdC(_{uCtn3nu7Yx_ddMxunMt{CC3utuJ}(3(xnJnM{u(uudMYC(t3uJ(7(nYY{3YWt{n","uJ(C(uYnWu(7tJW_77(CYuuxCxxYd7x}37tMtdMu_Yn(C","W(Wnt_W}tY(M7(3(((YW{{Mt(xCduxtnWn{Yn{t{dxtM73dC}_YY_C3tt_dt{d{(77{nM}n{uC}","{ddx}MW}n(x(JnM}7}WWt7}}tWuM}}({JC{dxnJ3{J_t(nd}C}YtnWtY}(ttdYM}n3(JuJuWYM_J33","3Jd(_(d}dnuCdC}7Y}J{7(JMx7{(37nJ_}77xxJ_du_(_7tnCuMn_CxCddd_W3uJt(3t_7MtMM}YCxMtC","3JuCtJ(}7_dxn}nJ3M{C{{{Y{J}7u{(Yt_Mnx({dxC{x{Yn_}(7}}Yt7Wn7tn}W_MW7x}unMJ((YWt{x","xt(CdCx}_d3C(MYxu((Jxx(td_3Ytdux({73nuY7x73_3dtx(uuYd(u}7}tdx(3dxut{3C_J","{Mt(CuM_MYJ}CY}(Y{Mx3x_}{xn7(tWd7t_(7tWuYYdndd(JYtJY{((W{CtMMxdY{tMd_(n(37J(}7(tCx7{dCCn","MudM7{tCJJ(d}dJJ{_J3(u}x3t3xn_uC{3WCCY7YWJMWJ3tddxx(u3{xCY_3nWt7CMJ_xM7C(}(YW{J{W}Wn(37nWM(W{dn_x_Wt{nx{M3nJ(dW","Y(_xtnC3n(W3({(YY7_x}}}3M33xn{tJ}Jdd3}u7u_MYx_{{{WWutJC3}}M(JtMnWY7Ju7Wn(JtCu73du773{JJd}xx}JWJ{n}tu_CWYu_{}nWWu3W_WY_3MJJCYunCCM(7{t7u(}nY_dCt_Md(xxWC}d({uM3M}}}YC73n3ut_d7{7W3dJM}x{nY7Mud37CJJMCnWYYCC_3W}WYnx_}u_d(7nt(ux7(nxM_t{_7}Y3}77(t{3(CYW_{7Jd7d{3}d7YJ(xC{}3JJWnJ(7u37}t}3dn7t}td3_x}Yt(t(YnM}C{}(JW}C}Ytt({W_}{JnJJJJn{W3(Wdd}MYuu7_Y{_unM33(_7}xnu(JYd7YMtux{CnW3Yu{WxWtW7Mx{(WxYJYMxC(3{uu}J}nJ}nYWx}7Wd}tWux{x_Yd(xJn(n}xn{u3CJuxu}nd(_{uC_MtnWWWMW{t}M{}WMtCMnnWuJMMnYW({YYn7udYMYndMtu}{7{MC3{7}dYMnJMxd(utYMtJCJM{}_{dn7YJM7n((MY}ndnnC3u_M_x}YtxJuYuxMJC_}JC_{u_}}({}xxYxxJJudWC7d(Wu3__7_u7(uu}CJM3xu_37dnud(tnYxMtMY7t7M3_{__JddW7ux}u7Yd733WY{x{}{MxC3(7W3x}(}3d{(((uMY(Y}JCt7uuYd{{u}tdJYu7___}(xn{u{x{73Mdx{3(nMW_{x}YC_3W(}7Y_nY{7W(_ntMWW((tnJWYYtMJn_x{7{M7{J337(xMun_u_nxn_3YMMdYYuWtxYn_(3{MJ_dd7nd7Yx3(uW}nMJJ{d3WYtJMn_YdM3JC3JYW{{_JuCCd3xnt{nx({Y_xJYWJ{C_JCYWMYuuCxtCC(}uM(CnnJMnMCWMCWJ7x(Yu7J3Cx(}C}7Y7{u7d}t_}uJ(_nCMxYnYY7ux{{duJxuYttCd7_d}}_d_xM}W{xdJu_tuM_n(J_3J{}(nY{Y_{xn7Jxx77uMndWYuC((uWYYdxJ}C7u{}dd(JJ7W_7YWMMWCJJxx}nd_txx{YY}3xnn(d}3WYW_{xx7W((dnt3tt}}(t7x}nnd7W}Cdx{Y_{J(YdMCdtMxxu(_(xn_}3}nuJYWMx{7(Yn{n}3Y7uMdntuWuJ{t{Y{_d(dJdYYu3J7Cd{n({Mnx{J7x{t7t(M}(3{Mx{3(33d(Yt{WWdYu{x}37nxdx3x_3{3_Mx{Mx7CWYdJ(_3Y(d33CJMYnJ{d7(3ndC(YYW(7nY{}7n73YY}Y{Wd7{3nd77WW7JY(_MJxd77(n_u3}3nWdx_}dW7d_CCd(377M((}}tJM}ux3tWdY(}uxJ}CWd(d_xt}Jd{WCtuCd}{}W3_xCxtx3u{W}}dMux{xdJ3Cx}YMxd}W3tCJWnnJYdM7{J3nu7xYC_d}MMMxxWWMJ{xdM(n{MY}WMn}{_Mu(MC{WY}t3tx(_nM7Y3M{(WJ}37xt3C}_xd((J3uW_WuWnY(Yx}u7n}}u}3(W7_7C_nnt{C{Yt(CdCJYt_W_tYx{d3W({t(W3u_7n({Y(7dMMW_n(}3}d7MY7MY_J}MM3ndudJ(}J{}7(_Mu_tu{J_3{WCM{{xd}_Y{3(u}_d3(WJ_{((Juxu((nJ(_W7C{YxW{{73n}}x7_u7uMduCMn3u{txJCY(WdW_WJnudM_{uJxuWYCWYM3(}YM{_x(x{7__dCduC(_dd_n}nYu3_t3n_7Y73WWC(xdYd3WduJ}_}{J7MCC73{M}{{x3tJ3_YY}7MnnCxnxW{YxC}u}3(Yt(dn3YYJuJnd{n_WuM77CWn(uu7}Y}3C3{Y7M{W3C3t(3uJ7{dM(_x}W37YYuJxM((x7YWCJCu3xd(ut(Y(tdCW{3xJ3C}W7M_u_uJn7C{dMdYuJCWMn3{33nWCtWJ{YuCMCdn(Y(tCd3_CJ__C37}(JCMxn(JM73WtY{3tYY_J(C3u(MJx7nCx_Y7ttC_7nnCud{W7CxtM}M7{}uJ{u{_M{}Ju(n}YdxCtnWx}d7t_M7u_dtCJuCJxtJxJuMuunWJJn3}CW3(udCYC7xJt7CdxJdMYY7}uWC{7Mdtd{d_}7Ydn{}}(}7nWu37nt7dJxC}(d}{3{_u_}JY{7(dJJY{JdJWWCC3_C_3{n}uCJC}Wxn}t(}CWn_u_M(d(Y(n{{{M_{33xx}(t7JC3nCC7d7{{CJt{}3}nt(d}dWtJY3}}(Cx3Yutu}uW}(xd7Mud7{tM_d(uWdYxdY{3tdM7JtdW{x}uCM}(_(_MJ}C}Mnu(77d_C}(uCunn(JY{{t(x3(M_M3Mt3W({x377__W{W7CW_7CM{n7duunudY7JuMnC(MJ3YxM_W}((JJJ(uu_tM_xu3dM}(xdnuxCWd_YYdW(n33{{CM(uWM{x(ud7YCt((7}C_tJJnudxC}nW{YM3CuuWn3_J{{W}7JdM(u73ndu}7uYMtnM{MMMx{}x7YMtxYMt}uWxduYWuM{MJnuWtnCu7ud}J_n_(M}3tutn(_JCC7WuW{3}xnd{CJ}_Y77nJ{Y}(MCYd__ndWMJdntJxxJnCd{nnWx(dddJdCWCJ37JMtdCdxndMxCCM3Yx3dd7xCMC{{uMJ(}3dx(d}7u{{M7uCWd{((YCuJ7d3C7dYxJtx7CJx(3{}JY}Wx}C7(MuCn}}JdtMY7}WJ_37nCYu_7M33}n3xCudtnduxdCnWnM3nW}M_{nxMJ3nW_7}WtWJntdx(3}}YCx(WM77{MYxx33(uxdxxxCC}W(W{M}C{JJY(_Y}MJ3uW}u(tJ}CtYJ}_W}}ud_YJu}Wt_x7{{YuJut__uJn33nWtWdWW{7_M3M_n73dx(YCCC(n3CYx_J}duC33Mx3}Cnxn3dYdndu73t7dM(JWJCn_}{(xWW}Wd(uW(uWu{7d{3JJ(tY}CMn3{{x}}_tW(C3}W7JJ{W(YtCnY}3tn3u(7t7_7tt7WMM(Mux3(WJ{n(W__d{{Y{_M(d7{3nJ7YxMMY3d_7CCt}}d}unnJJW}W3nJM_t((Y_CJtdY_xWnu3C(3CdnC_u}Wn{nW}x}3{{}WuCdCtn3(tnxW7YM{3{(3n7(tdu3uC_Ctd3unnJ{un_C{WCxJY{JW}d3uMW(}utxuY3dCdnYtu{Y(uJMtd7nnx_Wtxt7_(u}tJ}J{n73WxuM7MnYW}CWd(n_C}}nM(Mn}}W7xdC7xYu(C}{(nCJ3WMJd7Jdt_xCJ7YMn33WJC{xY{u7JdY3JYYMuMM(du}x7n}t(tnMM(tdddY}CuJ{Y}({33}(7_WuW}JtCYYnJWx3nYC3M{ndtWt_dC7}7t7tWY}Yd33tMxMdYtdCdt3Y3Wt{{}33}tt7xud7Mnx3WC{}3C3n}C7W3J3JC7dWYudn7xY_({3t(ttM3u337xd(nMnYxxY{{xY(CWtd{tCJxCM}7Yx(C{}CY7tW(u7d_xCd{}unCJ}du_t(x3u(Wu{37xC3x77J3nxC{Cd7(Y}M{t}CW3nYtYMnMW}nCW(_CWdJY(}uunMCdCu{CC3W(t{WMWW3JxxdJt3tJdWtYn7}x33C(Yn(xM}C3n(Jt{7_t}xYM{}_xxdYJnYtJ{Mu3Wd_}Cu33xWYMJJJJCd7u{CtCY}u{Y_3Wx7YCY73nt(d{WxYdMYY3duMM7Yu7__YtY7Y73Mt}}xdu77CCxu(3MCM}(x{(tt3}duu}M(M3WYMJu7nJnut{t_C7uYtYdMJ(_d_3MY((_WMC{7du77(MtCMx(u{{3{M{JMtWWJttxdnxMu737_x{ut3Y3Yu7{ud33JC(uW(nuYWuY7{tt{W{MMndt(WCJt7MtndJM7t}{dCxY33{_}W{_(du_udCJdxt{{3W3({uxWMMJu{Jddn_uCJx_}uYW}nY}Y}(WWdJ_d(CWMn3{73W7{t3tYuJMWtxM7Y377dWYx73u_3_ttd}uC3Y33CMMd7(}}__{_u({7_M_}WWCn}tC3u_7}YMtM}7nC773}n{3J3xd7d{_Mn{u7YYMYC(xWxxCYx(}J{77Mt3M}t7(YCW33W3WMudtd}(WdxnMMd(d}CnYCYWuJM{_}xdWduY}x7Mnnd_Y}d_MY(tYx{3un7CW}YnuuW37{MYY37_{t7nd7xtuMxtC37JY_t(_{x}{CunMMCx7(nn}(JnW(xJx}}n7}uJttC7{J3t3J{YnnnC7}(J{M3CnJ37_7{W3(JxnYJtnu7tx((x{M3n_(JJ_n7CxY}x7Mdtt(u7W3Y(x777_33_x3(7td77{n(}}{}Y3J}}77WC3}MJxd{(}{M_7Y_nnt(}_Yx_d7Y3(dxt3_CMC}C3uWW7MJMnx3Yx37C_Y7WCnM(t3(_YMud3tJWxdW3duJn7MYu_37dWY{tu",""};return(function(f,...)local r;local h;local l;local _;local a;local d;local e=24915;local n=0;local t={};while n<640 do n=n+1;while n<0x260 and e%0x29c2<0x14e1 do n=n+1 e=(e-338)%9823 local o=n+e if(e%0x1b22)<=0xd91 then e=(e*0x3e1)%0x35e while n<0x332 and e%0x2048<0x1024 do n=n+1 e=(e-645)%15750 local l=n+e if(e%0x3766)>=0x1bb3 then e=(e+0x2c0)%0x484f local e=27330 if not t[e]then t[e]=0x1 d=(not d)and _ENV or d;end elseif e%2~=0 then e=(e*0x58)%0x9729 local e=31097 if not t[e]then t[e]=0x1 _=string;end else e=(e-0x3d8)%0x9dca n=n+1 local e=43944 if not t[e]then t[e]=0x1 d=getfenv and getfenv();end end end elseif e%2~=0 then e=(e*0x1f2)%0x3936 while n<0x242 and e%0xff6<0x7fb do n=n+1 e=(e*309)%24815 local o=n+e if(e%0x17ba)>=0xbdd then e=(e-0x1c)%0x1fff local e=97350 if not t[e]then t[e]=0x1 h={};end elseif e%2~=0 then e=(e*0x2c5)%0x1653 local e=40376 if not t[e]then t[e]=0x1 r="\4\8\116\111\110\117\109\98\101\114\102\89\119\112\90\115\69\116\0\6\115\116\114\105\110\103\4\99\104\97\114\79\71\97\67\99\117\109\103\0\6\115\116\114\105\110\103\3\115\117\98\112\117\97\106\87\114\112\88\0\6\115\116\114\105\110\103\4\98\121\116\101\82\105\86\109\67\81\79\107\0\5\116\97\98\108\101\6\99\111\110\99\97\116\85\100\116\65\77\70\116\87\0\5\116\97\98\108\101\6\105\110\115\101\114\116\90\109\77\100\67\115\104\81\5";end else e=(e+0x194)%0x6732 n=n+1 local e=97126 if not t[e]then t[e]=0x1 l=function(l)local e=0x01 local function t(n)e=e+n return l:sub(e-n,e-0x01)end while true do local n=t(0x01)if(n=="\5")then break end local e=_.byte(t(0x01))local e=t(e)if n=="\2"then e=h.fYwpZsEt(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then d[e]=function(n,e)return f(8,nil,f,e,n)end elseif n=="\4"then e=d[e]elseif n=="\0"then e=d[e][t(_.byte(t(0x01)))];end local n=t(0x08)h[n]=e end end end end end else e=(e+0x288)%0x45b4 n=n+1 while n<0x310 and e%0xfaa<0x7d5 do n=n+1 e=(e+342)%3248 local d=n+e if(e%0x3ec8)<=0x1f64 then e=(e+0x206)%0x2ecf local e=36153 if not t[e]then t[e]=0x1 a=tonumber;end elseif e%2~=0 then e=(e-0x215)%0x62ac local e=70888 if not t[e]then t[e]=0x1 end else e=(e-0x230)%0xa6eb n=n+1 local e=88574 if not t[e]then t[e]=0x1 end end end end end e=(e*837)%49490 end l(r);local n={};for e=0x0,0xff do local t=h.OGaCcumg(e);n[e]=t;n[t]=e;end local function o(e)return n[e];end local _=(function(f,l)local r,t=0x01,0x10 local n={{},{},{}}local d=-0x01 local e=0x01 local _=f while true do n[0x03][h.puajWrpX(l,e,(function()e=r+e return e-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""t=0x000 break end end local d=#l while e<d+0x01 do n[0x02][t]=h.puajWrpX(l,e,(function()e=r+e return e-0x01 end)())t=t+0x01 if t%0x02==0x00 then t=0x00 h.ZmMdCshQ(n[0x01],(o((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+_)%0x100)));_=f+_;end end return h.UdtAMFtW(n[0x01])end);l(_(22,"=}63 N/!W{PYS+9d9S+Wd6+9S/Y6+9{dP9/9! /  }}{YWP}YPYdP3P{!PW9!}/W {S/PdS{+/S S6W{{YWP!}3!+ Yd+{S!PYY}Y9!9!P!3 9 Y6+Y/P}YSP6WSP+! !S!{N+}S6{66{WWN{+W+!!Nd Y/dNW3Pk{9N93d6SN 93PN} 66Y}63S}3d/dYSPSd{3!}}PIN6N7{d!dO++S3P+{!Y !E/ddS9!gEd}+Y*_dVY{YSW!{O!+/3+9S{93+6Y Y9{SW!P3NSN/6S3dSnP+S/P+{9W//dW9!9 S6+}SdWd +P!//}!P/!N N{366P6+6W+YSdP+NW 3NY /3!33}NG+}#9P93Y/PN3P6N396d}N}S6 } +SSSS}W!!d}Sf/6}o9}3dSdW+396{!PR{Y} E}}!p}9Y+ S6+PY!P {q{3 dN/ SSPY/S+YYP!WPPY{}/!/}N{ d}}g {/W}{dWP!}{!!+! 3{3Wd9d!+/!W/3W6/{N!/!NY W}96/9{9P++NP !/K Y3 }YoWe+}SAP+6+6{3W9{}}0d{}/}S}Y}/939SS}Pm!+}9(!63 +6{7WdYd Y6S+{N6S}N3zNN3W6P}{^PS9+ {Y3P63 }!BN!696!}W9{+dS{ W3}Nv/!3Y3S3m}d+Yd&Y!N/ }NP !36 S}}d+dS+!+9Y3Y!3W663S6 6W6Pd/l{9PSIP{P93r}P3N}9 6){6}d+S}+{Y!P!6W}66S}N}W0{dN+YS{+ P PN6H%P6N8+7S7}d6dN9}Y}P!!d}WO }SQ d6+d939N+PP6Y W!WW {9 +#9!+sYSP!+!WP!{/6/{ W 63/Yh{PY!{9YWW /9NdNdN66 69PW{6PY{P{9W}W !W3S63 66CPvWPPN{NW{P!{3/9393{td6O{WW6{dWPPYW!!} {396NdYdW{_!P{!W}PN!{W}NW N3d}9d WW!6W9!N!}/WN//X39f{}/dYW</PW /d!-/{3Y6N}3E99 d6!W/6W}/ WP! /_6 3!F &{+Y!RNP!3N9!>/ N33+6%d+1{9W/WN6!3N!!3/ 6/y97+d{++Y+/5 {/{{N!W N}S6dd993dP/9NW! NP//!33}6 6{d{XWY9//Ns/SN NY/P6}}}69F3d/9WN9 W/!N}!3N66N3S9+9Wd!+pN/ }N{ 3363} /63dW9d9TPPP33W66 36{6YT9} d +WS}+}YN3E}P3P6} 63N}6dY+e96Y3W66W}633}  /}+dP5qYWSd{PP66IIP6P} TY669 SW+dSY{}!Y}Y"));l(_(197,"B_=tTH(a;7nS,#e8tSa,=T(A77,ScSt8_aS=8et_(8nH,S8St;7e,#_(_;_(H=8;=(H8nHeL=_H;a=,ne_=n(n7,;;,a(#nn#,_,H#7a,(#et;(_SH8#),8,t#eH=_Hn;,,,Zq#7a,nS87=t(t7HS7_eHH;eStet=a>eT#8_=J(e7#aH_aTn;(#Tjat7anna8ttT(,7t,7ne8_7t,xrntea_SSett_H77H#n.eT(7H#:#7_tae7,e=,J8e;;#=rSHa;#,S,aTtH,7S8__=(n;n#,nSe(7TS78,T=H8ne87=#(=nt,k88et_#7Ihn_#(%;ne(=((t;=(en#HT;n,7kHteaGSxeT!,((n(#H>n=e(n,T73#jann=#e=tHatt##__TeanSa8nt((n;=eTo#t#78n;n(et;#,_8e=n(ann#7y-t;nt#_etT;aeH(7=t;aHnaea=;(!(,#_87_8(e,SeH,S<;Sd##_8Ht;,#;_7TqHa,T#,3SaHS=aaS(Hn;7#a&(#eanSS87tTa=7=#e_#=#;Sn,e=T=_;"));local e=(-h.xOtJfl_M+(function()local d,n=h.KEaHrkxo,h.TXlIqvsO;(function(t,n,e)n(t(t and e,e and n,e),e(n,n and n,t and t),e(e,e,n))end)(function(t,e,l)if d>h.MpFXgXkc then return t end d=d+h.TXlIqvsO n=(n*h.gDbuoDgv)%h.srjOAUzc if(n%h.taZuZuOC)<h.FIEEExJ_ then return e(e(e and t,e and t,e),t(e and e,e,e),e(l,e,l))else return e end return t end,function(e,t,l)if d>h.tzYrSruq then return t end d=d+h.TXlIqvsO n=(n+h.PDEwFVBk)%h.jpTKPBTP if(n%h.SBPizCMA)<=h.KCQjZiRW then return t else return e(l(e,e,e),e(l and t,l,l),l(e,l and e,t))end return e(l(e and e,l,t and e),e(t,e,t),e(e,t and t,e))end,function(e,l,t)if d>h.RpvTZeAO then return e end d=d+h.TXlIqvsO n=(n+h.QPbSxCbs)%h.bUXZsEbn if(n%h.gcO_myQZ)>h.qmzUjFUJ then n=(n+h._ilXvOfo)%h.OtxVlCTm return e else return t(l(e,e,e),t(l,t,e),l(e and e,l,t))end return e(l(e,l and e,e),t(t,l,e),t(t,t,t))end)return n;end)())local le=(getfenv)or(function()return _ENV end);local o=h._KHxkBlg or h.leBiWLsA;local r=h.PevYxcXK;local l=h.seZcrFwU;local d=h.mfnszTpM;local de=h.TXlIqvsO;local function te(p,...)local u=_(e,"1HDn_jq)F>=Utp<2p7H_><DFUDnttqj^p=q_<<tD_DF<H==ED=U_VDtpUny_qq2*)=z_F<HF=D_t2q_dt=j_p<qF2D)t2qt2HtUjD<UF_DDqt)n2pHnj2n)W<_qnr2)=HPFjHnUHjjUD2qFgl=>_H<=FnDt_FqpDqq<_q<2Fq)U)ptpHpqt=>)><_Hj2KH2n2t>_9<>FDDD_j<;p=njHUpjt<)q=bHj=2Hq)<H>t2>_tpqqv<=)_2<FFntptDqUkn=t__<pFqD<t)q-DF<H_><DF2=<_F_22p=q_<<)F3DFtHqtqq=Uq_ntFjDptpqqD<n)D#DH==pDtUq_,>HZ2Dtn>pHq2n>2>)tHU_qUF_Dttjq<7q=p_<p_F>_D2=qnRU=hnttjqjpt))qHFU>H==F=U>nptFnF_nZ=DF<f=F_HN>qDN==j>FDq2n<j<<=)K2=F_Uqnj_D_=nFt__=p_j<_Up=jp2FH >=D_=<nFtD_t2D=C<t)F2<FFHD>n_F)HFDtqjFpFqD<t?nH_HqFUp>=jHqpHpnU<p=q_<<)F7DFtHqpFq=Uq_jtFjDptjF><=n2)>)Dp2FDtUq_rt=j_p<qFDDUtAq>(H==_D<UF_DH)>q<Dq<2_)<VFUFHjLH=8U=__t<jF<Dqt)qt4_=>qD<=FnDUttU_j-<jjU)nFH<HD>j_q<=HF)2=nnpHq<FnH2tF_!<=jDtU>_Jt>FU2_t<jHpj)(2UFD22__DD>>DpUH__FBjI<qqp2jnDHj>jDj=t<_tjnpt__2p)qpt_DH=F_FpDjt<q)/2=F_H=>FDD=tnqt&_=p_j<<F)D2tFq_2=FnDUt))tD_tpqq3<=)_2<FFHD>tDqUh_qUHnFpFqD<t)qxWF=q2=jnqUDnttqjrp=q_<<)F/D>=Hp=&D=U_n<tFj><=qq2S)=B_F<HF=DDtUq_<pHUHtUjD2D)tAq>VH=22D<Hq_Dpnq_<0q=2_)<MF>DjUWD_pU=__t<jFDH=UjDU2;=>_H<=FnDUtj_p)j=<_ttjjq22q>qDg==n_H>_FnPjt<qt<2=FUHU=qqH=tn<22F>Hn>pD)UHnUtj_2p>qnU)nF/Hj=<nq)_F)_2<<qHD>tFn>pD_t__<pFUp_=)q3&<FH_><FqUDnttq=<<FqU<<)F^DFtHq=OD=U_n<tFjD<n)_2PpFd_F<HF=DF=Uq_.t=j_nUjjpt)t}q<UH==_FtUF_DttU_<7q=jD)<H)>DHt=qn22q__t<jF<Dqt*jUtY=>_H<<_nDUt_qD<j=<_q<2F<SPt>q)p>)H<U<_FDpjt<q)ejFF_E<>FF{=tnqt2_=p_j<<FUHnUFqHV>=D_=<))sH_tpqqZ<=Uk2<<qHD>tDqG<n=t__<pFU2p>qhz0F=H_2>DFUDntD_jrp=)nD=F)6DFtDnUtnDU_FppHjDptqq2F)=jn>)nq=2DtUq)tp>>*p<tq2D)t7q<<))>HHFUF_DttjqnUq=jD)<sF>Dn)=<nQU=__t<jF<D=F+jFsHF=HDt=Fq<tU_qpsj=<_q<2FFUD)>qD-==>DU<=jU2_q<q)T2=F_3<2nDD5=nqH<FqHnj<<F)=YjFqHBpFD_UqnFtD_tp2q5DF)_2<>YHU>tDq<2_>t_=tpFqD_>qn<=F=H_><DFUDnttpjp<F=n_t)Fn<FtHq=gnD2__Upq>H<n)n2)U>HD>UH2=UDtUq_?p>j_nt=).wF>8p)p7_=_D<UF_Dttjq<Pq=2_)<L2>2D><Dn&U=__?<j22X=U2pFDHHpnDt=2)DUt_qpAq>2H)U22q22q>qDd==n_U<_FpDjt<q)l2=F_!<>Fj<=tnqtR_=p_>=DF)2!n>jHc>=D_=<nFpHn>tTqQ<=)_2<FFHD>tDqU(n=t__<pFqD<tUqntF=H_><DFU>_>tpjJp=q_<<F)X>)>8u=dD=U_n<tFjDptqq2C)=X_F<HF=DDtUqFW-qj_p<qF2D)tuq>GH==_npU2D2Uqjq<Gq=2_)<?F>DHt=qnaU=__t<jF<Dqt2qFIHH>UDUUq_bt=jnp)qHpHjF2FFD}t>qD5==n_U<_FpDjt<q);2=F_z<tOqn2=)=Hn_=T>=<<F=j_)t2j_F)C<>UDD=DDtUq_wt=j_p<>qnD)<V=>0H==_<qHD_==ZjFN2q=2_)<qHPH>HHFjdD=UeD2tt_FpUqF<pD=2p>HtF=)D==)nDtq_>F<qt2HDt2U>Fl2>)nnUtn))tj=pFqn2)D<AUFjH<>2nXU<VDj<<F)D2tFqH8H=q2<<n=tq_tpqq(D<DDH<pFH_=tDqU.n=+jnDbp==H_q2Fj=tpq2D*t<qDHt9<njFqq2D)F:DFtFDL2FUHF_6t<jDptqqqn<<)q2)Fq4>DtUq_Lt=j_p<qFH=Ut{F>qH==_D<=_2_F<p=H<><2q>HhF>DHttD2tn6>H>_2U>D2j)nt<2=q=H<-jp<qFq>=<F<<q)D2FFDst>)n)p>pHU<_FpDjt<q)I)=t>_<>=D>=tnqt7UHn>pD_<p)q=2tHDU=D_=<nFD)tDDp==DtUF_DpD)=ajqp2tUnDFUtD2tjjDp2_F8;)q<)qtD=F>nttDn_U=_qt=:_>YHq=dD=<_FUH2HDp<)42,)=}_2=F)Kn>5D>U_ntUp_tt22D)tvq>:H==_D<2UFDt<qD<7q=2_2n)p<=qp2=>jnHU)njt__2<H2F>>Z=>_H<2j=HDUU_DnU2_)tp_U2q)<22F<HH=)mqUHnqtL_Up<nU2FFD:=DD=tnqtg_=p_j<KtUD2tFqHE>=D_=<nFm>FtpFq_<=)_2<=>q<HDjjUOn=t__<pFqDqttp_wFtDD><DFUDF)>n=H>2t62XqF>U_DUDWFFt>pnttFjDptqq2?)=E_=DjF=DDtUq_Rt=j_p<FWnD)<&=>NH==_2Hj>>2<>jq<Pq=2_)<zF>DDt<qnJU=__t<jF<DqtHFtw}tQHH<=FnD<U)_2<F>HD>tD)<<FH2)FnHY>>nq))n>tHj=p>qF2F)nx=>.lp=Dnntn_)tH_>p<qFUn)tb>FjHD=UnqU<n2t<jH=nq)2UFHHDFUDDUHnqU)_tpqjH<_qH2<FFHY>HH_UHn=Uj2=>_qq=FnDUt_qpCqH<_q<<Ft>npp>nqp2qF2nF=6n>FRF=jDUth_=<Hn=<H)F2jjUHF=DD==UD<tUj_t2nnF/It>DHt=qFjnnjFqjjF<Dqt2qF}5=>_H<<Fn_tt_qp.j=)n>Dp=_t22FjAn{K<<pH2H<D)_npU=FpFqHp>FDD=t(F<=F2_<F<nF>Htp>j{>)t)F2D_=tp_<p>q(<=)_)H2p)_><DUU(n=t_UHj2qn_qq_dTF=H_><DFUDntmD>eptq><<)FkD2t)>CH>qDm_?pFjDptqqn_p2)j<DFn<Uq<n5FFDD>UnHU>_)2__U>)H==_D<td_Dttjq<D)X2_)<OF!j>lHF>>DF=UpIqD<Dqt2qp2q>iFFpHU=qD<=2n<tH<q)D2FFDetS=>>H=>>tv_ppDjt<q<Jjp<j)=:_D_UHnqtT_=_FU2_=p<qHFqHA>=D_=<nFtD_tHqqD2q)_2<FFFj:H>=Hp>2nF=2_ttn_<<DqjF=H_><DFUDnttq_PH>qF<<)F!DFtHq=^D=U_n<tFjDptq>2#)=Q_F<>F=DDtUq_Ht=j_p<qF3F)tgq> H==_D<UF_D2tjq<Jq=2j)<ZF>DHt=qn5U=__t<jF<Dqp2=FE%=>_H<DFnDUp_qpHj=<_q<2F>Fht>)Dh==n_U<_FpDFt<q)02=FjZ<>FDD=tqqtM_=p_j2<F)D2tFqHo>=D_=<nFtD_tp)q_<=)_2<FF>D>tD)UOnUt__<pFqD(D)qxHF=H_><DFUDnt2qjdp=q_<2)FBDFtHqp9D=U_n<t>jDptqq2N)=Q_F<HF=DDtUq_ktpj_p<qF2D2tIq>hH==jD<UF_Dttqt<*q=2_)<&F>DHt=qq-U=__t<j><Dqt2qFDqH>_H<=F__2)_qpDj=<Fq<2FFDEt>tDJ=pn_U<_FpDjt<q)j2=FFT<>>DD=tnqt}jjp_qH<F)j2tF=HY>=nU=<nttD_tpqqa<=)_H=FFHq>tD=U3n=t__<<)qD2H)q4CF=H_><DFn=nttFj.p2q_2w)FyFHtHq=DD=U2n<t>jDppqq2_>F6_F<HF=pDtU)_bt<)Dp<qF2DF>*q>HH==_=<UF_jttj)<xq=2_)<qt>DH2=qnDU=__t<q=<jqt2>Fv,p>_H<=FnD2n_qp_j=<jq<2FFDktHfD8=pn_t9_Fp_jtutU_2=F)R<=UDD=pnqtH_=pF)t<F)D2t>>H7>UD_UDjqtD_tpq>%<=)j2<FFnD>tD>UBn=t__<pFqD_j)qJnF=H)><D>UD_Dtpj4ppq_R))FznFtH)=!D<pDn<tFjD2jqq2H)=k_G<HF=jDtUq_zt=j_p<tt2D)2Cq>DH==_D<UFqDttj><^q=2_)<wF>Dqq=qnnU=_)t<j><Dqt)qFeb<>_H<=FnDUt_q2uj=<>q<2FFDYt>qDqu2n_t__Fpnjt<))m2UF_y<>pDD=tnqt__=p_j<<FU<2tFUHP>UD_U_nFp__2pqqj<=)U2<FFHD>tjUU5_at__<pFqD<t)qnjF=HU><DFUDnptqjqn2q_2q)FLDFtH)=*DUU_n<tpjDptqq2_)=e_F<DF2)DtUp_sttj_<qqF2D>ZOq>jH==UD<U=_Dp<qF<!)z2_FDbF>DHt=q_jU=_Ut<jF<Dqt2qF3HU>_Dj=Fn>Ut_qp&j=2=q<BSFDHH>qDQ==n_tp_FpFjt<<)02UF_i<UFDDUDnqtG_=p_j<<FU<2tFtHx>UD_UHnFtDU#pqq_<=)q2<FFHD>tUtURnpt__<pFqD<tFF5nF=H)><DUUDnttqjoHHq_2D)FJnFtHq=gD=D<n<tUjDp<qq2D)=D=pDHF=jDt<t_%tUj_<nqF2q>=/q>9H=p=D<U>_DpJ)_<.q=2_p_!F>nHt=qjdU=_)t<jF<Dqt2q=Ont>_DD=FnnUt_<p?j=2qq<2UFDv2>qD_==j_tH_Fpqjt<))4yzF_4<=UDD=2nqtn_=pFj<<FFt2tF=Hw>=D_=<nFtDj_pqqj<=)_2<FFHDUtn<UB_/t__2pFq=<t)q_=F=H>><DpUD_Dtq)0g>q_2_)F?nFtHt=dnWH>n<t2jDp<qq2H)=+jF<HF=)DtUq_?t<j_p<qF2DtFYq>jH===D<U2_Dp<j><;q22_Fj&F>DHt=qqjU=_=t<jF<Dqt2qF&n2>_Dj=FnDUt_)pSqK_>q<gxFDf2>qDH==njU<_Fp)jt<q)*2<F_I<>FnD%Hnqt)_=pqj<2Q)D2t><Hy>2D_UjnFt__t<Fqj<=)=2<FtHD>tDqUb__t_jjpFqD<t)qAMF=DF><D2UD_ntqjfp=q_,U)Fl=FtHU=bD=U_n<ppjD<Dqq2F)=(jF<HFtDDtUt_(t=j_p<qFHDHnKq>)H==jD<tl_Dttq2<o)Z2_F_5F>>Httqn2U=_Ut<j><D)D2qF.H2>_D_=Fn>Ut_>p/j=2>q<2tFD:<>qDc==n_tD_Fpjjt<q)52=F_x<tFDD=tnqtH_=p_j<28)D2tFqH:>=D_=<nFtD_tpq=,<=)_2<FFHD>tDq<R)=tq_<pFqD<t)q{uF=H_><DFUDnttqjwp=q_<<)FVDFt*qj2DtU)n<tFjD_2pUjD)=R_F<HF=DDtUqnIs>j_p<qF2D)tfq>XF=<_D<UF_DttjUH2q=2_)<GFUDHt=UnAU=__t<jF<DUq2qFj3=>>H<=FnDtDt_p0j2<_)j2FFnTt>qDL=<jDU<_FpDqn<q)H2=F_D<>FD)=tnqtx_=p_j<nD)DXHFqHj>=D_=<nFDq_tpUqw<t)_2<FFHDUtDqUjn=tj_<pFqD<t<=hJFUH_=nDFUnntpFq=p=q><<)tmDFtHqUDn<U___tFj>ptqq2.FtltF<H2=DnHUq_mt=j_<)qF2=)tW)>{H==_D<t=_Dp_jq<Fq=2F)<H=>2Ht=2nrU<__t<jF2_Fp2qF=!=>)H<=FnDUtqjp7qj<_)n2FF_7tUtq_==n2U<jtpDjp<q)_2=FFDt>FDD=t_=tW_Up_qDVq)D2tFqDU>=Dj=<nF<D_t<Dqh<t)_2<FFnDv>DqUpn=tj_<p<qD<tFD^9>>H_=_DFUDnttqqFp=)_<<)<NDFtHq=:n_U__UtFqDptqF2v)=5pF<D_=DnFUq_pt=)_<qqF2U)tHD>#Ht=_j_<D_Dp)jq._q=2j)<;2>DDWt_ndU=__2DjF<nqt2q=&,==*H<==nDUt_q2Tq2<_)U2FFn0t>tDW==_)U<j)pDqD<q)/2=F_H2>FnD=tnttV_=p_j<2n)D*>FqDY>=Dq=<nFt2_t<Dqk2q)_}UFFHDU_DqU>n=tp_<<_qDHD=gQL>jH_p_DFUnntt)jcp<FD<<)FLDtDHq=HD=p__ttFj>ptqp2oFHJ_F<jj=DnFUq_nt=j_p<qF2j)tHD>yDH=_n=UFqDt<jq<tq=,!)<A2>DHtU)nBt)__pHjF<DqtHqFtE==DH<=UnDtD_qpAqF<_)<2FF<Vt>qD?==_DU<j>pDqF<q)o2=F_>q>FnC=t_)tR_tp_j<jn)D:>FqHp>=nD=<nFtj_t<nq^2n)_wUFFHD=ADqU<n=t<_<pFqD<t)t:g>>H_=HDFUDnt<qj_p=)_<<FjgD>_Hq=6n<U__ptFqHpt)q2Z)=GFF<DD=Dn=Uq_2t=j= =qF2F)t_H>vHU=_nqUF_q<=jq<}q=D2)<O>>DHttqnotq__t<jF<Dqt2qttW==PH<=FnDtq_qp&U<<_)F2FF_Ct>qDxt=_DU<_ppDqH<q))2==_Ht>FDF=tnttMjHp_qDvq)D2tFqDg>=Dj=<nF2D_tpqqx<U)_2<FFHn>tDqU5n=t__<pFqD<t)q2at>H_><DFUDnttUjyp=q_4<22cDFpHq=?D=Ujn<tFqFptq)28)UT_F2HF=D_)Uq_Ht=j_p<qF2D)tHn>iHU=_D2UF_nttjq2_q=2_)<3>>DHt=qn_U=__t<jF<Dqt2qFfw=>_H<=Fn_tH_qprj=j_pHj><<)F>qD+==n_U<_FpD_tDj)DGqF_9<>F>)DHF<HH><n>pjjUp>qF2nFj>tD_=<nFtD_tpqqf<=)_2<FFHD=nDqUen=t_UFpFqD<t)q,KF=H_><nnUDnptqjHp=q_<<)F,FFtHF=vDtU_n<tFjD<jqq2H)=?jF<H==DDtUF_yt=j_p2qF2D)tkq=>H==_D<UF_Dttjq<uqp2_)<rF>nHt=qn#UU__t<jF<Dqt2qFOa=>_H<>F)HUt_qp?j=<_)n2FFDKtUq=)==njU<_FpDjp<q)IHnF_!2>FDn=tn)tJ_=pFj<<>)D2tFqHZ>=D_t8nFtn_tp)qk<U)_2<=jHD>tDqUHn=t__<pFFH<t)qV}F=Ft><DFUDnttqjYp=q_2H)FYnFtH)=uD=U_n<<_jDp<qq2D)=-_F<HFUqDtU)_htUj_<8qF2D>ndq>?H==qD<U=_DpDqn<lq=2_FqKF>nHt=qn7U<qDt<jF<D)_2qFHJ=>Fnt=FnDUtj>pWjU<_q<DpFDBt>qDb==n_U<j=pjjt<))X2tF_J<>FDFHHnqtD_=p_j<<>)D22FqH0H>D_=<nFtj_tpqq+<=2n2<FFHD>pDqUun=t_tppFqD<t)FJyF=H_><D<UDnptqjDp=q_<<)FF<FtHq=:D=U_n2tF)D*Uqq2f)=N_F<HU=DnDn__Gt=j_2tqF2n)tvq>oH<tDD<UF_D<=jq<Hq=,q>20F>DHt=)n4U=__t<q)<Dqt2qF_W=>_H<=F_pUt_qp5j2<_q<2FFDH<>qDH==n=U<_FpDjt22)62=F_HW>FDn=t_Ft<_=p_j<<t)D2tFqHi=tD_=<nFtn_tp)q*<=FH2<FFHD>pDqU#n=t_U_pFqD<t)qr*F=H_=m=tUDnptqjHp=q_<<)Fq>FtH)=VDUU_n2tFjD:tqq2h)=rjF<HF=DDpUq_wt=j_p<qF2D)t&q>x#=<nD<UF_Dttjq<jq=2_)<DFH>Ht=)n6U=__t2jF<D)<2qFH8=>jH<=>nDUt_ppWjU<_q<2FFDYt>qnD==njU<_>pDjp<q)d22F_z<>FDn=tnqtP_pp_j<<F)_2tFqHs>=DqUpnFtD_t_p=Hjj<_q2JHq=2pqpH2FnHq=2H>=F<<FqOTF=H_<_FpHq=HnFUH_qF_qjp>)j=t)<#j>tH>n<tFjDptq)2F)=P_F<n<ttDtUq_ft2j_p2qF2n)tL==<H==_D<Up_Dtpjq2Dqp2_)24F>_Ht=qneU==Ft<j><Dq<2qFvA=>Fnt=FnDUt_pp:jU<_FRH>FDBp>qDn==n_U<_Fnqjt<))72tF_Z<>FDDptnqtd_=pjj<<F)D2pFqHu>=D_=<nFtD_tpqqRp=Un2<FFHD>tDqUjn=t__<2F<><t)) AF=H_>2DFUDj)tqjHp=qj<<)>eDFtD==JDUU_n<tFjDptqq+U)=3jF<H>=DDpUq_f<}j_p<qF2n)t{q>GH=tHD2UF_DttqD<.q=2_)2?F>DHtUFnpU=__t<F=<Dqt2q>DH2>_H<=Fj2Ut_qpMj=<=q<2>FD}t>qD}==n_pn_Fp_jt<q)d2=F_v<=<DD=2nqtC_=p_j<2=FH2tF=H:=DD_=<nFp_qppqqj<=)<2<FFHD=<>tU-_mt_jppFqD<tFFb=F=HU><DtUDnttqj_<jq_2n)FHjFtH)=ontU)n<pHjD0Dqq2M)=D_22HF=UDtU2_uppj_p<)j2DFqbq>FH==_D<UF_pttj2<Eqt2_Fx3F>DDF=qnDU=_tt<qH<Dqt2UF%Hn>_Do=Fn=Ut_qpqj=<qq<wHFDH_>qD_U_n_tn_Fppjt<))-Lt=jV<>pDDUEnqt._=<qp_<F)F2t>2HV>=D_t{jjtDjnpqq_<=)_2<FtH)>tDUUhj<t__2pFFDDD)qv>F=Ht><DtUDjtt=jZ<_q_2D)F__FtHq=>D=tWn<pijDptqq2Z>_}_>UHF==DtUq_6t=jjp<)D2DF>Jq>DH==_n>UF_jttj2<m)_2_><H_>DDj=qn_U=Fqt<jF2)qtVHF:HD>_H<=FnD2n_qptj=<tq<2FFDztpFDsUnn_t=_Fp_jt6qFt2=F<G<=mDDUwnqt-qSp_qH<F)U2t>SH/><D<=<nptDqnpqqH<=)=qnFFH)>tD)UOnUt_jDpFqD2H)q}+F=Hj><DFUDnttUjMp=q_<<)FADFtHq=jD=U_n<tUjDptqq2*)2z_F<HF=_DtUq_iptt_p<q<2D=F(q>WH===nDUF_FttFn<;qU2_)26F>qn==qnSU=)Ht<j><D)3H_F?^=>__2=FnnUtjFpnj=<=q<D_FD%t>qD8f>n_t__Fpnjt<F)z-,Fpa<><DDp<nqtH_=pjj<<t>/2tFqH-ttD_=2nFp__2pqqq<=U=2<FFHD>tjpU%_Ht_jnpFqD<tFFF=F=Ht><qqUDnttqqD<tq_2))F+qFtHq=,ntU=n<pDjDH_qq2f)=Hq>DHF=pDtt__at=j_27)U2DFF6q=>H==_D<UFj=ttjp<f)q2_Fm-F>DDj=qnFU=_>t<jF<D)<F!FZHn>_nE=FnDUtjF<)j=<<q<n)FD0t>qnD=2n_t>_F3Ujt<q)NvtFqL<=_DDp_nqtk_=<q)=<F)22tUqH >=D_=<n<tDj_pqqp<=)q2<FFH_>tD2Ufn2t__<pF)_)q)qB=F=_<><DFUD_<tFj4<jq_2_)F(DFtDFUnD=tAn<sHjDptqq!DFFa_>UHFU2DtUq_fptqnp<)q2Dt;Kq>KH==_n_UF_Uttq_<,qt2_)<DH>DDq=qnjU=__t<q=*nqt/HF7vt>_H<=F__pp_qptj=H2q<2FFDH<U)D#U)n_tH_FpDjt2F)p2=>DI<tHDD=tnqpDjFp_qp<FFt2tFqHc>=nj=<_DtDjUpqqD<=)_HDFFHp>tDFU{n=t__<2HqD2F)q^jF=H_><n=UUntpnjo2jq_<<)FH_FpHq=<D=<tn<tFjD<<Fy2 F>w_>_HF=DDttFjHt=q_p<Fz2D)t7q=DDU=_n2UFqHttjq<gq=Sn)<H_>DDp=qnDU=__<_jF<2qt2UFRb=>_n7U>nDt=_q2<j=<_q<(=FjKt=jD9<nn_U<_F<_)p<qF!2=U29<>FDDU<j)tXjUp_q<<F)D2t>Fq)>=nq=<j=tD_tpqq32U)_sUFFD_>tDFU?n=<H_<<nqD2>)q HF=DqU2DFU<nt<_jWp=q_<<f=iD>>Hq=jD=U_n<p=jppt)_2BFjJ_F<HFU_nqUq_2t=qFp<qF2DF<HF>uD==__DUF_DttqF2tq=.j)<_>>DHt=q_DUp__<ajFRpqt2qF5*==<H<UjnDt<_qpDj=<_UF2FF27t>tDYU)n_pTqHpDq=<q)=2=F_-<==n(=t_jtYF)p_j<<F)D:tFqDC>=D==<n2tDjD2nq62=)_qUFFHn>tD)UCn<<D_<pFqDj>)qYHF=HFUtDFUDntjHjupUq_T8>>dD>tHq=_D=U_n<tFpnpt))2NFja_F<HFU__HUqjDt=jFp<qF2DFfgp>YD==_UFUF_nttjqD=q=5F)<Hn>DD2=qnyHn__<DjF<Fqt+=F^H*>2H<UtnDnD_qpHj=<jq<2t=%Qt>qD!D{n_U2_Fpq)=<q)a2=fp0<>>DD=tFztoj<p_q_<F)>2tFqj>>=nF=<_ttDj_pqq^7q)_HnFFHp>tn>USn=tU_<<pqD2D)qHjF=H_UnDFtqnttFj}ptq_<<F>gD=rHqU_D=Upn<tFq<pt)=25F<Z_F<HFtF_FUqj_t=p_p<q>2DFDCq>_nF=_D<UFtDttj)<sq<HD)<.F>D=j=qnHU=__9jjF2qqtBnFSd=>_H<2FnDpH_qptj=<_q<2FFtEt==DS=tn_U2_F<_qj<qF_2=Uj5<>FDD=t_)toj<p_j2<F)n2tFqH2>=D_=<n>tD_tpqqPj/)_HDFFDq>tDqU{nt_F_<<pqD2D)qNBF=H_ jDFt)ntt)j5pUq_2DFD7D>tHqHHD=Ujn<<Fqopt)_2^FF?_>DHF=DqnUqjvt=j>p<qF2DF<>T>/DU=_jFUF_DttqF<<q=gq)<sU>DHt=q_DtF__<HjFHpqt2qFlHt>=H<UtnDpD_qp8j=2q)=2F>)QtUDD0==n_U<_=pDqt<qFj2=Fq9<>FnW=tn<tmj=p_j<<F)DF<FqDY>=D>=<nFtDj<<2qR2U)_HnFFHD>tnFU2n=pq_<H_qD<t)qHD=HH_UHDFtqnttqj/<t)_<<Ft^DttHq=8D=tq_ttFq)pt>>2&)=R_F<nW=DntUqjjt=jqp<qFD>)tB2>lD==_D<UF_DHqjq2+q=2=)<H%>DDD2nnvtH__q<jF<nqt*qFc{<UDH<=FnDjt_qpHj=<_UF2F>D{t>tDlUHn_U<>DpDqn<qF72=Ft(<>Fqt=t_qt-j#p_q)<F)F_>FqHF>=t2=<n>tDjtpqq_#F)_2<FFUp>tD)UEn=2U_<<FqD2H)qgWF=DqDpDFtnnt<>jdp=q_6x>HiD><HqpnD=U_n<p=qHpt)>24Uj8_F<HFU_nUUqj_t=>)p<qF2DF<D8>mD2=__jUF_Dttjq2>q=b_)<Hp>DH<=qnktD__pqjF<Fqt*qFlHtUjH<UFnDt,_qphj=<_<22F>nMt=HDa==n_p4_2pDq<<q)_2=F_r<>tn2=t_qtB4jp_j2<FF_22FqD_>=q>=<nFtDjDnUq}22)_QHFFHn>tDpU-n=t>_<pFqD2_)quOF=H_=nDFUDntpHj+p=q_<<)p4DFtHqUnD=U_n<tFj)ptqq2GFHP_F<HF=DnHUq_Kt=qDp<qF2D)tPU>vH==_nUUF_Dttjq<jq=2_)<H_>DHt=qnYH___<DjF<_qt2)FXI=><H<UUnDUt_qpbj=<F)F2F>D7t_jDI=Un_<_FtpDq=<qD<2=Fji<=DDDUVj_tB_=p_Ht<F)n2tF=D<>=D_=<22tD_ppqq:DH)_T<FFH2>tDqUw_t2)_<<>qD4p)qVgF=H_UUDFtDnttFj&pUq_9PF_}D>tHqpHD=U_n<tFj<pt)q2^)U?_F2HF=Dn2Uq_kt=jjp<qF2D)tHF>PD==_n<UF_DttjFq_q=-j)<ot>DHt=qnyDH__p2jF<nqt2)FXD=tnH<UFnDt)_qk2j=<_<>2FF>6t>tDYU=n_p*jHpDqt<q)_2=F_&<>Fn>=t_)tVjjp_j<<FF_2<FqDD>=DF=<nFtDjTp>qN2=)_p=FFHn>tDq2=n=pF_<<nqD22)qd?<pH_UDDFUFntp=jz<k)n<<FtODj<Hq=HD=tHn<tt):ptqq20_ta_F2HF=q_=Uq_#t=D2p<q>2D)tnp>,D<=_nUUF_DttjqnMq=r>)<H_>DHt=qn(U2__<DjF<_qt2)FOHt>UH<UtnD<p_qpoj=<_)=2F>qTt>)D =Un_U<jVpDjt<q)H2=F_^<>FFF=t_=tAj<p_j<<F)_FhFqDj>=Dq=<nFtD_tnpq922)_22FFHn>tD=U=n=p__<=jqD<p)qXq<2H_=<DFUDntt)juptq_<<)p#DFtHq=qD=U_n<tFj)ptqq2(F_,_F<HF=D_2UqjHt=j)p<qF2DF<Hn>ADt=_nUUF_Dttjq<qq=i))<7p>DHt=q_DUp__<DjF2nqt2qFXHt>>H<UpnDtF_qpWj=2q)=2F>FPtpHD:==n_p;_ppD)n<q))2=F_7<==_n=t_<t^_Up_j<<F)DnjFqDn>=nt=<n=tD_t<<qd2<)_xnFFHD>tnFtjn=p>_<2FqD<t)qHD>pH_U_DFp>nttqj%<tq><<F2?Dt_Hq={D=tq_=tFq=pt>p2S)={_=TH2=D_jUq)_t=j_p<qF)=)tH=>3nn=_n&UF_D2njq2Hq=NF)<->>DD<t)n3tt__pDjF<Dqt2q*Hw==)H<U>nDUt_q<Dq2<_FD2FFq{t>qD-=<_=U<j=pDqD<))H2=>qD2>FnF=tn=tE_=p_j<q>)DHnFqHU>=D_=<_=p2_t<<qu<<)_2<FFHq=>Dqtqn=t>_2p>qD<t=p8r=_H_=<DFUDnttqFtp=)2<<FnaD=jHq=CD2U_j=tFqnpt)U23)=H2F<nD=D_FUq_Dt=j=2DqFvt)tw=>HHU=_D<UF_q<=jq<(q=2F)2d>>DHtppnfp___pUjF<Dqt2qpG*==2H<U_nDUt_qpL)D<_FF2FF_et>)DBUt_tU<qDpDFp<q)B2=F_HU>Fnt=tn)ta_Up_j<<>)D2tFqHH>=D_=<nttt_t<tq;<D)_22FFHq=qDqtDn=UF_<p>qD2<)>*x>tH_tpDFUDnttt<Tp=)q<<FD?nFpHq=HD=UFjttFjDpt)B2H)U}_=3HU=Dn<Uqqjt=j_p<qFD>)tH>>kDt=_D<UF_D!pjq2_q=uq)<oF>DHtUqnOt2__pnjF<DqtOFF_V===H<ppnDUt_q<D)n<_Fj2FFUYt>qD%Ut_pU<q;pDj2<q)A2=>qD_>FnU=tj=t:_=p_)V2+)DHqFqnU>=D_=<nF_=_t<Uqc^_)_^SFFHD2)Dqt_n=tq_<p=qD<t)=iQ><H_>2DFU_ntpFq=p=)><<=<.DFtHqUDnDU_j_tFj)ptqq2y)=MjF<Dt=D_DUq_st=j_<tqFuj)t+q>.Ht=_n;nt_D<9jq<jq=2_)<VF=_HtU>nxt<__t<jF<DF>2q>nW=>_H<=FnDUtjFpWj=<_q22FFDZt");local n=h.KEaHrkxo;h.rnMjFTYP(function()h.VjzsmsUY()n=n+h.TXlIqvsO end)local function e(t,e)if e then return n end;n=t+n;end local t,n,s=f(h.KEaHrkxo,f,e,u,h.RiVmCQOk);local function _()local n,t=h.RiVmCQOk(u,e(h.TXlIqvsO,h.seZcrFwU),e(h.zwdszamm,h.cMdnsEpM)+h.mfnszTpM);e(h.mfnszTpM);return(t*h.fACXIfQk)+n;end;local y=true;local j=h.KEaHrkxo local function k()local e=n();local n=n();local l=h.TXlIqvsO;local d=(t(n,h.TXlIqvsO,h.JbDmdPOj)*(h.mfnszTpM^h.lIwiCqek))+e;local e=t(n,h.JQSOStZq,h.FQXqsYeS);local n=((-h.TXlIqvsO)^t(n,h.lIwiCqek));if(e==h.KEaHrkxo)then if(d==j)then return n*h.KEaHrkxo;else e=h.TXlIqvsO;l=h.KEaHrkxo;end;elseif(e==h.QitRzczQ)then return(d==h.KEaHrkxo)and(n*(h.TXlIqvsO/h.KEaHrkxo))or(n*(h.KEaHrkxo/h.KEaHrkxo));end;return h.gm_pvs_Z(n,e-h.yBGFcXhr)*(l+(d/(h.mfnszTpM^h.bDDKajRr)));end;local b=n;local function c(n)local t;if(not n)then n=b();if(n==h.KEaHrkxo)then return'';end;end;t=h.puajWrpX(u,e(h.TXlIqvsO,h.seZcrFwU),e(h.zwdszamm,h.cMdnsEpM)+n-h.TXlIqvsO);e(n)local e=""for n=(h.TXlIqvsO+j),#t do e=e..h.puajWrpX(t,n,n)end return e;end;local j=#h.TsxlfOPo(a('\49.\48'))~=h.TXlIqvsO local e=n;local function te(...)return{...},h.zfBtQEtv('#',...)end local function ee()local e={};local a={};local f={};local u={a,f,nil,e};local e=n()local o={}for d=h.TXlIqvsO,e do local t=s();local n;if(t==h.TXlIqvsO)then n=(s()~=#{});elseif(t==h.KEaHrkxo)then local e=k();if j and h._HrnlVKT(h.TsxlfOPo(e),'.(\48+)$')then e=h.WhlAdJEj(e);end n=e;elseif(t==h.mfnszTpM)then n=c();end;o[d]=n;end;for e=h.TXlIqvsO,n()do f[e-(#{h.TXlIqvsO})]=ee();end;u[h.seZcrFwU]=s();for u=h.TXlIqvsO,n()do local e=s();if(t(e,h.TXlIqvsO,h.TXlIqvsO)==h.KEaHrkxo)then local f=t(e,h.mfnszTpM,h.seZcrFwU);local s=t(e,h.PevYxcXK,h.cMdnsEpM);local e={_(),_(),nil,nil};if(f==h.KEaHrkxo)then e[l]=_();e[r]=_();elseif(f==#{h.TXlIqvsO})then e[l]=n();elseif(f==p[h.mfnszTpM])then e[l]=n()-(h.mfnszTpM^h.PIblFCxl)elseif(f==p[h.seZcrFwU])then e[l]=n()-(h.mfnszTpM^h.PIblFCxl)e[r]=_();end;if(t(s,h.TXlIqvsO,h.TXlIqvsO)==h.TXlIqvsO)then e[d]=o[e[d]]end if(t(s,h.mfnszTpM,h.mfnszTpM)==h.TXlIqvsO)then e[l]=o[e[l]]end if(t(s,h.seZcrFwU,h.seZcrFwU)==h.TXlIqvsO)then e[r]=o[e[r]]end a[u]=e;end end;return u;end;local function ne(t,e,n)local d=e;local d=n;return a(h._HrnlVKT(h._HrnlVKT(({h.rnMjFTYP(t)})[h.mfnszTpM],e),n))end local function m(g,s,a)local function le(...)local _,z,k,ne,c,n,u,ee,b,j,p,t;local e=h.KEaHrkxo;while-h.TXlIqvsO<e do if h.seZcrFwU>e then if e<h.TXlIqvsO then _=f(h.cMdnsEpM,h.CwyjPaMt,h.TXlIqvsO,h.m__MXUAT,g);z=f(h.cMdnsEpM,h.oYwdgwlX,h.mfnszTpM,h.seZcrFwU,g);else if h.TXlIqvsO<e then n=-h.CPTthIlg;u=-h.TXlIqvsO;else k=f(h.cMdnsEpM,h.JYAAEVBf,h.seZcrFwU,h.llnHqToW,g);c=te ne=h.KEaHrkxo;end end else if h.zwdszamm>e then if-h.TXlIqvsO<e then for n=h.ZdiibUwl,h.elDBWYSI do if e>h.seZcrFwU then j=h.zfBtQEtv('#',...)-h.TXlIqvsO;p={};break;end;ee={};b={...};break;end;else j=h.zfBtQEtv('#',...)-h.TXlIqvsO;p={};end else if e==h.cMdnsEpM then e=-h.mfnszTpM;else t=f(h.yrUBkPKx);end end end e=e+h.TXlIqvsO;end;for e=h.KEaHrkxo,j do if(e>=k)then ee[e-k]=b[e+h.TXlIqvsO];else t[e]=b[e+h.TXlIqvsO];end;end;local e=j-k+h.TXlIqvsO local e;local f;function uuXQTewsglmu()y=false;end;local function j(...)while true do end end while y do if n<-h.RuIRmSxD then n=n+h.OtAGzenv end e=_[n];f=e[de];if h.odMzARwf<=f then if f<h.KviTahHW then if f<=h.MFbXRQwq then if h.luhgRzaF<f then if f<=h.xeXtBoPn then if f<h.ErJDqsOO then if f>=83 then repeat if f>86 then local a,s,p,j,u,f,r,k;for f=0,2 do if 0>=f then f=0;while f>-1 do if 2>=f then if f<1 then a=e;else if f>-3 then repeat if f<2 then s=d;break;end;p=l;until true;else s=d;end end else if 5>f then if 2<=f then for e=35,67 do if f~=3 then u=a[s];break;end;j=a[p];break;end;else u=a[s];end else if f~=1 then repeat if f>5 then f=-2;break;end;t(u,j);until true;else f=-2;end end end f=f+1 end n=n+1;e=_[n];else if f~=2 then r=e[d]t[r]=t[r](o(t,r+1,e[l]))n=n+1;e=_[n];else r=e[d];k=t[r];for e=r+1,e[l]do h.ZmMdCshQ(k,t[e])end;end end end break;end;local e=e[d]t[e]=t[e](o(t,e+1,u))until true;else local s,a,k,j,u,f,r,p;for f=0,2 do if 0>=f then f=0;while f>-1 do if 2>=f then if f<1 then s=e;else if f>-3 then repeat if f<2 then a=d;break;end;k=l;until true;else a=d;end end else if 5>f then if 2<=f then for e=35,67 do if f~=3 then u=s[a];break;end;j=s[k];break;end;else u=s[a];end else if f~=1 then repeat if f>5 then f=-2;break;end;t(u,j);until true;else f=-2;end end end f=f+1 end n=n+1;e=_[n];else if f~=2 then r=e[d]t[r]=t[r](o(t,r+1,e[l]))n=n+1;e=_[n];else r=e[d];p=t[r];for e=r+1,e[l]do h.ZmMdCshQ(p,t[e])end;end end end end else if 89<=f then if 90~=f then for f=0,1 do if-4<=f then for h=19,89 do if f>0 then if not t[e[d]]then n=n+1;else n=e[l];end;break;end;t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];break;end;else t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];end end else local l,o,r,f,s,h;for a=0,1 do if a==1 then l=e[d];o={};for e=1,#p do r=p[e];for e=0,#r do f=r[e];s=f[1];h=f[2];if s==t and h>=l then o[h]=s[h];f[1]=o;end;end;end;else l=e[d]t[l](t[l+1])n=n+1;e=_[n];end end end else t[e[d]]=t[e[l]]+e[r];end end else if 93<=f then if 94>f then local e=e[d]t[e]=t[e]()else if 90~=f then repeat if 95~=f then if(t[e[d]]~=e[r])then n=n+1;else n=e[l];end;break;end;local f;for h=0,1 do if-3<h then repeat if 1>h then f=e[d]t[f]=t[f]()n=n+1;e=_[n];break;end;if not t[e[d]]then n=n+1;else n=e[l];end;until true;else f=e[d]t[f]=t[f]()n=n+1;e=_[n];end end until true;else if(t[e[d]]~=e[r])then n=n+1;else n=e[l];end;end end else if f<92 then local f,j,z,k,b,m,h,p,s,r;for h=0,5 do if h<3 then if h<1 then f=e[d]t[f]=t[f](t[f+1])n=n+1;e=_[n];else if 2>h then f=e[d]t[f]=t[f]()n=n+1;e=_[n];else h=0;while h>-1 do if h<=2 then if 1<=h then if-1<h then repeat if 1~=h then k=l;break;end;z=d;until true;else k=l;end else j=e;end else if h<=4 then if h~=4 then b=j[k];else m=j[z];end else if 2~=h then repeat if h>5 then h=-2;break;end;t(m,b);until true;else t(m,b);end end end h=h+1 end n=n+1;e=_[n];end end else if h<=3 then t[e[d]]=a[e[l]];n=n+1;e=_[n];else if h>=3 then repeat if 5~=h then f=e[d]p,s=c(t[f](o(t,f+1,e[l])))u=s+f-1 r=0;for e=f,u do r=r+1;t[e]=p[r];end;n=n+1;e=_[n];break;end;f=e[d]t[f]=t[f](o(t,f+1,u))until true;else f=e[d]p,s=c(t[f](o(t,f+1,e[l])))u=s+f-1 r=0;for e=f,u do r=r+1;t[e]=p[r];end;n=n+1;e=_[n];end end end end else local e=e[d];do return o(t,e,u)end;end end end else if 80>=f then if 79>f then if 74<=f then for _=25,83 do if 77~=f then local n=e[d]t[n]=t[n](o(t,n+1,e[l]))break;end;local _=t[e[r]];if not _ then n=n+1;else t[e[d]]=_;n=e[l];end;break;end;else local n=e[d]t[n]=t[n](o(t,n+1,e[l]))end else if 78<f then repeat if f<80 then t[e[d]]=t[e[l]][e[r]];n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];t[e[d]]=t[e[l]];n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];do return end;break;end;local f;t[e[d]]=t[e[l]];n=n+1;e=_[n];f=e[d]t[f](t[f+1])n=n+1;e=_[n];t[e[d]]=a[e[l]];n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];do return end;until true;else t[e[d]]=t[e[l]][e[r]];n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];t[e[d]]=t[e[l]];n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];do return end;end end else if f<=82 then if 82==f then local d=e[d];local n=t[e[l]];t[d+1]=n;t[d]=n[e[r]];else local _=t[e[r]];if not _ then n=n+1;else t[e[d]]=_;n=e[l];end;end else if 84<=f then if 85~=f then if(t[e[d]]==t[e[r]])then n=n+1;else n=e[l];end;else local u,h,c,b,k,j,p,f;for f=0,6 do if 2>=f then if f>0 then if 0<=f then repeat if f>1 then t[e[d]]=a[e[l]];n=n+1;e=_[n];break;end;u=e[d]t[u]=t[u](o(t,u+1,e[l]))n=n+1;e=_[n];until true;else t[e[d]]=a[e[l]];n=n+1;e=_[n];end else t[e[d]][e[l]]=t[e[r]];n=n+1;e=_[n];end else if 4>=f then if 4~=f then t[e[d]]=s[e[l]];n=n+1;e=_[n];else t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];end else if 3~=f then repeat if f<6 then f=0;while f>-1 do if 4<=f then if f<6 then if f~=5 then j=k[h[b]];else p=h[c];end else if 5~=f then repeat if 7~=f then t[p]=j;break;end;f=-2;until true;else t[p]=j;end end else if 2<=f then if 3~=f then b=l;else k=t;end else if-1<f then repeat if f>0 then c=d;break;end;h=e;until true;else h=e;end end end f=f+1 end n=n+1;e=_[n];break;end;u=e[d]t[u](o(t,u+1,e[l]))until true;else f=0;while f>-1 do if 4<=f then if f<6 then if f~=5 then j=k[h[b]];else p=h[c];end else if 5~=f then repeat if 7~=f then t[p]=j;break;end;f=-2;until true;else t[p]=j;end end else if 2<=f then if 3~=f then b=l;else k=t;end else if-1<f then repeat if f>0 then c=d;break;end;h=e;until true;else h=e;end end end f=f+1 end n=n+1;e=_[n];end end end end end else local m,u,a,s,m,f,p,h,c,j,b,k,r;f=0;while f>-1 do if f>2 then if 4<f then if f>=1 then for e=24,59 do if f<6 then t(r,s);break;end;f=-2;break;end;else t(r,s);end else if f>2 then for e=39,83 do if 4~=f then s=h[a];break;end;r=h[u];break;end;else s=h[a];end end else if f<1 then h=e;else if f>1 then a=l;else u=d;end end end f=f+1 end n=n+1;e=_[n];f=0;while f>-1 do if 3<=f then if 5>f then if 4==f then r=h[u];else s=h[a];end else if 3~=f then for e=30,85 do if 6>f then t(r,s);break;end;f=-2;break;end;else t(r,s);end end else if 1>f then h=e;else if-2<=f then for e=32,57 do if f>1 then a=l;break;end;u=d;break;end;else a=l;end end end f=f+1 end n=n+1;e=_[n];p=e[d]t[p]=t[p](o(t,p+1,e[l]))n=n+1;e=_[n];f=0;while f>-1 do if 3<f then if f>=6 then if 7~=f then t[r]=k;else f=-2;end else if 1~=f then repeat if 4~=f then r=h[c];break;end;k=b[h[j]];until true;else k=b[h[j]];end end else if 1>=f then if f~=-4 then repeat if 1>f then h=e;break;end;c=d;until true;else h=e;end else if f~=-2 then for e=17,61 do if 2<f then b=t;break;end;j=l;break;end;else j=l;end end end f=f+1 end n=n+1;e=_[n];f=0;while f>-1 do if f<=2 then if 0<f then if f>0 then for e=20,86 do if 1<f then a=l;break;end;u=d;break;end;else u=d;end else h=e;end else if f<5 then if-1<f then for e=39,76 do if 3<f then r=h[u];break;end;s=h[a];break;end;else s=h[a];end else if 6==f then f=-2;else t(r,s);end end end f=f+1 end n=n+1;e=_[n];f=0;while f>-1 do if f>2 then if 5<=f then if f>5 then f=-2;else t(r,s);end else if f>=0 then for e=11,79 do if 4>f then s=h[a];break;end;r=h[u];break;end;else r=h[u];end end else if 0>=f then h=e;else if f>-3 then for e=37,77 do if f>1 then a=l;break;end;u=d;break;end;else a=l;end end end f=f+1 end n=n+1;e=_[n];f=0;while f>-1 do if 3>f then if 1>f then h=e;else if f~=2 then u=d;else a=l;end end else if 4>=f then if f>3 then r=h[u];else s=h[a];end else if 6==f then f=-2;else t(r,s);end end end f=f+1 end end end end end else if f>105 then if 110<f then if f>112 then if 114<=f then if 111<f then for n=37,77 do if f<115 then local e=e[d];do return o(t,e,u)end;break;end;local d=e[d];local n=t[e[l]];t[d+1]=n;t[d]=n[e[r]];break;end;else local e=e[d];do return o(t,e,u)end;end else local h;for f=0,5 do if 3>f then if 0<f then if f>-1 then for r=37,86 do if f>1 then h=e[d]t[h]=t[h](t[h+1])n=n+1;e=_[n];break;end;t[e[d]]=t[e[l]];n=n+1;e=_[n];break;end;else t[e[d]]=t[e[l]];n=n+1;e=_[n];end else t[e[d]]=t[e[l]][e[r]];n=n+1;e=_[n];end else if f>3 then if 0<=f then repeat if f~=5 then t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];break;end;t[e[d]][t[e[l]]]=t[e[r]];until true;else t[e[d]][t[e[l]]]=t[e[r]];end else t[e[d]][t[e[l]]]=t[e[r]];n=n+1;e=_[n];end end end end else if 109~=f then for h=40,54 do if f~=111 then for f=0,1 do if f~=0 then if not t[e[d]]then n=n+1;else n=e[l];end;else t[e[d]]=a[e[l]];n=n+1;e=_[n];end end break;end;local o,a,s,_,h,u,f;local n=0;while n>-1 do if n<3 then if n>0 then if n~=-1 then for t=43,70 do if n<2 then _=e;break;end;h=_[a];break;end;else _=e;end else o=d;a=l;s=r;end else if n>=5 then if 6==n then n=-2;else t[u]=f;end else if n~=3 then f=t[h];for e=1+h,_[s]do f=f..t[e];end;else u=_[o];end end end n=n+1 end break;end;else local o,s,a,_,h,u,f;local n=0;while n>-1 do if n<3 then if n>0 then if n~=-1 then for t=43,70 do if n<2 then _=e;break;end;h=_[s];break;end;else _=e;end else o=d;s=l;a=r;end else if n>=5 then if 6==n then n=-2;else t[u]=f;end else if n~=3 then f=t[h];for e=1+h,_[a]do f=f..t[e];end;else u=_[o];end end end n=n+1 end end end else if f<=107 then if 102<=f then repeat if 107~=f then local f;t[e[d]]=s[e[l]];n=n+1;e=_[n];t[e[d]]=s[e[l]];n=n+1;e=_[n];t[e[d]]=s[e[l]];n=n+1;e=_[n];t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];f=e[d];do return t[f](o(t,f+1,e[l]))end;n=n+1;e=_[n];f=e[d];do return o(t,f,u)end;n=n+1;e=_[n];do return end;break;end;local h,f;t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];t[e[d]]=t[e[l]]+t[e[r]];n=n+1;e=_[n];t[e[d]]=t[e[l]];n=n+1;e=_[n];t[e[d]]=s[e[l]];n=n+1;e=_[n];t[e[d]]=t[e[l]]%e[r];n=n+1;e=_[n];t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];h=e[l];f=t[h]for e=h+1,e[r]do f=f..t[e];end;t[e[d]]=f;until true;else local h,f;t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];t[e[d]]=t[e[l]]+t[e[r]];n=n+1;e=_[n];t[e[d]]=t[e[l]];n=n+1;e=_[n];t[e[d]]=s[e[l]];n=n+1;e=_[n];t[e[d]]=t[e[l]]%e[r];n=n+1;e=_[n];t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];h=e[l];f=t[h]for e=h+1,e[r]do f=f..t[e];end;t[e[d]]=f;end else if f<=108 then local f,r,o,h,_;local n=0;while n>-1 do if n<=2 then if n<=0 then f=e;else if n<2 then r=d;else o=l;end end else if 5>n then if 0<n then repeat if 3~=n then _=f[r];break;end;h=f[o];until true;else _=f[r];end else if n>2 then for e=13,97 do if 6~=n then t(_,h);break;end;n=-2;break;end;else t(_,h);end end end n=n+1 end else if f>=105 then for h=17,72 do if f>109 then local n=e[d]t[n](o(t,n+1,e[l]))break;end;local f,s;for h=0,5 do if 2>=h then if h>0 then if 1~=h then t[e[d]]=t[e[l]];n=n+1;e=_[n];else t[e[d]]=t[e[l]];n=n+1;e=_[n];end else f=e[d];s=t[e[l]];t[f+1]=s;t[f]=s[e[r]];n=n+1;e=_[n];end else if h<4 then f=e[d]t[f]=t[f](o(t,f+1,e[l]))n=n+1;e=_[n];else if 0<h then repeat if 5~=h then t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];break;end;t[e[d]]=t[e[l]]*e[r];until true;else t[e[d]]=t[e[l]]*e[r];end end end end break;end;else local n=e[d]t[n](o(t,n+1,e[l]))end end end end else if 100>=f then if f>=98 then if 99<=f then if 96~=f then for h=11,98 do if 100~=f then for f=0,1 do if f~=0 then if(t[e[d]]~=t[e[r]])then n=n+1;else n=e[l];end;else t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];end end break;end;do return t[e[d]]end break;end;else for f=0,1 do if f~=0 then if(t[e[d]]~=t[e[r]])then n=n+1;else n=e[l];end;else t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];end end end else if not t[e[d]]then n=n+1;else n=e[l];end;end else if 92<=f then for h=40,77 do if 97>f then local e=e[d]t[e]=t[e](t[e+1])break;end;local f,h,r;for o=0,2 do if o<1 then t[e[d]]=#t[e[l]];n=n+1;e=_[n];else if-3<=o then for s=26,74 do if 2~=o then t(e[d],e[l]);n=n+1;e=_[n];break;end;f=e[d];h=t[f]r=t[f+2];if(r>0)then if(h>t[f+1])then n=e[l];else t[f+3]=h;end elseif(h<t[f+1])then n=e[l];else t[f+3]=h;end break;end;else f=e[d];h=t[f]r=t[f+2];if(r>0)then if(h>t[f+1])then n=e[l];else t[f+3]=h;end elseif(h<t[f+1])then n=e[l];else t[f+3]=h;end end end end break;end;else local f,h,r;for o=0,2 do if o<1 then t[e[d]]=#t[e[l]];n=n+1;e=_[n];else if-3<=o then for s=26,74 do if 2~=o then t(e[d],e[l]);n=n+1;e=_[n];break;end;f=e[d];h=t[f]r=t[f+2];if(r>0)then if(h>t[f+1])then n=e[l];else t[f+3]=h;end elseif(h<t[f+1])then n=e[l];else t[f+3]=h;end break;end;else f=e[d];h=t[f]r=t[f+2];if(r>0)then if(h>t[f+1])then n=e[l];else t[f+3]=h;end elseif(h<t[f+1])then n=e[l];else t[f+3]=h;end end end end end end else if 103>f then if f<102 then local u=z[e[l]];local o;local f={};o=h.bvvDCsVa({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(t,e,n)local e=f[e]e[1][e[2]]=n;end;});for d=1,e[r]do n=n+1;local e=_[n];if e[de]==5 then f[d-1]={t,e[l]};else f[d-1]={s,e[l]};end;p[#p+1]=f;end;t[e[d]]=m(u,o,a);else for e=e[d],e[l]do t[e]=nil;end;end else if 103>=f then t[e[d]]();else if f>=101 then for n=18,81 do if 104<f then t[e[d]]=t[e[l]]%e[r];break;end;t[e[d]]();break;end;else t[e[d]]=t[e[l]]%e[r];end end end end end end else if 134<f then if 144>=f then if 139<f then if 142>f then if f<141 then local e=e[d];local n=t[e];for e=e+1,u do h.ZmMdCshQ(n,t[e])end;else local h,f,k,o,s,j,u,a,p;local _=0;while _>-1 do if 2<_ then if 5>_ then if 0<=_ then for e=43,76 do if 3<_ then p=u==a and f[j]or 1+k;break;end;u=h[o];a=h[s];break;end;else u=h[o];a=h[s];end else if 2<=_ then repeat if 6~=_ then n=p;break;end;_=-2;until true;else n=p;end end else if 1>_ then h=t;else if _~=-3 then for t=49,52 do if _<2 then f=e;k=n;break;end;o=f[d];s=f[r];j=l;break;end;else o=f[d];s=f[r];j=l;end end end _=_+1 end end else if 142>=f then local d=e[d];local f=t[d+2];local _=t[d]+f;t[d]=_;if(f>0)then if(_<=t[d+1])then n=e[l];t[d+3]=_;end elseif(_>=t[d+1])then n=e[l];t[d+3]=_;end else if 144~=f then local f;t(e[d],e[l]);n=n+1;e=_[n];t(e[d],e[l]);n=n+1;e=_[n];t(e[d],e[l]);n=n+1;e=_[n];t(e[d],e[l]);n=n+1;e=_[n];t(e[d],e[l]);n=n+1;e=_[n];f=e[d]t[f]=t[f](o(t,f+1,e[l]))n=n+1;e=_[n];t[e[d]]=t[e[l]][t[e[r]]];else if not t[e[d]]then n=n+1;else n=e[l];end;end end end else if 137>f then if f>=133 then repeat if 136~=f then t[e[d]]=t[e[l]][e[r]];n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];t[e[d]]=t[e[l]];n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];do return end;break;end;local n=e[d]t[n]=t[n](o(t,n+1,e[l]))until true;else t[e[d]]=t[e[l]][e[r]];n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];t[e[d]]=t[e[l]];n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];do return end;end else if 138>f then t[e[d]]=t[e[l]]+t[e[r]];else if f==139 then t[e[d]]=t[e[l]]%t[e[r]];else local h;for f=0,6 do if 2<f then if 5<=f then if 6==f then t[e[d]]=t[e[l]];else h=e[d]t[h]=t[h](o(t,h+1,e[l]))n=n+1;e=_[n];end else if 1<=f then for h=16,74 do if 4~=f then t(e[d],e[l]);n=n+1;e=_[n];break;end;t(e[d],e[l]);n=n+1;e=_[n];break;end;else t(e[d],e[l]);n=n+1;e=_[n];end end else if 0>=f then t(e[d],e[l]);n=n+1;e=_[n];else if f==1 then t(e[d],e[l]);n=n+1;e=_[n];else t(e[d],e[l]);n=n+1;e=_[n];end end end end end end end end else if f>=150 then if f>151 then if 152>=f then local _=e[d];local d={};for e=1,#p do local e=p[e];for n=0,#e do local e=e[n];local l=e[1];local n=e[2];if l==t and n>=_ then d[n]=l[n];e[1]=d;end;end;end;else if f>=149 then repeat if 153<f then local h,r,p,u,s,f,o,a,j;for f=0,2 do if f>0 then if f==2 then o=e[d];a=t[o]j=t[o+2];if(j>0)then if(a>t[o+1])then n=e[l];else t[o+3]=a;end elseif(a<t[o+1])then n=e[l];else t[o+3]=a;end else f=0;while f>-1 do if f>2 then if 4<f then if f>3 then for e=26,69 do if 6~=f then t(s,u);break;end;f=-2;break;end;else f=-2;end else if-1~=f then repeat if 4>f then u=h[p];break;end;s=h[r];until true;else s=h[r];end end else if f>0 then if-3~=f then repeat if 1~=f then p=l;break;end;r=d;until true;else r=d;end else h=e;end end f=f+1 end n=n+1;e=_[n];end else f=0;while f>-1 do if 3<=f then if 5<=f then if 4~=f then for e=37,93 do if 6~=f then t(s,u);break;end;f=-2;break;end;else t(s,u);end else if 3==f then u=h[p];else s=h[r];end end else if f<1 then h=e;else if-2~=f then repeat if 2>f then r=d;break;end;p=l;until true;else r=d;end end end f=f+1 end n=n+1;e=_[n];end end break;end;t[e[d]]=t[e[l]]-t[e[r]];until true;else local r,o,p,a,s,f,h,u,j;for f=0,2 do if f>0 then if f==2 then h=e[d];u=t[h]j=t[h+2];if(j>0)then if(u>t[h+1])then n=e[l];else t[h+3]=u;end elseif(u<t[h+1])then n=e[l];else t[h+3]=u;end else f=0;while f>-1 do if f>2 then if 4<f then if f>3 then for e=26,69 do if 6~=f then t(s,a);break;end;f=-2;break;end;else f=-2;end else if-1~=f then repeat if 4>f then a=r[p];break;end;s=r[o];until true;else s=r[o];end end else if f>0 then if-3~=f then repeat if 1~=f then p=l;break;end;o=d;until true;else o=d;end else r=e;end end f=f+1 end n=n+1;e=_[n];end else f=0;while f>-1 do if 3<=f then if 5<=f then if 4~=f then for e=37,93 do if 6~=f then t(s,a);break;end;f=-2;break;end;else t(s,a);end else if 3==f then a=r[p];else s=r[o];end end else if f<1 then r=e;else if-2~=f then repeat if 2>f then o=d;break;end;p=l;until true;else o=d;end end end f=f+1 end n=n+1;e=_[n];end end end end else if f>=149 then repeat if f>150 then local u,s,o,h,a,f;t[e[d]]=t[e[l]][e[r]];n=n+1;e=_[n];t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];t[e[d]]=t[e[l]][e[r]];n=n+1;e=_[n];t[e[d]][t[e[l]]]=t[e[r]];n=n+1;e=_[n];do return t[e[d]]end n=n+1;e=_[n];u=e[d];s={};for e=1,#p do o=p[e];for e=0,#o do h=o[e];a=h[1];f=h[2];if a==t and f>=u then s[f]=a[f];h[1]=s;end;end;end;break;end;local _=e[d];local d={};for e=1,#p do local e=p[e];for n=0,#e do local n=e[n];local l=n[1];local e=n[2];if l==t and e>=_ then d[e]=l[e];n[1]=d;end;end;end;until true;else local _=e[d];local l={};for e=1,#p do local e=p[e];for n=0,#e do local n=e[n];local d=n[1];local e=n[2];if d==t and e>=_ then l[e]=d[e];n[1]=l;end;end;end;end end else if f<147 then if 141~=f then for h=16,91 do if f<146 then local f,h,p,u,a,j,s,o,k;local _=0;while _>-1 do if _<3 then if _>0 then if _~=-3 then repeat if 2~=_ then h=e;p=n;break;end;u=h[d];a=h[r];j=l;until true;else h=e;p=n;end else f=t;end else if 4<_ then if 2~=_ then for e=38,86 do if 5~=_ then _=-2;break;end;n=k;break;end;else _=-2;end else if _~=2 then repeat if _~=3 then k=s==o and h[j]or 1+p;break;end;s=f[u];o=f[a];until true;else s=f[u];o=f[a];end end end _=_+1 end break;end;local f;for h=0,6 do if h<=2 then if h<=0 then t[e[d]]=t[e[l]];n=n+1;e=_[n];else if h~=0 then for f=31,79 do if 2~=h then t(e[d],e[l]);n=n+1;e=_[n];break;end;t(e[d],e[l]);n=n+1;e=_[n];break;end;else t(e[d],e[l]);n=n+1;e=_[n];end end else if 5<=h then if 2<=h then repeat if h~=6 then t(e[d],e[l]);n=n+1;e=_[n];break;end;f=e[d]t[f]=t[f](o(t,f+1,e[l]))until true;else f=e[d]t[f]=t[f](o(t,f+1,e[l]))end else if 4==h then t(e[d],e[l]);n=n+1;e=_[n];else t(e[d],e[l]);n=n+1;e=_[n];end end end end break;end;else local h;for f=0,6 do if f<=2 then if f<=0 then t[e[d]]=t[e[l]];n=n+1;e=_[n];else if f~=0 then for h=31,79 do if 2~=f then t(e[d],e[l]);n=n+1;e=_[n];break;end;t(e[d],e[l]);n=n+1;e=_[n];break;end;else t(e[d],e[l]);n=n+1;e=_[n];end end else if 5<=f then if 2<=f then repeat if f~=6 then t(e[d],e[l]);n=n+1;e=_[n];break;end;h=e[d]t[h]=t[h](o(t,h+1,e[l]))until true;else h=e[d]t[h]=t[h](o(t,h+1,e[l]))end else if 4==f then t(e[d],e[l]);n=n+1;e=_[n];else t(e[d],e[l]);n=n+1;e=_[n];end end end end end else if 148<=f then if f==149 then t[e[d]][e[l]]=t[e[r]];else local n=e[d]local d,e=c(t[n](o(t,n+1,e[l])))u=e+n-1 local e=0;for n=n,u do e=e+1;t[n]=d[e];end;end else t[e[d]]=#t[e[l]];end end end end else if f>=125 then if f<=129 then if f>=127 then if 127<f then if 128~=f then local f,h,o;for r=0,2 do if r<=0 then t[e[d]]=#t[e[l]];n=n+1;e=_[n];else if r>=0 then for s=19,85 do if r~=2 then t(e[d],e[l]);n=n+1;e=_[n];break;end;f=e[d];h=t[f]o=t[f+2];if(o>0)then if(h>t[f+1])then n=e[l];else t[f+3]=h;end elseif(h<t[f+1])then n=e[l];else t[f+3]=h;end break;end;else t(e[d],e[l]);n=n+1;e=_[n];end end end else t[e[d]]=(e[l]~=0);end else t[e[d]]=s[e[l]];end else if 125<f then if t[e[d]]then n=n+1;else n=e[l];end;else t[e[d]]=(e[l]~=0);end end else if 131>=f then if 128<f then for h=46,53 do if f<131 then local h,s,u,p,j,o,f,r;f=0;while f>-1 do if f<4 then if 1>=f then if f~=0 then s=d;else h=e;end else if 1~=f then for e=35,73 do if 2<f then p=t;break;end;u=l;break;end;else u=l;end end else if 6<=f then if 4~=f then repeat if f>6 then f=-2;break;end;t[o]=j;until true;else f=-2;end else if 2~=f then repeat if f>4 then o=h[s];break;end;j=p[h[u]];until true;else o=h[s];end end end f=f+1 end n=n+1;e=_[n];r=e[d]t[r](t[r+1])n=n+1;e=_[n];t[e[d]]=a[e[l]];n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];do return end;n=n+1;e=_[n];for e=e[d],e[l]do t[e]=nil;end;break;end;local o,s,p,a,u,f,h,r,j;for f=0,2 do if f>0 then if 1~=f then h=e[d];r=t[h]j=t[h+2];if(j>0)then if(r>t[h+1])then n=e[l];else t[h+3]=r;end elseif(r<t[h+1])then n=e[l];else t[h+3]=r;end else f=0;while f>-1 do if 2>=f then if f>=1 then if f~=-2 then repeat if 2~=f then s=d;break;end;p=l;until true;else s=d;end else o=e;end else if 4>=f then if f==4 then u=o[s];else a=o[p];end else if f>=3 then for e=48,62 do if 5<f then f=-2;break;end;t(u,a);break;end;else t(u,a);end end end f=f+1 end n=n+1;e=_[n];end else t[e[d]]=#t[e[l]];n=n+1;e=_[n];end end break;end;else local s,o,p,a,u,f,h,r,j;for f=0,2 do if f>0 then if 1~=f then h=e[d];r=t[h]j=t[h+2];if(j>0)then if(r>t[h+1])then n=e[l];else t[h+3]=r;end elseif(r<t[h+1])then n=e[l];else t[h+3]=r;end else f=0;while f>-1 do if 2>=f then if f>=1 then if f~=-2 then repeat if 2~=f then o=d;break;end;p=l;until true;else o=d;end else s=e;end else if 4>=f then if f==4 then u=s[o];else a=s[p];end else if f>=3 then for e=48,62 do if 5<f then f=-2;break;end;t(u,a);break;end;else t(u,a);end end end f=f+1 end n=n+1;e=_[n];end else t[e[d]]=#t[e[l]];n=n+1;e=_[n];end end end else if 133<=f then if f>=129 then for n=33,83 do if f<134 then local e=e[d]t[e](t[e+1])break;end;local e=e[d]t[e]=t[e]()break;end;else local e=e[d]t[e]=t[e]()end else t[e[d]]=m(z[e[l]],nil,a);end end end else if 119>=f then if f<118 then if 117~=f then for f=0,6 do if f>=3 then if f>4 then if f>=3 then for h=18,98 do if f~=6 then t[e[d]]=t[e[l]]-t[e[r]];n=n+1;e=_[n];break;end;t(e[d],e[l]);break;end;else t(e[d],e[l]);end else if 4~=f then t(e[d],e[l]);n=n+1;e=_[n];else t[e[d]]=#t[e[l]];n=n+1;e=_[n];end end else if f>=1 then if f~=2 then t(e[d],e[l]);n=n+1;e=_[n];else t(e[d],e[l]);n=n+1;e=_[n];end else t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];end end end else t[e[d]]={};end else if 118~=f then local f;for h=0,6 do if 2<h then if 5>h then if 4==h then t(e[d],e[l]);n=n+1;e=_[n];else t(e[d],e[l]);n=n+1;e=_[n];end else if h~=3 then repeat if 6~=h then f=e[d]t[f]=t[f](o(t,f+1,e[l]))n=n+1;e=_[n];break;end;t[e[d]]=t[e[l]];until true;else f=e[d]t[f]=t[f](o(t,f+1,e[l]))n=n+1;e=_[n];end end else if 1>h then t(e[d],e[l]);n=n+1;e=_[n];else if h~=2 then t(e[d],e[l]);n=n+1;e=_[n];else t(e[d],e[l]);n=n+1;e=_[n];end end end end else local s,o,p,u,a,f,h,r,j;for f=0,2 do if f<1 then f=0;while f>-1 do if f<3 then if 0>=f then s=e;else if f>-2 then for e=39,61 do if 1<f then p=l;break;end;o=d;break;end;else o=d;end end else if f>=5 then if 6==f then f=-2;else t(a,u);end else if f>=0 then repeat if f~=4 then u=s[p];break;end;a=s[o];until true;else a=s[o];end end end f=f+1 end n=n+1;e=_[n];else if f>=-2 then for k=44,57 do if 1~=f then h=e[d];r=t[h]j=t[h+2];if(j>0)then if(r>t[h+1])then n=e[l];else t[h+3]=r;end elseif(r<t[h+1])then n=e[l];else t[h+3]=r;end break;end;f=0;while f>-1 do if f<=2 then if 1<=f then if f>=0 then for e=21,65 do if f>1 then p=l;break;end;o=d;break;end;else o=d;end else s=e;end else if 5>f then if f~=3 then a=s[o];else u=s[p];end else if 2<f then repeat if 6>f then t(a,u);break;end;f=-2;until true;else f=-2;end end end f=f+1 end n=n+1;e=_[n];break;end;else h=e[d];r=t[h]j=t[h+2];if(j>0)then if(r>t[h+1])then n=e[l];else t[h+3]=r;end elseif(r<t[h+1])then n=e[l];else t[h+3]=r;end end end end end end else if 121>=f then if 117~=f then for h=18,84 do if 121~=f then local f;t[e[d]]=s[e[l]];n=n+1;e=_[n];t[e[d]]=s[e[l]];n=n+1;e=_[n];t[e[d]]=s[e[l]];n=n+1;e=_[n];t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];f=e[d]t[f]=t[f](t[f+1])n=n+1;e=_[n];if t[e[d]]then n=n+1;else n=e[l];end;break;end;local e=e[d]t[e](t[e+1])break;end;else local e=e[d]t[e](t[e+1])end else if 123<=f then if f~=123 then t[e[d]][t[e[l]]]=t[e[r]];else local f,h,s;for o=0,4 do if o>1 then if 2>=o then t[e[d]]=#t[e[l]];n=n+1;e=_[n];else if o==4 then f=e[d];h=t[f]s=t[f+2];if(s>0)then if(h>t[f+1])then n=e[l];else t[f+3]=h;end elseif(h<t[f+1])then n=e[l];else t[f+3]=h;end else t(e[d],e[l]);n=n+1;e=_[n];end end else if o~=0 then t(e[d],e[l]);n=n+1;e=_[n];else t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];end end end end else local e=e[d]t[e]=t[e](t[e+1])end end end end end end else if 38>f then if 18>=f then if f>8 then if 14>f then if f<11 then if 5<f then for h=32,92 do if f~=9 then local d=e[d];local f=t[d+2];local _=t[d]+f;t[d]=_;if(f>0)then if(_<=t[d+1])then n=e[l];t[d+3]=_;end elseif(_>=t[d+1])then n=e[l];t[d+3]=_;end break;end;local f;for h=0,6 do if h<3 then if 1>h then t[e[d]][e[l]]=t[e[r]];n=n+1;e=_[n];else if h>-2 then repeat if 2>h then f=e[d]t[f]=t[f](o(t,f+1,e[l]))n=n+1;e=_[n];break;end;t[e[d]]=a[e[l]];n=n+1;e=_[n];until true;else t[e[d]]=a[e[l]];n=n+1;e=_[n];end end else if 4>=h then if 0<=h then for f=16,73 do if 3<h then t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];break;end;t[e[d]]=s[e[l]];n=n+1;e=_[n];break;end;else t[e[d]]=s[e[l]];n=n+1;e=_[n];end else if h>2 then repeat if 6~=h then t[e[d]]=t[e[l]];n=n+1;e=_[n];break;end;f=e[d]t[f](o(t,f+1,e[l]))until true;else f=e[d]t[f](o(t,f+1,e[l]))end end end end break;end;else local f;for h=0,6 do if h<3 then if 1>h then t[e[d]][e[l]]=t[e[r]];n=n+1;e=_[n];else if h>-2 then repeat if 2>h then f=e[d]t[f]=t[f](o(t,f+1,e[l]))n=n+1;e=_[n];break;end;t[e[d]]=a[e[l]];n=n+1;e=_[n];until true;else t[e[d]]=a[e[l]];n=n+1;e=_[n];end end else if 4>=h then if 0<=h then for f=16,73 do if 3<h then t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];break;end;t[e[d]]=s[e[l]];n=n+1;e=_[n];break;end;else t[e[d]]=s[e[l]];n=n+1;e=_[n];end else if h>2 then repeat if 6~=h then t[e[d]]=t[e[l]];n=n+1;e=_[n];break;end;f=e[d]t[f](o(t,f+1,e[l]))until true;else f=e[d]t[f](o(t,f+1,e[l]))end end end end end else if f<=11 then if t[e[d]]then n=n+1;else n=e[l];end;else if f>9 then for h=22,96 do if 13>f then local o,u,r,h,s,f;t[e[d]]=(e[l]~=0);n=n+1;e=_[n];a[e[l]]=t[e[d]];n=n+1;e=_[n];t[e[d]]=a[e[l]];n=n+1;e=_[n];t[e[d]]={};n=n+1;e=_[n];t[e[d]]={};n=n+1;e=_[n];t[e[d]]={};n=n+1;e=_[n];f=0;while f>-1 do if f<=2 then if f<1 then o=e;else if 0<f then for e=22,89 do if 1<f then r=l;break;end;u=d;break;end;else r=l;end end else if f>=5 then if f>1 then repeat if 6~=f then t(s,h);break;end;f=-2;until true;else t(s,h);end else if f~=0 then for e=31,75 do if f>3 then s=o[u];break;end;h=o[r];break;end;else h=o[r];end end end f=f+1 end break;end;local f;t(e[d],e[l]);n=n+1;e=_[n];t(e[d],e[l]);n=n+1;e=_[n];f=e[d]t[f]=t[f](o(t,f+1,e[l]))n=n+1;e=_[n];t[e[d]]={};n=n+1;e=_[n];t[e[d]]=t[e[l]];n=n+1;e=_[n];t(e[d],e[l]);n=n+1;e=_[n];t(e[d],e[l]);break;end;else local f;t(e[d],e[l]);n=n+1;e=_[n];t(e[d],e[l]);n=n+1;e=_[n];f=e[d]t[f]=t[f](o(t,f+1,e[l]))n=n+1;e=_[n];t[e[d]]={};n=n+1;e=_[n];t[e[d]]=t[e[l]];n=n+1;e=_[n];t(e[d],e[l]);n=n+1;e=_[n];t(e[d],e[l]);end end end else if 16>f then if f~=12 then repeat if f~=15 then t[e[d]]=t[e[l]]+e[r];break;end;local f;s[e[l]]=t[e[d]];n=n+1;e=_[n];t[e[d]]=s[e[l]];n=n+1;e=_[n];t[e[d]]=s[e[l]];n=n+1;e=_[n];f=e[d]t[f](t[f+1])n=n+1;e=_[n];t[e[d]]=a[e[l]];n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];do return end;until true;else t[e[d]]=t[e[l]]+e[r];end else if f<17 then s[e[l]]=t[e[d]];else if 14<f then for h=18,76 do if 18>f then t[e[d]]=t[e[l]]-t[e[r]];break;end;local f;f=e[d];do return t[f](o(t,f+1,e[l]))end;n=n+1;e=_[n];f=e[d];do return o(t,f,u)end;n=n+1;e=_[n];do return end;break;end;else local f;f=e[d];do return t[f](o(t,f+1,e[l]))end;n=n+1;e=_[n];f=e[d];do return o(t,f,u)end;n=n+1;e=_[n];do return end;end end end end else if f>=4 then if 5<f then if f<7 then local e=e[d]local d,n=c(t[e](t[e+1]))u=n+e-1 local n=0;for e=e,u do n=n+1;t[e]=d[n];end;else if f>5 then for _=28,54 do if 8~=f then n=e[l];break;end;t[e[d]]=t[e[l]]+t[e[r]];break;end;else n=e[l];end end else if f>=1 then repeat if 4<f then local _,s,r,h,f,o;local n=0;while n>-1 do if 3>=n then if 1<n then if n~=3 then r=l;else h=t;end else if n>=-1 then repeat if 0~=n then s=d;break;end;_=e;until true;else _=e;end end else if 6>n then if 3<n then repeat if n<5 then f=h[_[r]];break;end;o=_[s];until true;else f=h[_[r]];end else if n>=5 then repeat if 7>n then t[o]=f;break;end;n=-2;until true;else t[o]=f;end end end n=n+1 end break;end;local h,k,s,j,b,p,a,u,f;for f=0,6 do if f>2 then if f<=4 then if 0<=f then repeat if 3<f then t[e[d]][t[e[l]]]=t[e[r]];n=n+1;e=_[n];break;end;h=e[d]t[h]=t[h](o(t,h+1,e[l]))n=n+1;e=_[n];until true;else t[e[d]][t[e[l]]]=t[e[r]];n=n+1;e=_[n];end else if 1~=f then for o=35,98 do if f>5 then f=0;while f>-1 do if 3>=f then if f<=1 then if f~=-2 then repeat if f~=1 then s=e;break;end;j=d;until true;else j=d;end else if 1<f then for e=10,95 do if f~=2 then p=t;break;end;b=l;break;end;else p=t;end end else if 6<=f then if 2<=f then for e=36,52 do if 7>f then t[u]=a;break;end;f=-2;break;end;else t[u]=a;end else if f>0 then for e=45,88 do if f>4 then u=s[j];break;end;a=p[s[b]];break;end;else a=p[s[b]];end end end f=f+1 end break;end;h=e[d];k=t[e[l]];t[h+1]=k;t[h]=k[e[r]];n=n+1;e=_[n];break;end;else h=e[d];k=t[e[l]];t[h+1]=k;t[h]=k[e[r]];n=n+1;e=_[n];end end else if 0>=f then h=e[d];k=t[e[l]];t[h+1]=k;t[h]=k[e[r]];n=n+1;e=_[n];else if 2==f then f=0;while f>-1 do if 4<=f then if 5<f then if f>=3 then repeat if 7~=f then t[u]=a;break;end;f=-2;until true;else t[u]=a;end else if f>0 then for e=15,90 do if 4~=f then u=s[j];break;end;a=p[s[b]];break;end;else u=s[j];end end else if f>=2 then if-1<f then for e=12,52 do if f>2 then p=t;break;end;b=l;break;end;else p=t;end else if f~=-2 then for n=27,95 do if f<1 then s=e;break;end;j=d;break;end;else s=e;end end end f=f+1 end n=n+1;e=_[n];else f=0;while f>-1 do if 4>f then if f<=1 then if f~=-3 then for n=20,87 do if 0<f then j=d;break;end;s=e;break;end;else j=d;end else if f>=0 then for e=15,52 do if 3~=f then b=l;break;end;p=t;break;end;else b=l;end end else if f>=6 then if f>2 then repeat if 7~=f then t[u]=a;break;end;f=-2;until true;else t[u]=a;end else if 1<=f then repeat if f~=4 then u=s[j];break;end;a=p[s[b]];until true;else a=p[s[b]];end end end f=f+1 end n=n+1;e=_[n];end end end end until true;else local _,s,o,h,f,r;local n=0;while n>-1 do if 3>=n then if 1<n then if n~=3 then o=l;else h=t;end else if n>=-1 then repeat if 0~=n then s=d;break;end;_=e;until true;else _=e;end end else if 6>n then if 3<n then repeat if n<5 then f=h[_[o]];break;end;r=_[s];until true;else f=h[_[o]];end else if n>=5 then repeat if 7>n then t[r]=f;break;end;n=-2;until true;else t[r]=f;end end end n=n+1 end end end else if f>=2 then if f~=1 then repeat if 2~=f then t[e[d]]=a[e[l]];break;end;t[e[d]]=t[e[l]]*e[r];until true;else t[e[d]]=t[e[l]]*e[r];end else if f>=-4 then for h=32,54 do if 0~=f then t[e[d]]=t[e[l]]%e[r];break;end;local o,a,p,j,u,f,h,r,s;for f=0,2 do if f>=1 then if-2<=f then repeat if 1<f then h=e[d];r=t[h]s=t[h+2];if(s>0)then if(r>t[h+1])then n=e[l];else t[h+3]=r;end elseif(r<t[h+1])then n=e[l];else t[h+3]=r;end break;end;f=0;while f>-1 do if 3>f then if 1>f then o=e;else if f~=-1 then repeat if 1<f then p=l;break;end;a=d;until true;else p=l;end end else if 4>=f then if f>2 then for e=21,94 do if f~=4 then j=o[p];break;end;u=o[a];break;end;else u=o[a];end else if f>=3 then repeat if f~=6 then t(u,j);break;end;f=-2;until true;else f=-2;end end end f=f+1 end n=n+1;e=_[n];until true;else h=e[d];r=t[h]s=t[h+2];if(s>0)then if(r>t[h+1])then n=e[l];else t[h+3]=r;end elseif(r<t[h+1])then n=e[l];else t[h+3]=r;end end else t[e[d]]=#t[e[l]];n=n+1;e=_[n];end end break;end;else t[e[d]]=t[e[l]]%e[r];end end end end else if f<=27 then if 22<f then if 25<=f then if f>25 then if f~=25 then repeat if 26<f then t[e[d]]=t[e[l]][e[r]];n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];t[e[d]]=t[e[l]];n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];do return end;break;end;local f,r,a,u,f,f,p,h,c,k,j,b,s;for f=0,6 do if 3<=f then if f>=5 then if 3~=f then for o=45,75 do if f<6 then f=0;while f>-1 do if f<=2 then if f<=0 then h=e;else if f>-3 then repeat if 2~=f then r=d;break;end;a=l;until true;else r=d;end end else if f>4 then if f==5 then t(s,u);else f=-2;end else if-1<=f then for e=17,76 do if f<4 then u=h[a];break;end;s=h[r];break;end;else s=h[r];end end end f=f+1 end n=n+1;e=_[n];break;end;f=0;while f>-1 do if f<3 then if 1<=f then if f>-1 then repeat if 1~=f then a=l;break;end;r=d;until true;else r=d;end else h=e;end else if f>=5 then if f~=3 then repeat if f~=5 then f=-2;break;end;t(s,u);until true;else t(s,u);end else if 4~=f then u=h[a];else s=h[r];end end end f=f+1 end break;end;else f=0;while f>-1 do if f<=2 then if f<=0 then h=e;else if f>-3 then repeat if 2~=f then r=d;break;end;a=l;until true;else r=d;end end else if f>4 then if f==5 then t(s,u);else f=-2;end else if-1<=f then for e=17,76 do if f<4 then u=h[a];break;end;s=h[r];break;end;else s=h[r];end end end f=f+1 end n=n+1;e=_[n];end else if f>=2 then repeat if f~=4 then p=e[d]t[p]=t[p](o(t,p+1,e[l]))n=n+1;e=_[n];break;end;f=0;while f>-1 do if 3>=f then if f<=1 then if f==0 then h=e;else c=d;end else if f~=-2 then for e=16,56 do if f~=3 then k=l;break;end;j=t;break;end;else j=t;end end else if 5<f then if 5<=f then repeat if f<7 then t[s]=b;break;end;f=-2;until true;else f=-2;end else if f~=2 then repeat if 5~=f then b=j[h[k]];break;end;s=h[c];until true;else b=j[h[k]];end end end f=f+1 end n=n+1;e=_[n];until true;else p=e[d]t[p]=t[p](o(t,p+1,e[l]))n=n+1;e=_[n];end end else if 1>f then f=0;while f>-1 do if f>=3 then if f<=4 then if f>1 then for e=27,85 do if 3~=f then s=h[r];break;end;u=h[a];break;end;else u=h[a];end else if 1<f then repeat if f~=6 then t(s,u);break;end;f=-2;until true;else f=-2;end end else if f>0 then if 0~=f then repeat if 2>f then r=d;break;end;a=l;until true;else r=d;end else h=e;end end f=f+1 end n=n+1;e=_[n];else if-1<=f then for o=22,91 do if 1<f then f=0;while f>-1 do if f>=3 then if f>4 then if 5==f then t(s,u);else f=-2;end else if f>1 then for e=37,90 do if f~=3 then s=h[r];break;end;u=h[a];break;end;else s=h[r];end end else if f>=1 then if f~=0 then for e=48,72 do if f~=2 then r=d;break;end;a=l;break;end;else r=d;end else h=e;end end f=f+1 end n=n+1;e=_[n];break;end;f=0;while f>-1 do if 3>f then if 1>f then h=e;else if-2<f then for e=46,72 do if f~=1 then a=l;break;end;r=d;break;end;else a=l;end end else if 4<f then if f>4 then for e=48,73 do if f>5 then f=-2;break;end;t(s,u);break;end;else f=-2;end else if f>3 then s=h[r];else u=h[a];end end end f=f+1 end n=n+1;e=_[n];break;end;else f=0;while f>-1 do if 3>f then if 1>f then h=e;else if-2<f then for e=46,72 do if f~=1 then a=l;break;end;r=d;break;end;else a=l;end end else if 4<f then if f>4 then for e=48,73 do if f>5 then f=-2;break;end;t(s,u);break;end;else f=-2;end else if f>3 then s=h[r];else u=h[a];end end end f=f+1 end n=n+1;e=_[n];end end end end until true;else local f,r,a,u,f,f,p,h,c,b,j,k,s;for f=0,6 do if 3<=f then if f>=5 then if 3~=f then for o=45,75 do if f<6 then f=0;while f>-1 do if f<=2 then if f<=0 then h=e;else if f>-3 then repeat if 2~=f then r=d;break;end;a=l;until true;else r=d;end end else if f>4 then if f==5 then t(s,u);else f=-2;end else if-1<=f then for e=17,76 do if f<4 then u=h[a];break;end;s=h[r];break;end;else s=h[r];end end end f=f+1 end n=n+1;e=_[n];break;end;f=0;while f>-1 do if f<3 then if 1<=f then if f>-1 then repeat if 1~=f then a=l;break;end;r=d;until true;else r=d;end else h=e;end else if f>=5 then if f~=3 then repeat if f~=5 then f=-2;break;end;t(s,u);until true;else t(s,u);end else if 4~=f then u=h[a];else s=h[r];end end end f=f+1 end break;end;else f=0;while f>-1 do if f<=2 then if f<=0 then h=e;else if f>-3 then repeat if 2~=f then r=d;break;end;a=l;until true;else r=d;end end else if f>4 then if f==5 then t(s,u);else f=-2;end else if-1<=f then for e=17,76 do if f<4 then u=h[a];break;end;s=h[r];break;end;else s=h[r];end end end f=f+1 end n=n+1;e=_[n];end else if f>=2 then repeat if f~=4 then p=e[d]t[p]=t[p](o(t,p+1,e[l]))n=n+1;e=_[n];break;end;f=0;while f>-1 do if 3>=f then if f<=1 then if f==0 then h=e;else c=d;end else if f~=-2 then for e=16,56 do if f~=3 then b=l;break;end;j=t;break;end;else j=t;end end else if 5<f then if 5<=f then repeat if f<7 then t[s]=k;break;end;f=-2;until true;else f=-2;end else if f~=2 then repeat if 5~=f then k=j[h[b]];break;end;s=h[c];until true;else k=j[h[b]];end end end f=f+1 end n=n+1;e=_[n];until true;else p=e[d]t[p]=t[p](o(t,p+1,e[l]))n=n+1;e=_[n];end end else if 1>f then f=0;while f>-1 do if f>=3 then if f<=4 then if f>1 then for e=27,85 do if 3~=f then s=h[r];break;end;u=h[a];break;end;else u=h[a];end else if 1<f then repeat if f~=6 then t(s,u);break;end;f=-2;until true;else f=-2;end end else if f>0 then if 0~=f then repeat if 2>f then r=d;break;end;a=l;until true;else r=d;end else h=e;end end f=f+1 end n=n+1;e=_[n];else if-1<=f then for o=22,91 do if 1<f then f=0;while f>-1 do if f>=3 then if f>4 then if 5==f then t(s,u);else f=-2;end else if f>1 then for e=37,90 do if f~=3 then s=h[r];break;end;u=h[a];break;end;else s=h[r];end end else if f>=1 then if f~=0 then for e=48,72 do if f~=2 then r=d;break;end;a=l;break;end;else r=d;end else h=e;end end f=f+1 end n=n+1;e=_[n];break;end;f=0;while f>-1 do if 3>f then if 1>f then h=e;else if-2<f then for e=46,72 do if f~=1 then a=l;break;end;r=d;break;end;else a=l;end end else if 4<f then if f>4 then for e=48,73 do if f>5 then f=-2;break;end;t(s,u);break;end;else f=-2;end else if f>3 then s=h[r];else u=h[a];end end end f=f+1 end n=n+1;e=_[n];break;end;else f=0;while f>-1 do if 3>f then if 1>f then h=e;else if-2<f then for e=46,72 do if f~=1 then a=l;break;end;r=d;break;end;else a=l;end end else if 4<f then if f>4 then for e=48,73 do if f>5 then f=-2;break;end;t(s,u);break;end;else f=-2;end else if f>3 then s=h[r];else u=h[a];end end end f=f+1 end n=n+1;e=_[n];end end end end end else for f=0,3 do if 2>f then if f==1 then t(e[d],e[l]);n=n+1;e=_[n];else t(e[d],e[l]);n=n+1;e=_[n];end else if 1<f then repeat if f<3 then t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];break;end;if not t[e[d]]then n=n+1;else n=e[l];end;until true;else t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];end end end end else if f>23 then t[e[d]]=#t[e[l]];else a[e[l]]=t[e[d]];end end else if 21>f then if f>=18 then for n=28,93 do if f~=19 then do return end;break;end;local o,s,u,_,h,a,f;local n=0;while n>-1 do if n<=2 then if 0>=n then o=d;s=l;u=r;else if n>=-1 then for t=42,64 do if 1~=n then h=_[s];break;end;_=e;break;end;else h=_[s];end end else if 5<=n then if 6==n then n=-2;else t[a]=f;end else if n~=0 then for e=27,57 do if 3~=n then f=t[h];for e=1+h,_[u]do f=f..t[e];end;break;end;a=_[o];break;end;else a=_[o];end end end n=n+1 end break;end;else do return end;end else if f<22 then local s,b,h,k,j,u,a,p,f;s=e[d];b=t[e[l]];t[s+1]=b;t[s]=b[e[r]];n=n+1;e=_[n];f=0;while f>-1 do if 4<=f then if f>5 then if 4<=f then for e=28,97 do if f<7 then t[p]=a;break;end;f=-2;break;end;else f=-2;end else if 2~=f then for e=46,88 do if f~=4 then p=h[k];break;end;a=u[h[j]];break;end;else p=h[k];end end else if 2<=f then if-2<f then for e=11,58 do if f>2 then u=t;break;end;j=l;break;end;else u=t;end else if 0<f then k=d;else h=e;end end end f=f+1 end n=n+1;e=_[n];f=0;while f>-1 do if f<4 then if f<=1 then if 1==f then k=d;else h=e;end else if 2<f then u=t;else j=l;end end else if f>5 then if 2<f then repeat if 7>f then t[p]=a;break;end;f=-2;until true;else t[p]=a;end else if 3<f then repeat if 5>f then a=u[h[j]];break;end;p=h[k];until true;else a=u[h[j]];end end end f=f+1 end n=n+1;e=_[n];s=e[d]t[s]=t[s](o(t,s+1,e[l]))n=n+1;e=_[n];t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];t[e[d]]=t[e[l]]+t[e[r]];else s[e[l]]=t[e[d]];end end end else if 32>=f then if f<30 then if 27<=f then repeat if f<29 then a[e[l]]=t[e[d]];break;end;if(t[e[d]]==e[r])then n=n+1;else n=e[l];end;until true;else if(t[e[d]]==e[r])then n=n+1;else n=e[l];end;end else if 30<f then if f~=32 then t[e[d]]=t[e[l]]%t[e[r]];else t[e[d]]=s[e[l]];end else n=e[l];end end else if f<=34 then if 30~=f then for n=38,94 do if f~=34 then local _,f,h,o,r;local n=0;while n>-1 do if 3>n then if 0>=n then _=e;else if-1<=n then repeat if n~=1 then h=l;break;end;f=d;until true;else h=l;end end else if 4>=n then if n>=-1 then for e=40,76 do if n>3 then r=_[f];break;end;o=_[h];break;end;else r=_[f];end else if n~=4 then for e=37,65 do if n~=6 then t(r,o);break;end;n=-2;break;end;else n=-2;end end end n=n+1 end break;end;t[e[d]]=t[e[l]][e[r]];break;end;else local _,r,h,o,f;local n=0;while n>-1 do if 3>n then if 0>=n then _=e;else if-1<=n then repeat if n~=1 then h=l;break;end;r=d;until true;else h=l;end end else if 4>=n then if n>=-1 then for e=40,76 do if n>3 then f=_[r];break;end;o=_[h];break;end;else f=_[r];end else if n~=4 then for e=37,65 do if n~=6 then t(f,o);break;end;n=-2;break;end;else n=-2;end end end n=n+1 end end else if 35<f then if 32<=f then repeat if 36~=f then local h;for f=0,6 do if 2>=f then if 0>=f then t(e[d],e[l]);n=n+1;e=_[n];else if-3<=f then repeat if f~=2 then t(e[d],e[l]);n=n+1;e=_[n];break;end;t(e[d],e[l]);n=n+1;e=_[n];until true;else t(e[d],e[l]);n=n+1;e=_[n];end end else if f>4 then if 1~=f then repeat if f~=5 then t(e[d],e[l]);break;end;t[e[d]]=t[e[l]];n=n+1;e=_[n];until true;else t[e[d]]=t[e[l]];n=n+1;e=_[n];end else if 1~=f then for r=33,72 do if f~=3 then h=e[d]t[h]=t[h](o(t,h+1,e[l]))n=n+1;e=_[n];break;end;t(e[d],e[l]);n=n+1;e=_[n];break;end;else t(e[d],e[l]);n=n+1;e=_[n];end end end end break;end;local d=e[d];local _=t[d]local f=t[d+2];if(f>0)then if(_>t[d+1])then n=e[l];else t[d+3]=_;end elseif(_<t[d+1])then n=e[l];else t[d+3]=_;end until true;else local h;for f=0,6 do if 2>=f then if 0>=f then t(e[d],e[l]);n=n+1;e=_[n];else if-3<=f then repeat if f~=2 then t(e[d],e[l]);n=n+1;e=_[n];break;end;t(e[d],e[l]);n=n+1;e=_[n];until true;else t(e[d],e[l]);n=n+1;e=_[n];end end else if f>4 then if 1~=f then repeat if f~=5 then t(e[d],e[l]);break;end;t[e[d]]=t[e[l]];n=n+1;e=_[n];until true;else t[e[d]]=t[e[l]];n=n+1;e=_[n];end else if 1~=f then for r=33,72 do if f~=3 then h=e[d]t[h]=t[h](o(t,h+1,e[l]))n=n+1;e=_[n];break;end;t(e[d],e[l]);n=n+1;e=_[n];break;end;else t(e[d],e[l]);n=n+1;e=_[n];end end end end end else for f=0,6 do if 3<=f then if 4>=f then if 4~=f then t(e[d],e[l]);n=n+1;e=_[n];else t(e[d],e[l]);n=n+1;e=_[n];end else if 6>f then t(e[d],e[l]);n=n+1;e=_[n];else t(e[d],e[l]);end end else if f<1 then t[e[d]]={};n=n+1;e=_[n];else if 0<=f then for h=44,83 do if f~=1 then t[e[d]]=t[e[l]];n=n+1;e=_[n];break;end;t(e[d],e[l]);n=n+1;e=_[n];break;end;else t[e[d]]=t[e[l]];n=n+1;e=_[n];end end end end end end end end end else if f>56 then if 67>f then if 61<f then if 63>=f then if f>62 then t[e[d]][e[l]]=t[e[r]];else local e=e[d]local d,n=c(t[e](t[e+1]))u=n+e-1 local n=0;for e=e,u do n=n+1;t[e]=d[n];end;end else if 65<=f then if 61<=f then repeat if f<66 then for f=0,6 do if 3>f then if f>0 then if 2>f then t[e[d]]=t[e[l]];n=n+1;e=_[n];else t(e[d],e[l]);n=n+1;e=_[n];end else t[e[d]]=t[e[l]];n=n+1;e=_[n];end else if 4>=f then if f>=1 then for h=45,95 do if f>3 then t(e[d],e[l]);n=n+1;e=_[n];break;end;t(e[d],e[l]);n=n+1;e=_[n];break;end;else t(e[d],e[l]);n=n+1;e=_[n];end else if f>4 then repeat if f~=5 then t(e[d],e[l]);break;end;t(e[d],e[l]);n=n+1;e=_[n];until true;else t(e[d],e[l]);end end end end break;end;local f;for h=0,2 do if h>=1 then if 1==h then t[e[d]]=t[e[l]]-e[r];n=n+1;e=_[n];else t[e[d]][t[e[l]]]=t[e[r]];end else f=e[d]t[f]=t[f](o(t,f+1,e[l]))n=n+1;e=_[n];end end until true;else local f;for h=0,2 do if h>=1 then if 1==h then t[e[d]]=t[e[l]]-e[r];n=n+1;e=_[n];else t[e[d]][t[e[l]]]=t[e[r]];end else f=e[d]t[f]=t[f](o(t,f+1,e[l]))n=n+1;e=_[n];end end end else local n=e[d];local d=t[n];for e=n+1,e[l]do h.ZmMdCshQ(d,t[e])end;end end else if 58<f then if f<60 then for f=0,6 do if 2>=f then if 1>f then t[e[d]]=a[e[l]];n=n+1;e=_[n];else if-3<f then repeat if f~=1 then t[e[d]]=s[e[l]];n=n+1;e=_[n];break;end;t[e[d]]=s[e[l]];n=n+1;e=_[n];until true;else t[e[d]]=s[e[l]];n=n+1;e=_[n];end end else if f>=5 then if f>2 then for h=19,93 do if f>5 then t[e[d]]={};break;end;t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];break;end;else t[e[d]]={};end else if f>-1 then for h=41,59 do if 4~=f then t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];break;end;t[e[d]]=s[e[l]];n=n+1;e=_[n];break;end;else t[e[d]]=s[e[l]];n=n+1;e=_[n];end end end end else if f>58 then for h=38,80 do if f<61 then local f;for h=0,3 do if h>1 then if 0~=h then for r=13,60 do if h~=3 then f=e[d]t[f]=t[f](o(t,f+1,e[l]))n=n+1;e=_[n];break;end;if t[e[d]]then n=n+1;else n=e[l];end;break;end;else f=e[d]t[f]=t[f](o(t,f+1,e[l]))n=n+1;e=_[n];end else if-2<h then for f=14,66 do if h~=1 then t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];break;end;t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];break;end;else t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];end end end break;end;local h,o;for f=0,6 do if f>2 then if 5<=f then if 1~=f then for h=34,53 do if 5<f then t[e[d]]=t[e[l]];break;end;t[e[d]]=t[e[l]];n=n+1;e=_[n];break;end;else t[e[d]]=t[e[l]];end else if f>=-1 then repeat if f<4 then t[e[d]]=s[e[l]];n=n+1;e=_[n];break;end;h=e[d];o=t[e[l]];t[h+1]=o;t[h]=o[e[r]];n=n+1;e=_[n];until true;else h=e[d];o=t[e[l]];t[h+1]=o;t[h]=o[e[r]];n=n+1;e=_[n];end end else if f<1 then t[e[d]]=#t[e[l]];n=n+1;e=_[n];else if f~=0 then for h=17,59 do if 2>f then t[e[d]]=t[e[l]]%t[e[r]];n=n+1;e=_[n];break;end;t[e[d]]=t[e[l]]+e[r];n=n+1;e=_[n];break;end;else t[e[d]]=t[e[l]]%t[e[r]];n=n+1;e=_[n];end end end end break;end;else local f;for h=0,3 do if h>1 then if 0~=h then for r=13,60 do if h~=3 then f=e[d]t[f]=t[f](o(t,f+1,e[l]))n=n+1;e=_[n];break;end;if t[e[d]]then n=n+1;else n=e[l];end;break;end;else f=e[d]t[f]=t[f](o(t,f+1,e[l]))n=n+1;e=_[n];end else if-2<h then for f=14,66 do if h~=1 then t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];break;end;t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];break;end;else t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];end end end end end else if f>=54 then for h=44,66 do if f>57 then t[e[d]]=t[e[l]]*e[r];break;end;local f;f=e[d]t[f]=t[f](o(t,f+1,e[l]))n=n+1;e=_[n];t[e[d]]=t[e[l]];n=n+1;e=_[n];t(e[d],e[l]);n=n+1;e=_[n];t(e[d],e[l]);n=n+1;e=_[n];t(e[d],e[l]);n=n+1;e=_[n];t(e[d],e[l]);n=n+1;e=_[n];t(e[d],e[l]);break;end;else t[e[d]]=t[e[l]]*e[r];end end end else if f<72 then if f>=69 then if f>=70 then if f>69 then repeat if f~=71 then local h;for f=0,6 do if 2>=f then if 1<=f then if f~=-2 then repeat if f>1 then t(e[d],e[l]);n=n+1;e=_[n];break;end;t(e[d],e[l]);n=n+1;e=_[n];until true;else t(e[d],e[l]);n=n+1;e=_[n];end else t(e[d],e[l]);n=n+1;e=_[n];end else if 5<=f then if f>=2 then for r=33,77 do if f<6 then h=e[d]t[h]=t[h](o(t,h+1,e[l]))n=n+1;e=_[n];break;end;t[e[d]]=t[e[l]];break;end;else t[e[d]]=t[e[l]];end else if f>1 then repeat if 3<f then t(e[d],e[l]);n=n+1;e=_[n];break;end;t(e[d],e[l]);n=n+1;e=_[n];until true;else t(e[d],e[l]);n=n+1;e=_[n];end end end end break;end;local d=e[d];local _=t[d]local f=t[d+2];if(f>0)then if(_>t[d+1])then n=e[l];else t[d+3]=_;end elseif(_<t[d+1])then n=e[l];else t[d+3]=_;end until true;else local h;for f=0,6 do if 2>=f then if 1<=f then if f~=-2 then repeat if f>1 then t(e[d],e[l]);n=n+1;e=_[n];break;end;t(e[d],e[l]);n=n+1;e=_[n];until true;else t(e[d],e[l]);n=n+1;e=_[n];end else t(e[d],e[l]);n=n+1;e=_[n];end else if 5<=f then if f>=2 then for r=33,77 do if f<6 then h=e[d]t[h]=t[h](o(t,h+1,e[l]))n=n+1;e=_[n];break;end;t[e[d]]=t[e[l]];break;end;else t[e[d]]=t[e[l]];end else if f>1 then repeat if 3<f then t(e[d],e[l]);n=n+1;e=_[n];break;end;t(e[d],e[l]);n=n+1;e=_[n];until true;else t(e[d],e[l]);n=n+1;e=_[n];end end end end end else local e=e[d];local n=t[e];for e=e+1,u do h.ZmMdCshQ(n,t[e])end;end else if 63~=f then repeat if 68>f then t[e[d]]=m(z[e[l]],nil,a);break;end;if(t[e[d]]~=e[r])then n=n+1;else n=e[l];end;until true;else if(t[e[d]]~=e[r])then n=n+1;else n=e[l];end;end end else if 74<=f then if 75>f then t[e[d]]=t[e[l]][t[e[r]]];else if 71<f then for n=37,96 do if f<76 then t[e[d]]=a[e[l]];break;end;t[e[d]][t[e[l]]]=t[e[r]];break;end;else t[e[d]][t[e[l]]]=t[e[r]];end end else if 71<=f then repeat if f~=72 then local h;for f=0,6 do if 3<=f then if f<5 then if f>2 then for o=28,91 do if 4>f then h=e[d]t[h]=t[h](t[h+1])n=n+1;e=_[n];break;end;t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];break;end;else h=e[d]t[h]=t[h](t[h+1])n=n+1;e=_[n];end else if 3<f then repeat if f<6 then t[e[d]]=#t[e[l]];n=n+1;e=_[n];break;end;if(t[e[d]]~=e[r])then n=n+1;else n=e[l];end;until true;else t[e[d]]=#t[e[l]];n=n+1;e=_[n];end end else if 1<=f then if f~=-3 then for h=31,52 do if 2~=f then t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];break;end;t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];break;end;else t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];end else t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];end end end break;end;local e=e[d]t[e]=t[e](o(t,e+1,u))until true;else local e=e[d]t[e]=t[e](o(t,e+1,u))end end end end else if f<=46 then if f<=41 then if f>=40 then if f>=39 then for h=12,73 do if 40~=f then local f;t[e[d]]=t[e[l]];n=n+1;e=_[n];f=e[d]t[f](t[f+1])n=n+1;e=_[n];t[e[d]]=a[e[l]];n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];do return end;n=n+1;e=_[n];for e=e[d],e[l]do t[e]=nil;end;break;end;for e=e[d],e[l]do t[e]=nil;end;break;end;else local f;t[e[d]]=t[e[l]];n=n+1;e=_[n];f=e[d]t[f](t[f+1])n=n+1;e=_[n];t[e[d]]=a[e[l]];n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];do return end;n=n+1;e=_[n];for e=e[d],e[l]do t[e]=nil;end;end else if f~=34 then repeat if 39>f then local n=e[d];do return t[n](o(t,n+1,e[l]))end;break;end;local n=e[d];local d=t[n];for e=n+1,e[l]do h.ZmMdCshQ(d,t[e])end;until true;else local n=e[d];do return t[n](o(t,n+1,e[l]))end;end end else if f<44 then if f>38 then repeat if f~=42 then do return t[e[d]]end break;end;if(t[e[d]]==e[r])then n=n+1;else n=e[l];end;until true;else if(t[e[d]]==e[r])then n=n+1;else n=e[l];end;end else if 45>f then if(t[e[d]]==t[e[r]])then n=n+1;else n=e[l];end;else if 46>f then local n=e[d];do return t[n](o(t,n+1,e[l]))end;else t[e[d]]=t[e[l]][t[e[r]]];end end end end else if 51>=f then if f<49 then if f==47 then t[e[d]]=t[e[l]][e[r]];else do return end;end else if 49>=f then local n=e[d]t[n](o(t,n+1,e[l]))else if 50~=f then local f;t(e[d],e[l]);n=n+1;e=_[n];f=e[d]t[f](t[f+1])n=n+1;e=_[n];t[e[d]]=a[e[l]];n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];do return end;n=n+1;e=_[n];for e=e[d],e[l]do t[e]=nil;end;else t[e[d]]=t[e[l]][e[r]];n=n+1;e=_[n];t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];t[e[d]]=t[e[l]][e[r]];n=n+1;e=_[n];t[e[d]]=t[e[l]][t[e[r]]];n=n+1;e=_[n];t[e[d]]=(e[l]~=0);n=n+1;e=_[n];t[e[d]]=s[e[l]];n=n+1;e=_[n];t[e[d]]=t[e[l]][e[r]];end end end else if f>53 then if 55>f then t[e[d]]=t[e[l]]-e[r];else if f~=54 then for n=27,85 do if 56>f then local _,h,f,o,s,r;local n=0;while n>-1 do if n>=4 then if 5>=n then if 0<n then for e=12,62 do if 5~=n then s=o[_[f]];break;end;r=_[h];break;end;else r=_[h];end else if n~=7 then t[r]=s;else n=-2;end end else if n<2 then if n<1 then _=e;else h=d;end else if n>0 then repeat if 2<n then o=t;break;end;f=l;until true;else f=l;end end end n=n+1 end break;end;t[e[d]]=t[e[l]]-e[r];break;end;else local _,f,h,s,o,r;local n=0;while n>-1 do if n>=4 then if 5>=n then if 0<n then for e=12,62 do if 5~=n then o=s[_[h]];break;end;r=_[f];break;end;else r=_[f];end else if n~=7 then t[r]=o;else n=-2;end end else if n<2 then if n<1 then _=e;else f=d;end else if n>0 then repeat if 2<n then s=t;break;end;h=l;until true;else h=l;end end end n=n+1 end end end else if 51~=f then for h=29,80 do if 52~=f then t[e[d]]={};break;end;local h,s,p,u,a,o,f;t[e[d]]=t[e[l]][e[r]];n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];f=0;while f>-1 do if f>=4 then if f>=6 then if f>4 then for e=16,68 do if f~=7 then t[o]=a;break;end;f=-2;break;end;else t[o]=a;end else if f>2 then for e=40,61 do if 4~=f then o=h[s];break;end;a=u[h[p]];break;end;else o=h[s];end end else if 1>=f then if-3<f then for n=40,82 do if f~=1 then h=e;break;end;s=d;break;end;else h=e;end else if f>2 then u=t;else p=l;end end end f=f+1 end n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];do return end;break;end;else local h,a,u,p,s,o,f;t[e[d]]=t[e[l]][e[r]];n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];f=0;while f>-1 do if f>=4 then if f>=6 then if f>4 then for e=16,68 do if f~=7 then t[o]=s;break;end;f=-2;break;end;else t[o]=s;end else if f>2 then for e=40,61 do if 4~=f then o=h[a];break;end;s=p[h[u]];break;end;else o=h[a];end end else if 1>=f then if-3<f then for n=40,82 do if f~=1 then h=e;break;end;a=d;break;end;else h=e;end else if f>2 then p=t;else u=l;end end end f=f+1 end n=n+1;e=_[n];t[e[d]]();n=n+1;e=_[n];do return end;end end end end end end end n=1+n;end;end;return le end;local l=0xff;local s={};local f=(1);local d='';(function(n)local t=n local _=0x00 local e=0x00 t={(function(f)if _>0x28 then return f end _=_+1 e=(e+0xd36-f)%0x27 return(e%0x03==0x0 and(function(t)if not n[t]then e=e+0x01 n[t]=(0xed);end return true end)'KnAZL'and t[0x1](0x3a8+f))or(e%0x03==0x2 and(function(t)if not n[t]then e=e+0x01 n[t]=(0xc6);d='\37';l={function()l()end};d=d..'\100\43';end return true end)'yvQKT'and t[0x3](f+0x32a))or(e%0x03==0x1 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x4e);end return true end)'IQeIF'and t[0x2](f+0x399))or f end),(function(h)if _>0x31 then return h end _=_+1 e=(e+0x43d-h)%0x38 return(e%0x03==0x2 and(function(t)if not n[t]then e=e+0x01 n[t]=(0xd9);end return true end)'UuKKR'and t[0x3](0x2c5+h))or(e%0x03==0x1 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x80);s[f]=le();f=f+l;end return true end)'KGkLl'and t[0x1](h+0x383))or(e%0x03==0x0 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x2b);l[2]=(l[2]*(ne(function()s()end,o(d))-ne(l[1],o(d))))+1;s[f]={};l=l[2];f=f+l;end return true end)'gDXwb'and t[0x2](h+0x2d7))or h end),(function(r)if _>0x26 then return r end _=_+1 e=(e+0x107c-r)%0x18 return(e%0x03==0x2 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x7c);end return true end)'tCOcV'and t[0x1](0xf4+r))or(e%0x03==0x0 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x1f);d={d..'\58 a',d};s[f]=ee();f=f+((not h.kVKMxlzA)and 1 or 0);d[1]='\58'..d[1];l[2]=0xff;end return true end)'DRMCI'and t[0x2](r+0x15d))or(e%0x03==0x1 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x7d);end return true end)'wDxel'and t[0x3](r+0x360))or r end)}t[0x1](0xb8d)end){};local e=m(o(s));return e(...);end return te((function()local n={}local e=0x01;local t;if h.kVKMxlzA then t=h.kVKMxlzA(te)else t=''end if h._HrnlVKT(t,h.sgDcQjwK)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(n,e,t,d,l,_)local _;if n>=4 then if n<6 then if n~=5 then local n=d;local d,l,_=l(2);do return function()local e,t,f,h=e(t,n(n,n),n(n,n)+3);n(4);return(h*d)+(f*l)+(t*_)+e;end;end;else local n=d;do return function()local e=e(t,n(n,n),n(n,n));n(1);return e;end;end;end else if n>6 then if 6<=n then repeat if 7~=n then do return t(n,nil,t);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,t,l,d,n)if n then return e[n]elseif d then return e else e[t]=l end end})end until true;else do return setmetatable({},{['__\99\97\108\108']=function(e,l,t,d,n)if n then return e[n]elseif d then return e else e[l]=t end end})end end else do return l[t]end;end end else if 2<=n then if 1~=n then repeat if n~=3 then do return 16777216,65536,256 end;break;end;do return e(1),e(4,l,d,t,e),e(5,l,d,t)end;until true;else do return e(1),e(4,l,d,t,e),e(5,l,d,t)end;end else if 1~=n then do return e(1),e(4,l,d,t,e),e(5,l,d,t)end;else do return function(n,e,t)if t then local e=(n/2^(e-1))%2^((t-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;end end end end),...)
+--[[
+ .____                  ________ ___.    _____                           __                
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+         \/          \/         \/    \/                \/     \/     \/                   
+          \_Welcome to LuaObfuscator.com   (Alpha 0.10.8) ~  Much Love, Ferib 
+
+]]--
+
+local StrToNumber = tonumber;
+local Byte = string.byte;
+local Char = string.char;
+local Sub = string.sub;
+local Subg = string.gsub;
+local Rep = string.rep;
+local Concat = table.concat;
+local Insert = table.insert;
+local LDExp = math.ldexp;
+local GetFEnv = getfenv or function()
+	return _ENV;
+end;
+local Setmetatable = setmetatable;
+local PCall = pcall;
+local Select = select;
+local Unpack = unpack or table.unpack;
+local ToNumber = tonumber;
+local function VMCall(ByteString, vmenv, ...)
+	local DIP = 1;
+	local repeatNext;
+	ByteString = Subg(Sub(ByteString, 5), "..", function(byte)
+		if (Byte(byte, 2) == 81) then
+			repeatNext = StrToNumber(Sub(byte, 1, 1));
+			return "";
+		else
+			local a = Char(StrToNumber(byte, 16));
+			if repeatNext then
+				local b = Rep(a, repeatNext);
+				repeatNext = nil;
+				return b;
+			else
+				return a;
+			end
+		end
+	end);
+	local function gBit(Bit, Start, End)
+		if End then
+			local Res = (Bit / (2 ^ (Start - 1))) % (2 ^ (((End - 1) - (Start - 1)) + 1));
+			return Res - (Res % 1);
+		else
+			local Plc = 2 ^ (Start - 1);
+			return (((Bit % (Plc + Plc)) >= Plc) and 1) or 0;
+		end
+	end
+	local function gBits8()
+		local a = Byte(ByteString, DIP, DIP);
+		DIP = DIP + 1;
+		return a;
+	end
+	local function gBits16()
+		local a, b = Byte(ByteString, DIP, DIP + 2);
+		DIP = DIP + 2;
+		return (b * 256) + a;
+	end
+	local function gBits32()
+		local a, b, c, d = Byte(ByteString, DIP, DIP + 3);
+		DIP = DIP + 4;
+		return (d * 16777216) + (c * 65536) + (b * 256) + a;
+	end
+	local function gFloat()
+		local Left = gBits32();
+		local Right = gBits32();
+		local IsNormal = 1;
+		local Mantissa = (gBit(Right, 1, 20) * (2 ^ 32)) + Left;
+		local Exponent = gBit(Right, 21, 31);
+		local Sign = ((gBit(Right, 32) == 1) and -1) or 1;
+		if (Exponent == 0) then
+			if (Mantissa == 0) then
+				return Sign * 0;
+			else
+				Exponent = 1;
+				IsNormal = 0;
+			end
+		elseif (Exponent == 2047) then
+			return ((Mantissa == 0) and (Sign * (1 / 0))) or (Sign * NaN);
+		end
+		return LDExp(Sign, Exponent - 1023) * (IsNormal + (Mantissa / (2 ^ 52)));
+	end
+	local function gString(Len)
+		local Str;
+		if not Len then
+			Len = gBits32();
+			if (Len == 0) then
+				return "";
+			end
+		end
+		Str = Sub(ByteString, DIP, (DIP + Len) - 1);
+		DIP = DIP + Len;
+		local FStr = {};
+		for Idx = 1, #Str do
+			FStr[Idx] = Char(Byte(Sub(Str, Idx, Idx)));
+		end
+		return Concat(FStr);
+	end
+	local gInt = gBits32;
+	local function _R(...)
+		return {...}, Select("#", ...);
+	end
+	local function Deserialize()
+		local Instrs = {};
+		local Functions = {};
+		local Lines = {};
+		local Chunk = {Instrs,Functions,nil,Lines};
+		local ConstCount = gBits32();
+		local Consts = {};
+		for Idx = 1, ConstCount do
+			local Type = gBits8();
+			local Cons;
+			if (Type == 1) then
+				Cons = gBits8() ~= 0;
+			elseif (Type == 2) then
+				Cons = gFloat();
+			elseif (Type == 3) then
+				Cons = gString();
+			end
+			Consts[Idx] = Cons;
+		end
+		Chunk[3] = gBits8();
+		for Idx = 1, gBits32() do
+			local Descriptor = gBits8();
+			if (gBit(Descriptor, 1, 1) == 0) then
+				local Type = gBit(Descriptor, 2, 3);
+				local Mask = gBit(Descriptor, 4, 6);
+				local Inst = {gBits16(),gBits16(),nil,nil};
+				if (Type == 0) then
+					Inst[3] = gBits16();
+					Inst[4] = gBits16();
+				elseif (Type == 1) then
+					Inst[3] = gBits32();
+				elseif (Type == 2) then
+					Inst[3] = gBits32() - (2 ^ 16);
+				elseif (Type == 3) then
+					Inst[3] = gBits32() - (2 ^ 16);
+					Inst[4] = gBits16();
+				end
+				if (gBit(Mask, 1, 1) == 1) then
+					Inst[2] = Consts[Inst[2]];
+				end
+				if (gBit(Mask, 2, 2) == 1) then
+					Inst[3] = Consts[Inst[3]];
+				end
+				if (gBit(Mask, 3, 3) == 1) then
+					Inst[4] = Consts[Inst[4]];
+				end
+				Instrs[Idx] = Inst;
+			end
+		end
+		for Idx = 1, gBits32() do
+			Functions[Idx - 1] = Deserialize();
+		end
+		return Chunk;
+	end
+	local function Wrap(Chunk, Upvalues, Env)
+		local Instr = Chunk[1];
+		local Proto = Chunk[2];
+		local Params = Chunk[3];
+		return function(...)
+			local Instr = Instr;
+			local Proto = Proto;
+			local Params = Params;
+			local _R = _R;
+			local VIP = 1;
+			local Top = -1;
+			local Vararg = {};
+			local Args = {...};
+			local PCount = Select("#", ...) - 1;
+			local Lupvals = {};
+			local Stk = {};
+			for Idx = 0, PCount do
+				if (Idx >= Params) then
+					Vararg[Idx - Params] = Args[Idx + 1];
+				else
+					Stk[Idx] = Args[Idx + 1];
+				end
+			end
+			local Varargsz = (PCount - Params) + 1;
+			local Inst;
+			local Enum;
+			while true do
+				Inst = Instr[VIP];
+				Enum = Inst[1];
+				if (Enum <= 25) then
+					if (Enum <= 12) then
+						if (Enum <= 5) then
+							if (Enum <= 2) then
+								if (Enum <= 0) then
+									Stk[Inst[2]][Inst[3]] = Inst[4];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]] = Env[Inst[3]];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]] = Env[Inst[3]];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]] = Inst[3];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]] = Env[Inst[3]];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+								elseif (Enum > 1) then
+									local B;
+									local A;
+									Stk[Inst[2]][Inst[3]] = Stk[Inst[4]];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									A = Inst[2];
+									Stk[A] = Stk[A](Unpack(Stk, A + 1, Inst[3]));
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									A = Inst[2];
+									B = Stk[Inst[3]];
+									Stk[A + 1] = B;
+									Stk[A] = B[Inst[4]];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]] = {};
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]][Inst[3]] = Inst[4];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]][Inst[3]] = Inst[4];
+								else
+									local A;
+									Stk[Inst[2]][Inst[3]] = Inst[4];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]][Inst[3]] = Stk[Inst[4]];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]][Inst[3]] = Stk[Inst[4]];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									A = Inst[2];
+									Stk[A](Stk[A + 1]);
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]] = Inst[3];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]] = Stk[Inst[3]];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									A = Inst[2];
+									Stk[A] = Stk[A](Stk[A + 1]);
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]] = Env[Inst[3]];
+									VIP = VIP + 1;
+									Inst = Instr[VIP];
+									Stk[Inst[2]] = Env[Inst[3]];
+								end
+							elseif (Enum <= 3) then
+								local A;
+								Stk[Inst[2]]();
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = Env[Inst[3]];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = Inst[3];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								A = Inst[2];
+								Stk[A](Stk[A + 1]);
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								VIP = Inst[3];
+							elseif (Enum > 4) then
+								local A = Inst[2];
+								Stk[A](Stk[A + 1]);
+							else
+								local A;
+								Stk[Inst[2]] = Stk[Inst[3]];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								A = Inst[2];
+								Stk[A] = Stk[A](Unpack(Stk, A + 1, Inst[3]));
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]][Inst[3]] = Inst[4];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = Env[Inst[3]];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = Inst[3];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = Inst[3];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = Inst[3];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								A = Inst[2];
+								Stk[A] = Stk[A](Unpack(Stk, A + 1, Inst[3]));
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]][Inst[3]] = Stk[Inst[4]];
+							end
+						elseif (Enum <= 8) then
+							if (Enum <= 6) then
+								Stk[Inst[2]] = Upvalues[Inst[3]];
+							elseif (Enum == 7) then
+								local A = Inst[2];
+								local B = Stk[Inst[3]];
+								Stk[A + 1] = B;
+								Stk[A] = B[Inst[4]];
+							else
+								local Edx;
+								local Results, Limit;
+								local B;
+								local A;
+								Stk[Inst[2]] = Inst[3];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								A = Inst[2];
+								Stk[A](Stk[A + 1]);
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = Upvalues[Inst[3]];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								A = Inst[2];
+								B = Stk[Inst[3]];
+								Stk[A + 1] = B;
+								Stk[A] = B[Inst[4]];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = {};
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]][Inst[3]] = Inst[4];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]][Inst[3]] = Inst[4];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]][Inst[3]] = Inst[4];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								A = Inst[2];
+								Stk[A](Unpack(Stk, A + 1, Inst[3]));
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = Env[Inst[3]];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = Env[Inst[3]];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								A = Inst[2];
+								B = Stk[Inst[3]];
+								Stk[A + 1] = B;
+								Stk[A] = B[Inst[4]];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = Inst[3];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								A = Inst[2];
+								Results, Limit = _R(Stk[A](Unpack(Stk, A + 1, Inst[3])));
+								Top = (Limit + A) - 1;
+								Edx = 0;
+								for Idx = A, Top do
+									Edx = Edx + 1;
+									Stk[Idx] = Results[Edx];
+								end
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								A = Inst[2];
+								Stk[A] = Stk[A](Unpack(Stk, A + 1, Top));
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]]();
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								VIP = Inst[3];
+							end
+						elseif (Enum <= 10) then
+							if (Enum > 9) then
+								Stk[Inst[2]] = Env[Inst[3]];
+							else
+								local Edx;
+								local Results, Limit;
+								local A;
+								Stk[Inst[2]] = Inst[3];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								A = Inst[2];
+								Results, Limit = _R(Stk[A](Unpack(Stk, A + 1, Inst[3])));
+								Top = (Limit + A) - 1;
+								Edx = 0;
+								for Idx = A, Top do
+									Edx = Edx + 1;
+									Stk[Idx] = Results[Edx];
+								end
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								A = Inst[2];
+								Stk[A] = Stk[A](Unpack(Stk, A + 1, Top));
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								A = Inst[2];
+								Stk[A] = Stk[A]();
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = Env[Inst[3]];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								if Stk[Inst[2]] then
+									VIP = VIP + 1;
+								else
+									VIP = Inst[3];
+								end
+							end
+						elseif (Enum == 11) then
+							local A = Inst[2];
+							Stk[A] = Stk[A](Unpack(Stk, A + 1, Top));
+						else
+							local Edx;
+							local Results, Limit;
+							local B;
+							local A;
+							Stk[Inst[2]] = Env[Inst[3]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							B = Stk[Inst[3]];
+							Stk[A + 1] = B;
+							Stk[A] = B[Inst[4]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Inst[3];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							Results, Limit = _R(Stk[A](Unpack(Stk, A + 1, Inst[3])));
+							Top = (Limit + A) - 1;
+							Edx = 0;
+							for Idx = A, Top do
+								Edx = Edx + 1;
+								Stk[Idx] = Results[Edx];
+							end
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							Stk[A] = Stk[A](Unpack(Stk, A + 1, Top));
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							Stk[A] = Stk[A]();
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Inst[3];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Inst[3];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = {};
+						end
+					elseif (Enum <= 18) then
+						if (Enum <= 15) then
+							if (Enum <= 13) then
+								if (Stk[Inst[2]] == Inst[4]) then
+									VIP = VIP + 1;
+								else
+									VIP = Inst[3];
+								end
+							elseif (Enum > 14) then
+								Env[Inst[3]] = Stk[Inst[2]];
+							else
+								local Edx;
+								local Results, Limit;
+								local B;
+								local A;
+								Stk[Inst[2]] = {};
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]][Inst[3]] = Inst[4];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]][Inst[3]] = Inst[4];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]][Inst[3]] = Inst[4];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								A = Inst[2];
+								Stk[A](Stk[A + 1]);
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = Env[Inst[3]];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = Env[Inst[3]];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								A = Inst[2];
+								B = Stk[Inst[3]];
+								Stk[A + 1] = B;
+								Stk[A] = B[Inst[4]];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = Inst[3];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								A = Inst[2];
+								Results, Limit = _R(Stk[A](Unpack(Stk, A + 1, Inst[3])));
+								Top = (Limit + A) - 1;
+								Edx = 0;
+								for Idx = A, Top do
+									Edx = Edx + 1;
+									Stk[Idx] = Results[Edx];
+								end
+							end
+						elseif (Enum <= 16) then
+							local B;
+							local A;
+							Stk[Inst[2]][Inst[3]] = Stk[Inst[4]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							Stk[A] = Stk[A](Unpack(Stk, A + 1, Inst[3]));
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							B = Stk[Inst[3]];
+							Stk[A + 1] = B;
+							Stk[A] = B[Inst[4]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Inst[3];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							Stk[A](Unpack(Stk, A + 1, Inst[3]));
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Env[Inst[3]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							B = Stk[Inst[3]];
+							Stk[A + 1] = B;
+							Stk[A] = B[Inst[4]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Inst[3];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							Stk[A] = Stk[A](Unpack(Stk, A + 1, Inst[3]));
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							B = Stk[Inst[3]];
+							Stk[A + 1] = B;
+							Stk[A] = B[Inst[4]];
+						elseif (Enum == 17) then
+							local A = Inst[2];
+							Stk[A] = Stk[A]();
+						else
+							do
+								return;
+							end
+						end
+					elseif (Enum <= 21) then
+						if (Enum <= 19) then
+							Stk[Inst[2]]();
+						elseif (Enum > 20) then
+							Stk[Inst[2]] = Inst[3] ~= 0;
+						else
+							Stk[Inst[2]][Inst[3]] = Stk[Inst[4]];
+						end
+					elseif (Enum <= 23) then
+						if (Enum > 22) then
+							local A = Inst[2];
+							local Results, Limit = _R(Stk[A](Unpack(Stk, A + 1, Inst[3])));
+							Top = (Limit + A) - 1;
+							local Edx = 0;
+							for Idx = A, Top do
+								Edx = Edx + 1;
+								Stk[Idx] = Results[Edx];
+							end
+						else
+							local B;
+							local A;
+							Stk[Inst[2]][Inst[3]] = Stk[Inst[4]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							Stk[A] = Stk[A](Unpack(Stk, A + 1, Inst[3]));
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							B = Stk[Inst[3]];
+							Stk[A + 1] = B;
+							Stk[A] = B[Inst[4]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = {};
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]][Inst[3]] = Inst[4];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]][Inst[3]] = Inst[4];
+						end
+					elseif (Enum == 24) then
+						local NewProto = Proto[Inst[3]];
+						local NewUvals;
+						local Indexes = {};
+						NewUvals = Setmetatable({}, {__index=function(_, Key)
+							local Val = Indexes[Key];
+							return Val[1][Val[2]];
+						end,__newindex=function(_, Key, Value)
+							local Val = Indexes[Key];
+							Val[1][Val[2]] = Value;
+						end});
+						for Idx = 1, Inst[4] do
+							VIP = VIP + 1;
+							local Mvm = Instr[VIP];
+							if (Mvm[1] == 31) then
+								Indexes[Idx - 1] = {Stk,Mvm[3]};
+							else
+								Indexes[Idx - 1] = {Upvalues,Mvm[3]};
+							end
+							Lupvals[#Lupvals + 1] = Indexes;
+						end
+						Stk[Inst[2]] = Wrap(NewProto, NewUvals, Env);
+					elseif Stk[Inst[2]] then
+						VIP = VIP + 1;
+					else
+						VIP = Inst[3];
+					end
+				elseif (Enum <= 38) then
+					if (Enum <= 31) then
+						if (Enum <= 28) then
+							if (Enum <= 26) then
+								VIP = Inst[3];
+							elseif (Enum == 27) then
+								if (Stk[Inst[2]] == Stk[Inst[4]]) then
+									VIP = VIP + 1;
+								else
+									VIP = Inst[3];
+								end
+							else
+								local B;
+								local A;
+								Stk[Inst[2]] = Env[Inst[3]];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = Inst[3];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								A = Inst[2];
+								Stk[A](Stk[A + 1]);
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = Upvalues[Inst[3]];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								A = Inst[2];
+								B = Stk[Inst[3]];
+								Stk[A + 1] = B;
+								Stk[A] = B[Inst[4]];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]] = {};
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]][Inst[3]] = Inst[4];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]][Inst[3]] = Inst[4];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								Stk[Inst[2]][Inst[3]] = Inst[4];
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								A = Inst[2];
+								Stk[A](Unpack(Stk, A + 1, Inst[3]));
+								VIP = VIP + 1;
+								Inst = Instr[VIP];
+								do
+									return;
+								end
+							end
+						elseif (Enum <= 29) then
+							local A;
+							Stk[Inst[2]] = {};
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]][Inst[3]] = Inst[4];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]][Inst[3]] = Inst[4];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]][Inst[3]] = Inst[4];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							Stk[A](Stk[A + 1]);
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Env[Inst[3]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							if Stk[Inst[2]] then
+								VIP = VIP + 1;
+							else
+								VIP = Inst[3];
+							end
+						elseif (Enum > 30) then
+							Stk[Inst[2]] = Stk[Inst[3]];
+						else
+							local A;
+							Stk[Inst[2]] = {};
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]][Inst[3]] = Inst[4];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]][Inst[3]] = Inst[4];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]][Inst[3]] = Inst[4];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							Stk[A](Stk[A + 1]);
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Env[Inst[3]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Inst[3];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							Stk[A](Stk[A + 1]);
+						end
+					elseif (Enum <= 34) then
+						if (Enum <= 32) then
+							Stk[Inst[2]] = Inst[3];
+						elseif (Enum > 33) then
+							local Edx;
+							local Results, Limit;
+							local B;
+							local A;
+							Stk[Inst[2]] = Env[Inst[3]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							B = Stk[Inst[3]];
+							Stk[A + 1] = B;
+							Stk[A] = B[Inst[4]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Inst[3];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							Results, Limit = _R(Stk[A](Unpack(Stk, A + 1, Inst[3])));
+							Top = (Limit + A) - 1;
+							Edx = 0;
+							for Idx = A, Top do
+								Edx = Edx + 1;
+								Stk[Idx] = Results[Edx];
+							end
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							Stk[A] = Stk[A](Unpack(Stk, A + 1, Top));
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							Stk[A] = Stk[A]();
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							B = Stk[Inst[3]];
+							Stk[A + 1] = B;
+							Stk[A] = B[Inst[4]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = {};
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]][Inst[3]] = Inst[4];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]][Inst[3]] = Inst[4];
+						else
+							local A = Inst[2];
+							Stk[A] = Stk[A](Stk[A + 1]);
+						end
+					elseif (Enum <= 36) then
+						if (Enum == 35) then
+							if not Stk[Inst[2]] then
+								VIP = VIP + 1;
+							else
+								VIP = Inst[3];
+							end
+						else
+							local A;
+							Stk[Inst[2]] = Env[Inst[3]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Inst[3];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Inst[3];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							Stk[A] = Stk[A](Unpack(Stk, A + 1, Inst[3]));
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]][Inst[3]] = Stk[Inst[4]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]][Inst[3]] = Inst[4];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]][Inst[3]] = Inst[4];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Env[Inst[3]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+						end
+					elseif (Enum > 37) then
+						Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+					else
+						local A = Inst[2];
+						Stk[A](Unpack(Stk, A + 1, Inst[3]));
+					end
+				elseif (Enum <= 44) then
+					if (Enum <= 41) then
+						if (Enum <= 39) then
+							local Edx;
+							local Results, Limit;
+							local B;
+							local A;
+							Stk[Inst[2]] = Inst[3];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							Stk[A](Stk[A + 1]);
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Upvalues[Inst[3]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							B = Stk[Inst[3]];
+							Stk[A + 1] = B;
+							Stk[A] = B[Inst[4]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = {};
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]][Inst[3]] = Inst[4];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]][Inst[3]] = Inst[4];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]][Inst[3]] = Inst[4];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							Stk[A](Unpack(Stk, A + 1, Inst[3]));
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Env[Inst[3]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Env[Inst[3]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							B = Stk[Inst[3]];
+							Stk[A + 1] = B;
+							Stk[A] = B[Inst[4]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Inst[3];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							Results, Limit = _R(Stk[A](Unpack(Stk, A + 1, Inst[3])));
+							Top = (Limit + A) - 1;
+							Edx = 0;
+							for Idx = A, Top do
+								Edx = Edx + 1;
+								Stk[Idx] = Results[Edx];
+							end
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							Stk[A] = Stk[A](Unpack(Stk, A + 1, Top));
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]]();
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							VIP = Inst[3];
+						elseif (Enum > 40) then
+							local A;
+							Stk[Inst[2]]();
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Env[Inst[3]];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							Stk[Inst[2]] = Inst[3];
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							A = Inst[2];
+							Stk[A](Stk[A + 1]);
+							VIP = VIP + 1;
+							Inst = Instr[VIP];
+							VIP = Inst[3];
+						else
+							Stk[Inst[2]] = {};
+						end
+					elseif (Enum <= 42) then
+						local A = Inst[2];
+						local Cls = {};
+						for Idx = 1, #Lupvals do
+							local List = Lupvals[Idx];
+							for Idz = 0, #List do
+								local Upv = List[Idz];
+								local NStk = Upv[1];
+								local DIP = Upv[2];
+								if ((NStk == Stk) and (DIP >= A)) then
+									Cls[DIP] = NStk[DIP];
+									Upv[1] = Cls;
+								end
+							end
+						end
+					elseif (Enum == 43) then
+						local B;
+						local A;
+						Stk[Inst[2]][Inst[3]] = Stk[Inst[4]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						A = Inst[2];
+						Stk[A] = Stk[A](Unpack(Stk, A + 1, Inst[3]));
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = {};
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						A = Inst[2];
+						B = Stk[Inst[3]];
+						Stk[A + 1] = B;
+						Stk[A] = B[Inst[4]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = {};
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]][Inst[3]] = Inst[4];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]][Inst[3]] = Inst[4];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						A = Inst[2];
+						Stk[A] = Stk[A](Unpack(Stk, A + 1, Inst[3]));
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]][Inst[3]] = Stk[Inst[4]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+					else
+						local Edx;
+						local Results, Limit;
+						local B;
+						local A;
+						Stk[Inst[2]] = {};
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]][Inst[3]] = Inst[4];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]][Inst[3]] = Inst[4];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]][Inst[3]] = Inst[4];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						A = Inst[2];
+						Stk[A](Stk[A + 1]);
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Env[Inst[3]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Env[Inst[3]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						A = Inst[2];
+						B = Stk[Inst[3]];
+						Stk[A + 1] = B;
+						Stk[A] = B[Inst[4]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Inst[3];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						A = Inst[2];
+						Results, Limit = _R(Stk[A](Unpack(Stk, A + 1, Inst[3])));
+						Top = (Limit + A) - 1;
+						Edx = 0;
+						for Idx = A, Top do
+							Edx = Edx + 1;
+							Stk[Idx] = Results[Edx];
+						end
+					end
+				elseif (Enum <= 47) then
+					if (Enum <= 45) then
+						local Edx;
+						local Results, Limit;
+						local B;
+						local A;
+						Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Inst[3];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Env[Inst[3]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						A = Inst[2];
+						B = Stk[Inst[3]];
+						Stk[A + 1] = B;
+						Stk[A] = B[Inst[4]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Inst[3];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						A = Inst[2];
+						Results, Limit = _R(Stk[A](Unpack(Stk, A + 1, Inst[3])));
+						Top = (Limit + A) - 1;
+						Edx = 0;
+						for Idx = A, Top do
+							Edx = Edx + 1;
+							Stk[Idx] = Results[Edx];
+						end
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						A = Inst[2];
+						Stk[A] = Stk[A](Unpack(Stk, A + 1, Top));
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]][Inst[3]] = Inst[4];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Env[Inst[3]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+					elseif (Enum == 46) then
+						local A;
+						Stk[Inst[2]] = Upvalues[Inst[3]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Upvalues[Inst[3]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						A = Inst[2];
+						Stk[A] = Stk[A](Stk[A + 1]);
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Upvalues[Inst[3]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						if (Stk[Inst[2]] == Stk[Inst[4]]) then
+							VIP = VIP + 1;
+						else
+							VIP = Inst[3];
+						end
+					else
+						local A;
+						Stk[Inst[2]] = Upvalues[Inst[3]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Upvalues[Inst[3]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						A = Inst[2];
+						Stk[A] = Stk[A](Stk[A + 1]);
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Upvalues[Inst[3]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						if (Stk[Inst[2]] == Stk[Inst[4]]) then
+							VIP = VIP + 1;
+						else
+							VIP = Inst[3];
+						end
+					end
+				elseif (Enum <= 49) then
+					if (Enum == 48) then
+						if (Stk[Inst[2]] ~= Inst[4]) then
+							VIP = VIP + 1;
+						else
+							VIP = Inst[3];
+						end
+					else
+						local B;
+						local A;
+						Stk[Inst[2]] = {};
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]][Inst[3]] = Inst[4];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]][Inst[3]] = Inst[4];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						A = Inst[2];
+						Stk[A](Unpack(Stk, A + 1, Inst[3]));
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = Stk[Inst[3]][Inst[4]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						A = Inst[2];
+						B = Stk[Inst[3]];
+						Stk[A + 1] = B;
+						Stk[A] = B[Inst[4]];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]] = {};
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]][Inst[3]] = Inst[4];
+						VIP = VIP + 1;
+						Inst = Instr[VIP];
+						Stk[Inst[2]][Inst[3]] = Inst[4];
+					end
+				elseif (Enum > 50) then
+					local A = Inst[2];
+					Stk[A] = Stk[A](Unpack(Stk, A + 1, Inst[3]));
+				else
+					Stk[Inst[2]][Inst[3]] = Inst[4];
+				end
+				VIP = VIP + 1;
+			end
+		end;
+	end
+	return Wrap(Deserialize(), {}, vmenv)(...);
+end
+return VMCall("LOL!6B3Q0003043Q0067616D6503073Q00506C6163654964022Q002031C52A0F4203063Q00666973636877022Q0028BC13770342028000E29AD9F0D142022Q00982F71820E4202807E93279F45D142022Q0068650A4E0B42022Q00D85F8B761042022Q0048728B761042022Q0028BC71820E4202C0AD6DE79D23DB4203043Q002Q6A6977030A3Q006C6F6164737472696E6703073Q00482Q7470476574032E3Q00682Q7470733A2Q2F63646E2E6B6579677561726469616E2E6F72672F6C6962726172792F76312E302E302E6C756103203Q00643834303763653837343366343166303835623562356539343833653432623903203Q003Q37362Q6538343337393034373866393866323834353133306366633766622Q033Q00536574030B3Q007075626C6963546F6B656E03203Q0032376661313730343063653334666261393430653331393062302Q3863646535030C3Q0070726976617465546F6B656E03203Q00396239303932646366316431343964326137343363382Q65353830652Q64316403083Q00747275654461746103093Q0066616C73654461746103073Q006B65796C652Q7303123Q0076616C696461746544656661756C744B6579034E3Q00682Q7470733A2Q2F7261772E67697468756275736572636F6E74656E742E636F6D2F4B696E6C65692F44796E692Q73696D6F2F6D61696E2F536372697074732F416B616C694E6F7469662E6C756103063Q004E6F7469667903493Q00682Q7470733A2Q2F6769746875622E636F6D2F64617769642D736372697074732F466C75656E742F72656C65617365732F6C61746573742F646F776E6C6F61642F6D61696E2E6C7561030C3Q0043726561746557696E646F7703053Q005469746C6503093Q00536B752Q6C2048756203083Q005375625469746C65030D3Q0062792068756E677175616E2Q3903083Q005461625769647468026Q00644003043Q0053697A6503053Q005544696D32030A3Q0066726F6D4F2Q66736574025Q00208240025Q0040754003073Q00416372796C6963010003053Q005468656D6503063Q004461726B6572030B3Q004D696E696D697A654B657903043Q00456E756D03073Q004B6579436F6465030B3Q004C656674436F6E74726F6C03063Q004B657953797303063Q00412Q64546162030F3Q00536372697074204C61756E6368657203043Q0049636F6E2Q033Q006B6579030C3Q00412Q64506172616772617068030F3Q0047616D65732053752Q706F7274656403073Q00436F6E74656E7403293Q0046697363682C20416E696D6520416476656E74757265732C204A756A7574737520496E66696E69746503093Q00412Q6442752Q746F6E030E3Q00446973636F726420536572766572030B3Q004465736372697074696F6E03383Q00436F707920646973636F726420696E76697465206C696E6B2C206A6F696E20746F2067657420746865206C6174657374207570646174657303083Q0043612Q6C6261636B03173Q004C61756E63682053637269707420312028466973636829032B3Q004C61756E636820746865207363726970742031206279207072652Q73696E6720746869732062752Q746F6E03173Q004C61756E63682053637269707420322028466973636829032B3Q004C61756E636820746865207363726970742032206279207072652Q73696E6720746869732062752Q746F6E03093Q0053656C656374546162026Q00F03F030A3Q004765745365727669636503093Q00576F726B7370616365030E3Q0046696E6446697273744368696C6403163Q00536B752Q6C2048756220466973636820466F6C64657203083Q00496E7374616E63652Q033Q006E657703063Q00466F6C64657203043Q004E616D6503043Q005061727403053Q004A6573757303073Q00566563746F7233025Q00407F40026Q00E03F03083Q00416E63686F7265642Q01030C3Q005472616E73706172656E637903083Q00506F736974696F6E03093Q0063686172616374657203103Q0048756D616E6F6964522Q6F745061727403063Q00434672616D6503013Q0058025Q00A05F4003013Q005A03393Q0053752Q706F727465642047616D653A2046697363682C20416E696D6520416476656E74757265732C204A756A7574737520496E66696E69746503083Q004475726174696F6E026Q00244003223Q004C6F6164696E67204A756A7574737520496E66696E697465207363726970743Q2E026Q00144003383Q00682Q7470733A2Q2F7261772E67697468756275736572636F6E74656E742E636F6D2F69646B73752Q732F68612Q6C662F6D61696E2F3Q7603043Q007761726E03343Q00536B752Q6C20487562207C204C61756E6368696E6720746865204A756A7574737520496E66696E697465207363726970743Q2E03223Q004C6F6164696E6720416E696D6520416476656E7475726573207363726970743Q2E03383Q00682Q7470733A2Q2F7261772E67697468756275736572636F6E74656E742E636F6D2F69646B73752Q732F6E692Q67612F6D61696E2F6C6F6C03343Q00536B752Q6C20487562207C204C61756E6368696E672074686520416E696D6520416476656E7475726573207363726970743Q2E03153Q00536F6D657468696E672077656E742077726F6E672103213Q00536B752Q6C20487562207C20736F6D657468696E672077656E742077726F6E672100FC3Q00120A3Q00013Q0020265Q000200260D3Q00070001000300041A3Q000700012Q00153Q00013Q00120F3Q00043Q00041A3Q002D000100120A3Q00013Q0020265Q00020026303Q002B0001000500041A3Q002B000100120A3Q00013Q0020265Q00020026303Q002B0001000600041A3Q002B000100120A3Q00013Q0020265Q00020026303Q002B0001000700041A3Q002B000100120A3Q00013Q0020265Q00020026303Q002B0001000800041A3Q002B000100120A3Q00013Q0020265Q00020026303Q002B0001000900041A3Q002B000100120A3Q00013Q0020265Q00020026303Q002B0001000A00041A3Q002B000100120A3Q00013Q0020265Q00020026303Q002B0001000B00041A3Q002B000100120A3Q00013Q0020265Q00020026303Q002B0001000C00041A3Q002B000100120A3Q00013Q0020265Q000200260D3Q002D0001000D00041A3Q002D00012Q00153Q00013Q00120F3Q000E3Q00120A3Q000F3Q00120C000100013Q00202Q00010001001000122Q000300116Q000100039Q0000026Q0001000200122Q000100123Q00122Q000200133Q00202Q00033Q00144Q00043Q000400303200040015001600300100040017001800102Q00040019000100102Q0004001A00024Q00030002000100122Q0003001B3Q00202Q00043Q001C4Q000500036Q00040002000200122Q0005000F3Q00122Q000600013Q0020070006000600100012090008001D6Q000600086Q00053Q00024Q00050001000200202Q00060005001E00122Q000700043Q00062Q000700C500013Q00041A3Q00C5000100120A0007000F3Q001222000800013Q00202Q00080008001000122Q000A001F6Q0008000A6Q00073Q00024Q00070001000200202Q0008000700204Q000A3Q000700302Q000A0021002200302Q000A00230024003032000A00250026001224000B00283Q00202Q000B000B002900122Q000C002A3Q00122Q000D002B6Q000B000D000200102Q000A0027000B00302Q000A002C002D00302Q000A002E002F00122Q000B00313Q00202Q000B000B0032002026000B000B003300102B000A0030000B4Q0008000A00024Q00093Q000100202Q000A000800354Q000C3Q000200302Q000C0021003600302Q000C003700384Q000A000C000200102Q00090034000A00202Q000A00090034002007000A000A00392Q0031000C3Q000200302Q000C0021003A00302Q000C003B003C4Q000A000C000100202Q000A0009003400202Q000A000A003D4Q000C3Q000300302Q000C0021003E00302Q000C003F0040000618000D3Q000100012Q001F3Q00073Q001002000C0041000D4Q000A000C000200202Q000B0009003400202Q000B000B003D4Q000D3Q000300302Q000D0021004200302Q000D003F0043000618000E0001000100042Q001F8Q001F3Q00034Q001F3Q00014Q001F3Q00073Q001002000D0041000E4Q000B000D000200202Q000C0009003400202Q000C000C003D4Q000E3Q000300302Q000E0021004400302Q000E003F0045000618000F0002000100042Q001F8Q001F3Q00034Q001F3Q00014Q001F3Q00073Q002Q10000E0041000F4Q000C000E000200202Q000D0008004600122Q000F00476Q000D000F000100122Q000D00013Q00202Q000D000D004800122Q000F00496Q000D000F000200202Q000E000D004A0012200010004B4Q0033000E00100002000623000E00C40001000100041A3Q00C4000100120A000E004C3Q00202D000E000E004D00122Q000F004E3Q00122Q001000013Q00202Q00100010004800122Q001200496Q001000126Q000E3Q000200302Q000E004F004B00122Q000F004C3Q00202Q000F000F004D001220001000504Q00040011000E6Q000F0011000200302Q000F004F005100122Q001000523Q00202Q00100010004D00122Q001100533Q00122Q001200543Q00122Q001300536Q00100013000200102Q000F00270010003032000F0055005600302Q000F0057004700122Q001000523Q00202Q00100010004D00122Q001100593Q00202Q00110011005A00202Q00110011005B00202Q00110011005C00122Q0012005D3Q00122Q001300593Q00202Q00130013005A00202600130013005B00202600130013005E2Q0033001000130002001014000F005800102Q002A00075Q00061B000400F20001000100041A3Q00F200012Q001F000700064Q001D00083Q000300302Q00080021002200302Q0008003F005F00302Q0008006000614Q00070002000100122Q0007000E3Q00062Q000700E100013Q00041A3Q00E100012Q001F000700064Q002C00083Q000300302Q00080021002200302Q0008003F006200302Q0008006000634Q00070002000100122Q0007000F3Q00122Q000800013Q00202Q00080008001000122Q000A00646Q0008000A4Q000B00073Q00022Q002900070001000100122Q000700653Q00122Q000800666Q00070002000100044Q00FB00012Q001F000700064Q002C00083Q000300302Q00080021002200302Q0008003F006700302Q0008006000634Q00070002000100122Q0007000F3Q00122Q000800013Q00202Q00080008001000122Q000A00686Q0008000A4Q000B00073Q00022Q002900070001000100122Q000700653Q00122Q000800696Q00070002000100044Q00FB00012Q001F000700064Q001E00083Q000300302Q00080021002200302Q0008003F006A00302Q0008006000634Q00070002000100122Q000700653Q00122Q0008006B6Q0007000200012Q00123Q00013Q00033Q00093Q00030C3Q00736574636C6970626F617264031D3Q00682Q7470733A2Q2F646973636F72642E2Q672F72445735554479594A4403063Q004E6F7469667903053Q005469746C6503093Q00536B752Q6C2048756203073Q00436F6E74656E74031B3Q00436F7069656420646973636F726420696E76697465206C696E6B2103083Q004475726174696F6E026Q001440000B3Q00121C3Q00013Q00122Q000100028Q000200019Q0000206Q00034Q00023Q000300302Q00020004000500302Q00020006000700302Q0002000800096Q000200016Q00017Q000F3Q0003123Q0076616C696461746544656661756C744B657903043Q007761726E03253Q00536B752Q6C20487562207C204C61756E6368696E67207468652073637269707420313Q2E03063Q004E6F7469667903053Q005469746C6503093Q00536B752Q6C2048756203073Q00436F6E74656E74032D3Q005363726970742031206973206C61756E6368696E672C20796F752063616E20636C6F736520746869732055492103083Q004475726174696F6E026Q001440030A3Q006C6F6164737472696E6703043Q0067616D6503073Q00482Q747047657403373Q00682Q7470733A2Q2F7261772E67697468756275736572636F6E74656E742E636F6D2F69646B73752Q732F6C6F6C6F6C2F6D61696E2F2Q66031F3Q00536B752Q6C20487562207C2053637269707420312072756E206661696C6564001D4Q002E7Q00206Q00014Q000100018Q000200024Q000100023Q00064Q00190001000100041A3Q0019000100120A000100023Q001208000200036Q0001000200014Q000100033Q00202Q0001000100044Q00033Q000300302Q00030005000600302Q00030007000800302Q00030009000A4Q00010003000100122Q0001000B3Q00122Q0002000C3Q00202Q00020002000D00122Q0004000E6Q000200046Q00013Q00024Q00010001000100044Q001C000100120A000100023Q0012200002000F4Q00050001000200012Q00123Q00017Q000F3Q0003123Q0076616C696461746544656661756C744B657903043Q007761726E03253Q00536B752Q6C20487562207C204C61756E6368696E67207468652073637269707420323Q2E03063Q004E6F7469667903053Q005469746C6503093Q00536B752Q6C2048756203073Q00436F6E74656E74032D3Q005363726970742032206973206C61756E6368696E672C20796F752063616E20636C6F736520746869732055492103083Q004475726174696F6E026Q001440030A3Q006C6F6164737472696E6703043Q0067616D6503073Q00482Q7470476574033C3Q00682Q7470733A2Q2F7261772E67697468756275736572636F6E74656E742E636F6D2F69646B73752Q732F62616E74756D6C756D2F6D61696E2F3Q63031F3Q00536B752Q6C20487562207C2053637269707420322072756E206661696C6564001D4Q002E7Q00206Q00014Q000100018Q000200024Q000100023Q00064Q00190001000100041A3Q0019000100120A000100023Q001208000200036Q0001000200014Q000100033Q00202Q0001000100044Q00033Q000300302Q00030005000600302Q00030007000800302Q00030009000A4Q00010003000100122Q0001000B3Q00122Q0002000C3Q00202Q00020002000D00122Q0004000E6Q000200046Q00013Q00024Q00010001000100044Q001C000100120A000100023Q0012200002000F4Q00050001000200012Q00123Q00017Q00", GetFEnv(), ...);
