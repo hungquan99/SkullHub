@@ -12,7 +12,7 @@
 ]]
 
 (loadstring or load)(request({
-    Url = "https://hungquan99.pythonanywhere.com/script2",
+    Url = "https://hungquan99.xyz/SkullHub",
     Method = "GET",
     Headers = {
         ["IsExploit"] = "true"
