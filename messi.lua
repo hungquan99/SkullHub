@@ -42,8 +42,7 @@ local Themes = {
 		"Cloud",
 		"Grape",
 		"Bloody",
-		"Arctic",
-		"Glass"  -- New theme added
+		"Arctic"
 	},
 	Dark = {
 		Name = "Dark",
@@ -748,45 +747,8 @@ local Themes = {
 		SubText = Color3.fromRGB(180, 200, 220),
 		Hover = Color3.fromRGB(90, 140, 180),
 		HoverChange = 0.04
-	},
-	Glass = { -- New theme added
-		Name = "Glass",
-		Accent = Color3.fromRGB(0, 0, 0),
-		AcrylicMain = Color3.fromRGB(255, 255, 255),
-		AcrylicBorder = Color3.fromRGB(255, 255, 255),
-		AcrylicGradient = ColorSequence.new(Color3.fromRGB(255, 255, 255), Color3.fromRGB(255, 255, 255)),
-		AcrylicNoise = 0.5,
-		TitleBarLine = Color3.fromRGB(255, 255, 255),
-		Tab = Color3.fromRGB(255, 255, 255),
-		Element = Color3.fromRGB(255, 255, 255),
-		ElementBorder = Color3.fromRGB(255, 255, 255),
-		InElementBorder = Color3.fromRGB(255, 255, 255),
-		ElementTransparency = 0.1,
-		ToggleSlider = Color3.fromRGB(255, 255, 255),
-		ToggleToggled = Color3.fromRGB(255, 255, 255),
-		SliderRail = Color3.fromRGB(255, 255, 255),
-		DropdownFrame = Color3.fromRGB(255, 255, 255),
-		DropdownHolder = Color3.fromRGB(255, 255, 255),
-		DropdownBorder = Color3.fromRGB(255, 255, 255),
-		DropdownOption = Color3.fromRGB(255, 255, 255),
-		Keybind = Color3.fromRGB(255, 255, 255),
-		Input = Color3.fromRGB(255, 255, 255),
-		InputFocused = Color3.fromRGB(255, 255, 255),
-		InputIndicator = Color3.fromRGB(255, 255, 255),
-		InputIndicatorFocus = Color3.fromRGB(255, 255, 255),
-		Dialog = Color3.fromRGB(255, 255, 255),
-		DialogHolder = Color3.fromRGB(255, 255, 255),
-		DialogHolderLine = Color3.fromRGB(255, 255, 255),
-		DialogButton = Color3.fromRGB(255, 255, 255),
-		DialogButtonBorder = Color3.fromRGB(255, 255, 255),
-		DialogBorder = Color3.fromRGB(255, 255, 255),
-		DialogInput = Color3.fromRGB(255, 255, 255),
-		DialogInputLine = Color3.fromRGB(255, 255, 255),
-		Text = Color3.fromRGB(0, 0, 0),
-		SubText = Color3.fromRGB(0, 0, 0),
-		Hover = Color3.fromRGB(255, 255, 255),
-		HoverChange = 0.01
 	}
+
 }
 
 local Library = {
@@ -809,8 +771,6 @@ local Library = {
 	Transparency = true,
 	MinimizeKeybind = nil,
 	MinimizeKey = Enum.KeyCode.LeftControl,
-	SettingLoaded = false,
-	NotificationTransparency = 1
 }
 
 local function isMotor(value)
@@ -3468,6 +3428,251 @@ Components.Window = (function()
 			Window.AcrylicPaint.AddParent(Window.Root)
 		end
 
+		local SizeMotor = Flipper.GroupMotor.new({
+			X = Window.Size.X.Offset,
+			Y = Window.Size.Y.Offset,
+		})
+
+		local PosMotor = Flipper.GroupMotor.new({
+			X = Window.Position.X.Offset,
+			Y = Window.Position.Y.Offset,
+		})
+
+		_G.CDDrag = 0
+		Window.SelectorPosMotor = Flipper.SingleMotor.new(17)
+		Window.SelectorSizeMotor = Flipper.SingleMotor.new(0)
+		Window.ContainerBackMotor = Flipper.SingleMotor.new(0)
+		Window.ContainerPosMotor = Flipper.SingleMotor.new(94)
+
+		SizeMotor:onStep(function(values)
+			task.wait(_G.CDDrag / 10)
+			Window.Root.Size = UDim2.new(0, values.X, 0, values.Y)
+		end)
+
+		PosMotor:onStep(function(values)
+			task.wait(_G.CDDrag / 10)
+			Window.Root.Position = UDim2.new(0, values.X, 0, values.Y)
+		end)
+
+		local LastValue = 0
+		local LastTime = 0
+		Window.SelectorPosMotor:onStep(function(Value)
+			local base = Window.TabHolderTop or 45
+			local verticalInset = 16
+			Selector.Position = UDim2.new(0, 0, 0, base + Value + verticalInset)
+			local Now = tick()
+			local DeltaTime = Now - LastTime
+
+			if LastValue ~= nil then
+				Window.SelectorSizeMotor:setGoal(Spring((math.abs(Value - LastValue) / (DeltaTime * 60)) + 16))
+				LastValue = Value
+			end
+			LastTime = Now
+		end)
+
+		Window.SelectorSizeMotor:onStep(function(Value)
+			Selector.Size = UDim2.new(0, 4, 0, Value)
+		end)
+
+		Window.ContainerBackMotor:onStep(function(Value)
+			Window.ContainerAnim.GroupTransparency = Value
+		end)
+
+		Window.ContainerPosMotor:onStep(function(Value)
+			Window.ContainerAnim.Position = UDim2.fromOffset(0, Value)
+		end)
+
+		local OldSizeX
+		local OldSizeY
+		Window.Maximize = function(Value, NoPos, Instant)
+			Window.Maximized = Value
+			Window.TitleBar.MaxButton.Frame.Icon.Image = Value and Components.Assets.Restore or Components.Assets.Max
+
+			if Value then
+				OldSizeX = Window.Size.X.Offset
+				OldSizeY = Window.Size.Y.Offset
+			end
+			local SizeX = Value and Camera.ViewportSize.X or OldSizeX
+			local SizeY = Value and Camera.ViewportSize.Y or OldSizeY
+			SizeMotor:setGoal({
+				X = Flipper[Instant and "Instant" or "Spring"].new(SizeX, { frequency = 6 }),
+				Y = Flipper[Instant and "Instant" or "Spring"].new(SizeY, { frequency = 6 }),
+			})
+			Window.Size = UDim2.fromOffset(SizeX, SizeY)
+
+			if not NoPos then
+				PosMotor:setGoal({
+					X = Spring(Value and 0 or Window.Position.X.Offset, { frequency = 6 }),
+					Y = Spring(Value and 0 or Window.Position.Y.Offset, { frequency = 6 }),
+				})
+			end
+		end
+
+		Creator.AddSignal(Window.TitleBar.Frame.InputBegan, function(Input)
+			if
+				Input.UserInputType == Enum.UserInputType.MouseButton1
+				or Input.UserInputType == Enum.UserInputType.Touch
+			then
+				Dragging = true
+				MousePos = Input.Position
+				StartPos = Window.Root.Position
+
+				if Window.Maximized then
+					StartPos = UDim2.fromOffset(
+						Mouse.X - (Mouse.X * ((OldSizeX - 100) / Window.Root.AbsoluteSize.X)),
+						Mouse.Y - (Mouse.Y * (OldSizeY / Window.Root.AbsoluteSize.Y))
+					)
+				end
+
+				Input.Changed:Connect(function()
+					if Input.UserInputState == Enum.UserInputState.End then
+						Dragging = false
+					end
+				end)
+			end
+		end)
+
+		Creator.AddSignal(Window.TitleBar.Frame.InputChanged, function(Input)
+			if
+				Input.UserInputType == Enum.UserInputType.MouseMovement
+				or Input.UserInputType == Enum.UserInputType.Touch
+			then
+				DragInput = Input
+			end
+		end)
+
+		Creator.AddSignal(ResizeStartFrame.InputBegan, function(Input)
+			if
+				Input.UserInputType == Enum.UserInputType.MouseButton1
+				or Input.UserInputType == Enum.UserInputType.Touch
+			then
+				Resizing = true
+				ResizePos = Input.Position
+			end
+		end)
+
+		Creator.AddSignal(UserInputService.InputChanged, function(Input)
+			if Input == DragInput and Dragging then
+				local Delta = Input.Position - MousePos
+				Window.Position = UDim2.fromOffset(StartPos.X.Offset + Delta.X, StartPos.Y.Offset + Delta.Y)
+				PosMotor:setGoal({
+					X = Instant(Window.Position.X.Offset),
+					Y = Instant(Window.Position.Y.Offset),
+				})
+
+				if Window.Maximized then
+					Window.Maximize(false, true, true)
+				end
+			end
+
+			if
+				(Input.UserInputType == Enum.UserInputType.MouseMovement or Input.UserInputType == Enum.UserInputType.Touch)
+				and Resizing
+			then
+				local Delta = Input.Position - ResizePos
+				local StartSize = Window.Size
+
+				local TargetSize = Vector3.new(StartSize.X.Offset, StartSize.Y.Offset, 0) + Vector3.new(1, 1, 0) * Delta
+				local TargetSizeClamped =
+					Vector2.new(math.clamp(TargetSize.X, 470, 2048), math.clamp(TargetSize.Y, 380, 2048))
+
+				SizeMotor:setGoal({
+					X = Flipper.Instant.new(TargetSizeClamped.X),
+					Y = Flipper.Instant.new(TargetSizeClamped.Y),
+				})
+			end
+		end)
+
+		Creator.AddSignal(UserInputService.InputEnded, function(Input)
+			if Resizing == true or Input.UserInputType == Enum.UserInputType.Touch then
+				Resizing = false
+				Window.Size = UDim2.fromOffset(SizeMotor:getValue().X, SizeMotor:getValue().Y)
+			end
+		end)
+
+		Creator.AddSignal(Window.TabHolder.UIListLayout:GetPropertyChangedSignal("AbsoluteContentSize"), function()
+			Window.TabHolder.CanvasSize = UDim2.new(0, 0, 0, Window.TabHolder.UIListLayout.AbsoluteContentSize.Y)
+		end)
+
+		Creator.AddSignal(UserInputService.InputBegan, function(Input)
+			if
+				type(Library.MinimizeKeybind) == "table"
+				and Library.MinimizeKeybind.Type == "Keybind"
+				and not UserInputService:GetFocusedTextBox()
+			then
+				if Input.KeyCode.Name == Library.MinimizeKeybind.Value then
+					Window:Minimize()
+				end
+			elseif Input.KeyCode == Library.MinimizeKey and not UserInputService:GetFocusedTextBox() then
+				Window:Minimize()
+			end
+		end)
+
+		function Window:Minimize()
+			Window.Minimized = not Window.Minimized
+			Window.Root.Visible = not Window.Minimized
+
+			for _, Option in next, Library.Options do
+				if Option and Option.Type == "Dropdown" and Option.Opened then
+					pcall(function()
+						Option:Close()
+					end)
+				end
+			end
+			if not MinimizeNotif then
+				MinimizeNotif = true
+				local Key = Library.MinimizeKeybind and Library.MinimizeKeybind.Value or Library.MinimizeKey.Name
+				if not Mobile then Library:Notify({
+					Title = "Interface",
+					Content = "Press " .. Key .. " to toggle the interface.",
+					Duration = 6
+					})
+				else 
+					Library:Notify({
+						Title = "Interface",
+						Content = "Tap to the button to toggle the interface.",
+						Duration = 6
+					})
+				end
+			end
+
+			function Window:ToggleSearch()
+				Window.ShowSearch = not Window.ShowSearch
+				SearchFrame.Visible = Window.ShowSearch
+				TabFrame.Size = UDim2.new(0, Window.TabWidth, 1, Window.ShowSearch and -66 or -31)
+				TabFrame.Position = UDim2.new(0, 12, 0, Window.ShowSearch and 54 or 19)
+			end
+
+			if not RunService:IsStudio() and Library.Minimizer then
+				pcall(function()
+					if Mobile then
+						local mobileButton = Library.Minimizer:FindFirstChild("TextButton")
+						if mobileButton then
+							local imageLabel = mobileButton:FindFirstChild("ImageLabel")
+							if imageLabel then
+								imageLabel.Image = Window.Minimized and "rbxassetid://10734896384" or "rbxassetid://10734897102"
+							end
+						end
+					else
+						local desktopButton = Library.Minimizer:FindFirstChild("TextButton")
+						if desktopButton then
+							local imageLabel = desktopButton:FindFirstChild("ImageLabel")
+							if imageLabel then
+								imageLabel.Image = Window.Minimized and "rbxassetid://10734896384" or "rbxassetid://10734897102"
+							end
+						end
+					end
+				end)
+			end
+		end
+
+		function Window:Destroy()
+			if Library.UseAcrylic then
+				Window.AcrylicPaint.Model:Destroy()
+			end
+			Window.Root:Destroy()
+		end
+
 		local DialogModule = Components.Dialog:Init(Window)
 		function Window:Dialog(Config)
 			local Dialog = DialogModule:Create()
@@ -5469,7 +5674,6 @@ NotificationModule:Init(GUI)
 
 local New = Creator.New
 
--- automatically parsed from lucide.dev, added 89 icons. https://discord.gg/Puhp2hjCSs && 
 local Icons = {
 	["lucide-accessibility"] = "rbxassetid://10709751939",
 	["lucide-activity"] = "rbxassetid://10709752035",
@@ -5719,6 +5923,36 @@ local Icons = {
 	["lucide-container"] = "rbxassetid://17466205552",
 	["lucide-database"] = "rbxassetid://10709818996",
 	["lucide-delete"] = "rbxassetid://10709819059",
+	["lucide-diamond"] = "rbxassetid://10709819149",
+	["lucide-dice-1"] = "rbxassetid://10709819266",
+	["lucide-dice-2"] = "rbxassetid://10709819361",
+	["lucide-dice-3"] = "rbxassetid://10709819508",
+	["lucide-dice-4"] = "rbxassetid://10709819670",
+	["lucide-dice-5"] = "rbxassetid://10709819801",
+	["lucide-dice-6"] = "rbxassetid://10709819896",
+	["lucide-dices"] = "rbxassetid://10723343321",
+	["lucide-diff"] = "rbxassetid://10723343416",
+	["lucide-disc"] = "rbxassetid://10723343537",
+	["lucide-divide"] = "rbxassetid://10723343805",
+	["lucide-divide-circle"] = "rbxassetid://10723343636",
+	["lucide-divide-square"] = "rbxassetid://10723343737",
+	["lucide-dollar-sign"] = "rbxassetid://10723343958",
+	["lucide-download"] = "rbxassetid://10723344270",
+	["lucide-download-cloud"] = "rbxassetid://10723344088",
+	["lucide-door-open"] = "rbxassetid://124179241653522",
+	["lucide-droplet"] = "rbxassetid://10723344432",
+	["lucide-droplets"] = "rbxassetid://10734883356",
+	["lucide-drumstick"] = "rbxassetid://10723344737",
+	["lucide-edit"] = "rbxassetid://10734883598",
+	["lucide-edit-2"] = "rbxassetid://10723344885",
+	["lucide-edit-3"] = "rbxassetid://10723345088",
+	["lucide-egg"] = "rbxassetid://10723345518",
+	["lucide-egg-fried"] = "rbxassetid://10723345347",
+	["lucide-electricity"] = "rbxassetid://10723345749",
+	["lucide-electricity-off"] = "rbxassetid://10723345643",
+	["lucide-equal"] = "rbxassetid://10723345990",
+	["lucide-equal-not"] = "rbxassetid://10723345866",
+	["lucide-eraser"] = "rbxassetid://10723346158",
 	["lucide-diamond"] = "rbxassetid://10709819149",
 	["lucide-dice-1"] = "rbxassetid://10709819266",
 	["lucide-dice-2"] = "rbxassetid://10709819361",
@@ -6298,98 +6532,8 @@ local Icons = {
 	["lucide-cat"] = "rbxassetid://16935650691",
 	["lucide-message-circle-question"] = "rbxassetid://16970049192",
 	["lucide-webhook"] = "rbxassetid://17320556264",
-	["lucide-dumbbell"] = "rbxassetid://18273453053",
-	["lucide-a-arrow-down"] = "rbxassetid://131355695669854",
-	["lucide-a-arrow-left"] = "rbxassetid://102008521237896",
-	["lucide-a-arrow-right"] = "rbxassetid://98075674538519",
-	["lucide-a-arrow-up"] = "rbxassetid://129310432150752",
-	["lucide-ambulance"] = "rbxassetid://102982614261364",
-	["lucide-ampersand"] = "rbxassetid://135016000757606",
-	["lucide-ampersands"] = "rbxassetid://114692355330858",
-	["lucide-antenna"] = "rbxassetid://79774650906056",
-	["lucide-app-window"] = "rbxassetid://85654911450764",
-	["lucide-app-window-mac"] = "rbxassetid://87784289484637",
-	["lucide-archive-x"] = "rbxassetid://129232215038811",
-	["lucide-area-chart"] = "rbxassetid://136676435113534",
-	["lucide-arrow-down-0-1"] = "rbxassetid://121292142940765",
-	["lucide-arrow-down-1-0"] = "rbxassetid://77813956297392",
-	["lucide-arrow-down-a-z"] = "rbxassetid://129542345252395",
-	["lucide-arrow-down-from-line"] = "rbxassetid://86395496495250",
-	["lucide-arrow-down-narrow-wide"] = "rbxassetid://124879040703816",
-	["lucide-arrow-down-to-dot"] = "rbxassetid://119038669456584",
-	["lucide-arrow-down-to-line"] = "rbxassetid://96805791188646",
-	["lucide-arrow-down-up"] = "rbxassetid://110786508931766",
-	["lucide-arrow-down-wide-narrow"] = "rbxassetid://91038292553521",
-	["lucide-arrow-down-z-a"] = "rbxassetid://72554694535575",
-	["lucide-arrow-left-from-line"] = "rbxassetid://96066977185207",
-	["lucide-arrow-left-to-line"] = "rbxassetid://94751293147468",
-	["lucide-arrow-right-from-line"] = "rbxassetid://100022611146440",
-	["lucide-arrow-right-left"] = "rbxassetid://76320897795733",
-	["lucide-arrow-right-to-line"] = "rbxassetid://115288243637029",
-	["lucide-arrow-up-0-1"] = "rbxassetid://110870516435826",
-	["lucide-arrow-up-1-0"] = "rbxassetid://89149174107178",
-	["lucide-arrow-up-a-z"] = "rbxassetid://84450597162987",
-	["lucide-arrow-up-from-dot"] = "rbxassetid://71414411687035",
-	["lucide-arrow-up-from-line"] = "rbxassetid://90182112708248",
-	["lucide-arrow-up-narrow-wide"] = "rbxassetid://122085723836782",
-	["lucide-arrow-up-to-line"] = "rbxassetid://135294702314034",
-	["lucide-arrow-up-wide-narrow"] = "rbxassetid://115106772870077",
-	["lucide-arrow-up-z-a"] = "rbxassetid://89092890481295",
-	["lucide-atom"] = "rbxassetid://108124658322396",
-	["lucide-audio-lines"] = "rbxassetid://70761406273136",
-	["lucide-audio-waveform"] = "rbxassetid://103053561451957",
-	["lucide-bookmark-x"] = "rbxassetid://110785582034474",
-	["lucide-contact-2"] = "rbxassetid://138425036340339",
-	["lucide-copy-plus"] = "rbxassetid://83170638232456",
-	["lucide-creates"] = "rbxassetid://93759140100585",
-	["lucide-credit-card"] = "rbxassetid://122458943955997",
-	["lucide-default"] = "rbxassetid://74859026970268",
-	["lucide-dna"] = "rbxassetid://120144231182957",
-	["lucide-dna-off"] = "rbxassetid://83801729063138",
-	["lucide-dog"] = "rbxassetid://108965196956571",
-	["lucide-ear"] = "rbxassetid://122537182650584",
-	["lucide-eye-dropper"] = "rbxassetid://104794806183086",
-	["lucide-facebook"] = "rbxassetid://86394407228017",
-	["lucide-favorite"] = "rbxassetid://71587331836644",
-	["lucide-file-music"] = "rbxassetid://80982588074342",
-	["lucide-github"] = "rbxassetid://96996851870134",
-	["lucide-gitlab"] = "rbxassetid://78581833751465",
-	["lucide-hotel"] = "rbxassetid://73319824598176",
-	["lucide-ice-cream-2"] = "rbxassetid://109826591940777",
-	["lucide-icons-and-aliases"] = "rbxassetid://88106027185238",
-	["lucide-instagram"] = "rbxassetid://75845870545707",
-	["lucide-linkedin"] = "rbxassetid://103669270600294",
-	["lucide-lock-keyhole"] = "rbxassetid://138353185872128",
-	["lucide-martini"] = "rbxassetid://121738805538204",
-	["lucide-messages-square"] = "rbxassetid://137591171649179",
-	["lucide-milk"] = "rbxassetid://92506135817735",
-	["lucide-milk-off"] = "rbxassetid://117039997771760",
-	["lucide-paste"] = "rbxassetid://91172114729501",
-	["lucide-pilcrow"] = "rbxassetid://137926627803386",
-	["lucide-pilcrow-square"] = "rbxassetid://72109005991397",
-	["lucide-plug"] = "rbxassetid://100548265939151",
-	["lucide-plug-2"] = "rbxassetid://106335336464296",
-	["lucide-pocket"] = "rbxassetid://137108282824070",
-	["lucide-qr-code"] = "rbxassetid://99485598636657",
-	["lucide-question"] = "rbxassetid://71920097357922",
-	["lucide-radio-tower"] = "rbxassetid://109836885232796",
-	["lucide-rat"] = "rbxassetid://130787922504747",
-	["lucide-receipt"] = "rbxassetid://80213056679257",
-	["lucide-refresh"] = "rbxassetid://127286471455682",
-	["lucide-reload"] = "rbxassetid://112873379005566",
-	["lucide-remove-formatting"] = "rbxassetid://89163002626436",
-	["lucide-replace"] = "rbxassetid://83832274955462",
-	["lucide-replace-all"] = "rbxassetid://138705738236138",
-	["lucide-salad"] = "rbxassetid://127853613798455",
-	["lucide-sandwich"] = "rbxassetid://111037609402407",
-	["lucide-search-large"] = "rbxassetid://91870678451979",
-	["lucide-search-slash"] = "rbxassetid://131920120432916",
-	["lucide-soup"] = "rbxassetid://71367972911114",
-	["lucide-spline"] = "rbxassetid://101706857671829",
-	["lucide-split"] = "rbxassetid://94282375851350",
-	["lucide-split-square-horizontal"] = "rbxassetid://86002864284442",
+	["lucide-dumbbell"] = "rbxassetid://18273453053"
 }
-
 function Library:GetIcon(Name)
 	if Name ~= nil and Icons["lucide-" .. Name] then
 		return Icons["lucide-" .. Name]
@@ -6488,16 +6632,6 @@ local SaveManager = {} do
 			Load = function(idx, data)
 				if SaveManager.Options[idx] and type(data.text) == "string" then
 					SaveManager.Options[idx]:SetValue(data.text)
-				end
-			end,
-		},
-		ProgressBar = {
-			Save = function(idx, object)
-				return { type = "ProgressBar", idx = idx, value = object.Value }
-			end,
-			Load = function(idx, data)
-				if SaveManager.Options[idx] then 
-					SaveManager.Options[idx]:SetValue(data.value)
 				end
 			end,
 		},
@@ -6755,7 +6889,7 @@ local SaveManager = {} do
 	end
 
 	if not RunService:IsStudio() then
-		SaveManager:LoadAutoloadConfig()
+		SaveManager:BuildFolderTree()
 	end
 end
 
