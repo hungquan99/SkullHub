@@ -1,3 +1,16 @@
+
+--[[
+
+       _____ _          _ _   _    _       _     
+      / ____| |        | | | | |  | |     | |    
+     | (___ | | ___   _| | | | |__| |_   _| |__  
+      \___ \| |/ / | | | | | |  __  | | | | '_ \ 
+      ____) |   <| |_| | | | | |  | | |_| | |_) |
+     |_____/|_|\_\\__,_|_|_| |_|  |_|\__,_|_.__/ 
+                      https://discord.gg/VGW4gkmnBa                       
+                                             
+]]
+
 if Ps_Code or Ps_Generator then
   loadstring(game:HttpGet('https://raw.githubusercontent.com/hungquan99/HungHub/refs/heads/main/API/PsGenerator.lua'))()
   return
