@@ -10,7 +10,10 @@
                       https://discord.gg/VGW4gkmnBa                       
                                              
 ]]
-
+if game.PlaceId == 134381727982611 or game.PlaceId == 113840348235813 then
+       loadstring(game:HttpGet("https://hungquan99.site/v1/script/6b4c37bd-7fdc-4094-877a-fee2eda3515a"))() -- Evomon
+       return
+end
 if Ps_Code or Ps_Generator then
   loadstring(game:HttpGet('https://raw.githubusercontent.com/hungquan99/HungHub/refs/heads/main/API/PsGenerator.lua'))()
   return
