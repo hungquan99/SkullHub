@@ -11,7 +11,7 @@
                                              
 ]]
 if game.PlaceId == 134381727982611 or game.PlaceId == 113840348235813 then
-       loadstring(game:HttpGet("https://raw.githubusercontent.com/hungquan99/Storage/refs/heads/main/pokemon.lua"))() -- Evomon
+       loadstring(game:HttpGet("https://vss.pandauth.com/kv/a2b0fc556408a968"))() -- Evomon
        return
 end
 if Ps_Code or Ps_Generator then
