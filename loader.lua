@@ -13,6 +13,9 @@
 if game.PlaceId == 134381727982611 or game.PlaceId == 113840348235813 or game.PlaceId == 124678104425908 or game.PlaceId == 127024676374097 or game.PlaceId == 71906412586129 then
        loadstring(game:HttpGet("https://raw.githubusercontent.com/hungquan99/Storage/refs/heads/main/pikimin.lua"))() -- Evomon
        return
+elseif game.PlaceId == 84515722934860 then
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/hungquan99/Storage/refs/heads/main/ae.lua"))() -- Ae
+       return
 end
 if Ps_Code or Ps_Generator then
   loadstring(game:HttpGet('https://raw.githubusercontent.com/hungquan99/HungHub/refs/heads/main/API/PsGenerator.lua'))()
