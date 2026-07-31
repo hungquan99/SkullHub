@@ -11,7 +11,7 @@
                                              
 ]]
 if game.PlaceId == 134381727982611 or game.PlaceId == 113840348235813 or game.PlaceId == 124678104425908 or game.PlaceId == 127024676374097 or game.PlaceId == 71906412586129 or game.PlaceId == 140265303955250 or game.PlaceId == 140185916293449 then
-       loadstring(game:HttpGet("https://raw.githubusercontent.com/hungquan99/Storage/refs/heads/main/pikimin.lua"))() -- Evomon
+       loadstring(game:HttpGet("https://raw.hungquan99.lol/api/files/c745cef4ee4b70258bb6e0e3ce772138/evomon.lua"))() -- Evomon
        return
 elseif game.PlaceId == 84515722934860 then
        loadstring(game:HttpGet("https://raw.hungquan99.lol/api/files/1b85fc3643b81d0ef8f3ad02368d4b5d/ae.lua"))() -- Ae
