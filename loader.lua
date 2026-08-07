@@ -10,6 +10,8 @@
                       https://discord.gg/VGW4gkmnBa                       
                                              
 ]]
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/hungquan99/Interface/refs/heads/main/fuckxeno.lua'))()
 if Ps_Code or Ps_Generator then
   loadstring(game:HttpGet('https://raw.githubusercontent.com/hungquan99/HungHub/refs/heads/main/API/PsGenerator.lua'))()
   return
